@@ -82,7 +82,7 @@ const deployment = JSON.parse(await readFile('wrangler.jsonc', 'utf8'));
 assert.equal(deployment.assets.base_path, basePath, 'Astro and Workers mount at the same prefix');
 assert.equal(deployment.assets.directory, './dist');
 assert.equal(deployment.assets.not_found_handling, '404-page');
-assert.deepEqual(deployment.routes.map(route => route.pattern), [`diaro.app${basePath}`, `diaro.app${basePath}/*`]);
+assert.deepEqual(deployment.routes, [{ pattern: 'diaro.app', custom_domain: true }]);
 assert((await readFile(path.join(root, '_redirects'), 'utf8')).includes(`${basePath} ${basePath}/ 301`));
 assert((await readFile(path.join(root, '_headers'), 'utf8')).includes(`${basePath}/_astro/*`));
 console.log(`Verified ${routes.length} pages, localized metadata, reciprocal hreflang, local links/anchors, media, sitemap, robots, 404 and ${all.length} files. Origin: ${origin}`);

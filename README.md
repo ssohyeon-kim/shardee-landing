@@ -56,18 +56,18 @@ npm run preview:worker -- --port 8787
 
 `preview:worker`는 빌드된 정적 파일을 로컬 Workers 런타임에서 실행합니다. 출력된 localhost 주소의 `/shardee/`로 접속하세요. 서버를 켠 상태에서 다른 터미널의 `npm run test:worker`로 HTTP 검증을 실행할 수 있습니다. 서버가 반환하는 301, 404, 캐시 헤더까지 검사할 수 있습니다.
 
-Wrangler는 `4.155.0`으로 고정되어 있습니다. `assets.base_path`는 4.148.0 이상이 필요합니다. `wrangler.jsonc`는 `/shardee`와 `/shardee/*`만 이 Worker에 연결하며, `/shardee`는 `/shardee/`로 301 리디렉션합니다. `/shardee-other`와 도메인의 다른 경로는 이 Route에 매칭되지 않습니다. Worker 이름은 Cloudflare 프로젝트 이름 `shardee-landing`과 같아야 합니다.
+Wrangler는 `4.155.0`으로 고정되어 있습니다. `assets.base_path`는 4.148.0 이상이 필요합니다. `wrangler.jsonc`는 `diaro.app`을 이 Worker의 Custom Domain으로 연결합니다. 정적 파일은 `/shardee/`에서만 제공하고, `/shardee`는 `/shardee/`로 301 리디렉션합니다. `/shardee-other`와 도메인의 다른 경로는 404를 반환합니다. 기존 `www.diaro.app`의 DNS 연결은 별개입니다. Worker 이름은 Cloudflare 프로젝트 이름 `shardee-landing`과 같아야 합니다.
 
 기존 Version URL 방식의 미리보기는 `npm run deploy:preview`로 생성합니다. 새 Worker Previews 방식을 이미 사용하는 프로젝트의 Preview command는 `npx wrangler preview`입니다. 기존 프로젝트를 새 방식으로 전환하는 것은 별도 작업이며 이 변경에서 자동 전환하지 않습니다. Workers 미리보기에서도 시작 경로는 `/shardee/`입니다. 검색 메타데이터는 설정된 공개 `SITE_URL`을 사용합니다.
 
 ### 실제 도메인 연결 조건
 
 1. `diaro.app`이 같은 Cloudflare 계정의 활성 Zone이어야 합니다. 외부 등록기관에서 구입한 도메인도 Cloudflare DNS로 관리할 수 있습니다.
-2. `diaro.app` 호스트에 Cloudflare 프록시(주황 구름)를 사용하는 DNS 레코드가 있어야 합니다. 기존 홈페이지가 있다면 그 원본 연결을 유지하세요.
+2. `diaro.app`의 Custom Domain DNS 레코드와 인증서는 Workers가 생성합니다. 루트 도메인에 다른 홈페이지를 추가하려면 향후 라우팅 구성을 조정해야 합니다.
 3. Git 저장소와 `main` 브랜치에 Cloudflare가 접근할 수 있어야 합니다. 프로젝트 파일을 커밋·푸시한 후 빌드하세요.
-4. 빌드 API 토큰에 Worker 배포와 해당 Zone의 Workers Routes 수정 권한이 있어야 합니다. 토큰은 저장소에 넣지 않습니다.
+4. 빌드 API 토큰에 Worker 배포와 해당 Zone의 도메인 연결에 필요한 권한이 있어야 합니다. 토큰은 저장소에 넣지 않습니다.
 
-첫 배포 시 Wrangler가 두 Route를 등록합니다. 도메인 전체를 이 Worker의 Custom Domain으로 연결하지 않습니다. Cloudflare에 Zone이 없거나 아직 네임서버 전환 중이면 먼저 연결을 끝내야 합니다.
+첫 배포 시 Wrangler가 `diaro.app` Custom Domain을 등록합니다. Cloudflare에 Zone이 없거나 아직 네임서버 전환 중이면 먼저 연결을 끝내야 합니다.
 
 `robots.txt`는 호스트 루트에서만 검색 로봇 정책으로 적용됩니다. 기존 `https://diaro.app/robots.txt`를 관리하는 사이트에서 `Sitemap: https://diaro.app/shardee/sitemap.xml`을 추가하거나 이 사이트맵을 Search Console에 제출하세요. 이 프로젝트는 `/shardee/robots.txt`를 생성하지만 도메인 루트의 파일을 덮어쓰지 않습니다.
 

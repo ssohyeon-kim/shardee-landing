@@ -5,8 +5,7 @@
   "workers_dev": true,
   "preview_urls": true,
   "routes": [
-    { "pattern": "diaro.app/shardee", "zone_name": "diaro.app" },
-    { "pattern": "diaro.app/shardee/*", "zone_name": "diaro.app" }
+    { "pattern": "diaro.app", "custom_domain": true }
   ],
   "assets": {
     "directory": "./dist",
