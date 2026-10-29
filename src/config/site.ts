@@ -1,3 +1,4 @@
+import { withBase } from '../lib/paths';
 export const site = {
   brand: 'Shardee',
   koreanName: '샤디',
@@ -7,7 +8,7 @@ export const site = {
     apple: 'https://apps.apple.com/kr/app/id6739505769',
     google: 'https://play.google.com/store/apps/details?id=com.shardee.aos',
   },
-  links: { home: '/', faq: '/faq/', privacy: '/privacy/', terms: '/terms/' },
+  links: { home: withBase('/'), faq: withBase('/faq/'), privacy: withBase('/privacy/'), terms: withBase('/terms/') },
   business: {
     name: '디아로', registration: '308-13-16385', commerce: '제2025-서울강남-02765호',
     representative: '김소현', privacyOfficer: '김소현',

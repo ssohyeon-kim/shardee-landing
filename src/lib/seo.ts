@@ -1,6 +1,7 @@
 import { site } from '../config/site';
 import { getStoreLinks } from '../config/stores';
 import { localizedPath, pageTitle, t, type Locale, type Page } from '../i18n';
+import { withBase } from './paths';
 export interface PageDetails {
   locale: Locale; page: Page; title: string; description: string; canonicalPath: string;
   updated?: string; version?: string;
@@ -10,7 +11,7 @@ export interface PageDetails {
 export function structuredData(origin: URL, details: PageDetails) {
   const { locale, page, title, description, canonicalPath, updated, version, questions, sections } = details;
   const absolute = (path: string) => new URL(path, origin).href;
-  const root = absolute('/');
+  const root = absolute(withBase('/'));
   const url = absolute(canonicalPath);
   const organization = `${root}#organization`;
   const website = `${root}#website`;
@@ -37,7 +38,7 @@ export function structuredData(origin: URL, details: PageDetails) {
       { '@type': 'WebSite', '@id': website, name: '샤디 Shardee', url: root, inLanguage: ['ko','en','ja','zh-Hant','zh-Hans'], publisher: { '@id': organization } },
       { '@type': 'SoftwareApplication', '@id': app, name: 'Shardee', alternateName: '샤디', url: absolute(localizedPath(locale)), description: ui.meta.homeDescription,
         applicationCategory: 'MultimediaApplication', operatingSystem: 'iOS, Android',
-        image: absolute('/brand/app-icon.jpg'), downloadUrl: [stores.apple, stores.google],
+        image: absolute(withBase('/brand/app-icon.jpg')), downloadUrl: [stores.apple, stores.google],
         publisher: { '@id': organization }, sameAs: [stores.apple, stores.google] },
       pageNode,
       ...(page !== 'home' ? [{ '@type': 'BreadcrumbList', '@id': `${url}#breadcrumb`, itemListElement: [

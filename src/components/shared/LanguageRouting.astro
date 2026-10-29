@@ -1,8 +1,9 @@
 ---
 import { localeFromPath, pageFromPath } from '../../i18n';
+import { basePath } from '../../lib/paths';
 interface Props { page?: string }
 ---
-<meta name="site-locale-route" content={JSON.stringify({ locale: localeFromPath(Astro.url.pathname), page: Astro.props.page || pageFromPath(Astro.url.pathname) })} />
+<meta name="site-locale-route" content={JSON.stringify({ basePath, locale: localeFromPath(Astro.url.pathname), page: Astro.props.page || pageFromPath(Astro.url.pathname) })} />
 <script is:inline id="locale-routing">
   (() => {
     const route = JSON.parse(document.querySelector('meta[name="site-locale-route"]').content);
@@ -25,7 +26,7 @@ interface Props { page?: string }
     // Explicit language paths are stable. Only aliases and ?lang= requests redirect.
     if (!route.locale || forced) {
       if (route.page === '404') return;
-      const target = `/${preferred}/${route.page === 'home' ? '' : route.page + '/'}`;
+      const target = `${route.basePath}/${preferred}/${route.page === 'home' ? '' : route.page + '/'}`;
       if (forced) url.searchParams.delete('lang');
       if (url.pathname !== target || forced) {
         url.pathname = target;

@@ -1,8 +1,9 @@
 ---
 import { locales, localizedPath, aliasPath, ogLocales, t } from '../../i18n';
 import { structuredData, serializeJsonLd, type PageDetails } from '../../lib/seo';
+import { withBase } from '../../lib/paths';
 export interface Props extends PageDetails { ogImage?: string; noindex?: boolean }
-const { title, description, canonicalPath, locale, page, ogImage = '/brand/og.png', noindex = false } = Astro.props;
+const { title, description, canonicalPath, locale, page, ogImage = withBase('/brand/og.png'), noindex = false } = Astro.props;
 const origin = Astro.site!;
 const fullTitle = title.includes('Shardee') ? title : `${title} | Shardee`;
 const url = new URL(canonicalPath, origin).href;

@@ -5,6 +5,7 @@ import Header from '../components/shared/Header.astro';
 import Footer from '../components/shared/Footer.astro';
 import LanguageRouting from '../components/shared/LanguageRouting.astro';
 import { localeFromPath, pageFromPath, t } from '../i18n';
+import { withBase } from '../lib/paths';
 import type { Props as SeoProps } from '../components/shared/Seo.astro';
 interface Props extends Omit<SeoProps, 'locale' | 'page'> { locale?: SeoProps['locale']; page?: SeoProps['page'] }
 const locale = Astro.props.locale || localeFromPath(Astro.url.pathname) || 'ko';
@@ -19,8 +20,8 @@ const ui = t(locale);
     <meta name="theme-color" content="#151618" />
     <Seo {...Astro.props} locale={locale} page={page} />
     <LanguageRouting page={page} />
-    <link rel="icon" type="image/png" href="/brand/favicon.png" />
-    <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" href={withBase('/brand/favicon.png')} />
+    <link rel="apple-touch-icon" href={withBase('/brand/apple-touch-icon.png')} />
     <slot name="head" />
   </head>
   <body>

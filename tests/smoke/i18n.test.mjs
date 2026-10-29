@@ -2,6 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import vm from 'node:vm';
+import { basePath } from '../../deployment.config.mjs';
 const locales = ['ko','en','ja','zh-Hant','zh-Hans'];
 const pages = ['', 'faq/', 'privacy/', 'terms/'];
 const read = path => readFile(path, 'utf8');
@@ -45,7 +46,7 @@ test('all 20 localized pages have coherent entities, links, locale metadata and 
       const footer = html.match(/<footer\b[\s\S]*?<\/footer>/)[0];
       assert(!/ssohyeonkim@gmail.com|hjin9a@naver.com/.test(footer));
       assert(footer.includes('mailto:untitledshatter@gmail.com'));
-      for (const target of ['faq/','privacy/','terms/']) assert(footer.includes(`href="/${locale}/${target}"`));
+      for (const target of ['faq/','privacy/','terms/']) assert(footer.includes(`href="${basePath}/${locale}/${target}"`));
       if (page) assert(data.some(node => node['@type'] === 'BreadcrumbList'));
       if (['privacy/','terms/'].includes(page)) {
         const count = page === 'privacy/' ? 13 : 16;
@@ -114,26 +115,26 @@ test('translations preserve UI shape, source FAQ identity and the full legal HTM
 test('forced query overrides route, while explicit locale URLs stay stable and aliases use saved/browser language', async () => {
   const html = await read('dist/index.html');
   const script = html.match(/<script\b[^>]*id="locale-routing"[^>]*>([\s\S]*?)<\/script>/)[1];
-  const run = ({url='https://site.test/',locale,page='home',languages=['ko'],saved,denied=false}) => {
+  const run = ({url=`https://site.test${basePath}/`,locale,page='home',languages=['ko'],saved,denied=false}) => {
     const stored = new Map(saved ? [['shardee-locale',saved]] : []);
     let destination;
     const context = { URL, navigator: { languages },
-      document: { querySelector: () => ({content:JSON.stringify({locale,page})}) },
+      document: { querySelector: () => ({content:JSON.stringify({basePath,locale,page})}) },
       location: { href:url, replace: value => {destination=value;} },
       localStorage: {getItem:key=> {if(denied)throw Error();return stored.get(key);},setItem:(key,value)=>{if(denied)throw Error();stored.set(key,value);}},
     };
     vm.runInNewContext(script,context);
     return {destination,saved:stored.get('shardee-locale')};
   };
-  assert.deepEqual(run({url:'https://site.test/privacy/?lang=en&ref=test#section-11',page:'privacy'}),{destination:'/en/privacy/?ref=test#section-11',saved:'en'});
-  assert.equal(run({url:'https://site.test/ja/terms/?lang=zh-TW',locale:'ja',page:'terms'}).destination,'/zh-Hant/terms/');
-  assert.equal(run({url:'https://site.test/en/?lang=ko',locale:'en'}).destination,'/ko/');
-  assert.equal(run({url:'https://site.test/ja/',locale:'ja',languages:['en'],saved:'ko'}).destination,undefined);
-  assert.equal(run({languages:['fr','zh-TW']}).destination,'/zh-Hant/');
-  assert.equal(run({languages:['zh-CN']}).destination,'/zh-Hans/');
-  assert.equal(run({languages:['fr']}).destination,'/ko/');
-  assert.equal(run({languages:['en'],saved:'ja'}).destination,'/ja/');
-  assert.equal(run({languages:['en'],saved:'ja',denied:true}).destination,'/en/');
-  assert.equal(run({url:'https://site.test/?lang=en-GB'}).destination,'/en/');
-  assert.equal(run({url:'https://site.test/missing/',page:'404'}).destination,undefined);
+  assert.deepEqual(run({url:`https://site.test${basePath}/privacy/?lang=en&ref=test#section-11`,page:'privacy'}),{destination:`${basePath}/en/privacy/?ref=test#section-11`,saved:'en'});
+  assert.equal(run({url:`https://site.test${basePath}/ja/terms/?lang=zh-TW`,locale:'ja',page:'terms'}).destination,`${basePath}/zh-Hant/terms/`);
+  assert.equal(run({url:`https://site.test${basePath}/en/?lang=ko`,locale:'en'}).destination,`${basePath}/ko/`);
+  assert.equal(run({url:`https://site.test${basePath}/ja/`,locale:'ja',languages:['en'],saved:'ko'}).destination,undefined);
+  assert.equal(run({languages:['fr','zh-TW']}).destination,`${basePath}/zh-Hant/`);
+  assert.equal(run({languages:['zh-CN']}).destination,`${basePath}/zh-Hans/`);
+  assert.equal(run({languages:['fr']}).destination,`${basePath}/ko/`);
+  assert.equal(run({languages:['en'],saved:'ja'}).destination,`${basePath}/ja/`);
+  assert.equal(run({languages:['en'],saved:'ja',denied:true}).destination,`${basePath}/en/`);
+  assert.equal(run({url:`https://site.test${basePath}/?lang=en-GB`}).destination,`${basePath}/en/`);
+  assert.equal(run({url:`https://site.test${basePath}/missing/`,page:'404'}).destination,undefined);
 });

@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "shardee-landing",
+  "compatibility_date": "2026-10-29",
+  "workers_dev": true,
+  "preview_urls": true,
+  "routes": [
+    { "pattern": "diaro.app/shardee", "zone_name": "diaro.app" },
+    { "pattern": "diaro.app/shardee/*", "zone_name": "diaro.app" }
+  ],
+  "assets": {
+    "directory": "./dist",
+    "base_path": "/shardee",
+    "html_handling": "force-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

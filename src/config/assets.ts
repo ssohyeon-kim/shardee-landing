@@ -1,4 +1,5 @@
 import type { ImageMetadata } from 'astro';
+import { withBase } from '../lib/paths';
 import hero from '../assets/hero.png';
 import capture from '../assets/capture.jpg';
 import edit from '../assets/edit.webp';
@@ -42,4 +43,4 @@ export const assets = {
 } satisfies Record<'hero' | 'capture' | 'edit' | 'save', ImageAsset>;
 
 /** Local H.264 conversion of the original animated cover. */
-export const heroVideo = { src: '/media/hero.mp4' } as const;
+export const heroVideo = { src: withBase('/media/hero.mp4') } as const;

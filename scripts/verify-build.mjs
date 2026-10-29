@@ -1,6 +1,7 @@
 import { readdir, readFile, stat } from 'node:fs/promises';
 import path from 'node:path';
 import assert from 'node:assert/strict';
+import { basePath } from '../deployment.config.mjs';
 const root = path.resolve('dist');
 const locales = ['ko','en','ja','zh-Hant','zh-Hans'];
 const pagePaths = ['', 'faq/', 'privacy/', 'terms/'];
@@ -37,7 +38,7 @@ for (const route of [...routes, ...aliases]) {
   origin ||= url.origin;
   assert.equal(url.origin, origin, 'consistent canonical origin');
   const canonicalPath = aliases.includes(route) ? `/ko${route}` : route;
-  assert.equal(url.pathname,canonicalPath);
+  assert.equal(url.pathname,`${basePath}${canonicalPath}`);
   if (!aliases.includes(route)) {
     const title = html.match(/<title>([^<]+)<\/title>/)[1];
     const description = html.match(/<meta name="description" content="([^"]+)"/)[1];
@@ -49,16 +50,18 @@ for (const route of [...routes, ...aliases]) {
     const alternate = html.match(new RegExp(`<link rel="alternate" hreflang="${language}" href="([^"]+)"`));
     assert(alternate, `${route}: ${language} hreflang`);
     const expected = language === 'x-default' ? '/' + canonicalPath.split('/').slice(2).join('/') : '/' + language + '/' + canonicalPath.split('/').slice(2).join('/');
-    assert.equal(new URL(alternate[1]).pathname, expected);
+    assert.equal(new URL(alternate[1]).pathname, `${basePath}${expected}`);
     assert.equal(new URL(alternate[1]).origin, origin);
   }
   assert(html.includes(`property="og:url" content="${canonical}"`));
   assert(!/name="robots" content="noindex/.test(html), `${route}: not accidentally noindex`);
-  for (const match of html.matchAll(/\b(?:href|src|poster)="([^"]+)"/g)) {
-    const value = decode(match[1]);
+  const references = [...html.matchAll(/\b(?:href|src|poster|data-src)="([^"]+)"/g)].map(match => decode(match[1]));
+  references.push(...[...html.matchAll(/\bsrcset="([^"]+)"/g)].flatMap(match => decode(match[1]).split(',').map(candidate => candidate.trim().split(/\s+/)[0])));
+  for (const value of references) {
     if (/^(?:https?:|mailto:|data:)/.test(value)) continue;
-    const target = new URL(value, `http://local${route}`);
-    let local = path.join(root,decodeURIComponent(target.pathname));
+    const target = new URL(value, `http://local${basePath}${route}`);
+    assert(target.pathname.startsWith(`${basePath}/`), `${route}: reference outside site prefix: ${value}`);
+    let local = path.join(root,decodeURIComponent(target.pathname.slice(basePath.length)));
     if (target.pathname.endsWith('/')) local = path.join(local,'index.html');
     await stat(local).catch(() => assert.fail(`${route}: missing local link/asset ${value}`));
     if (target.hash && /\.html$/.test(local)) {
@@ -69,10 +72,17 @@ for (const route of [...routes, ...aliases]) {
 }
 const sitemap = await readFile(path.join(root,'sitemap.xml'),'utf8');
 assert.equal((sitemap.match(/<loc>/g)||[]).length,20);
-for(const route of routes) assert(sitemap.includes(`<loc>${origin}${route}</loc>`));
+for(const route of routes) assert(sitemap.includes(`<loc>${origin}${basePath}${route}</loc>`));
 assert(!sitemap.includes('/404'));
 for (const locale of locales) assert((await readFile(path.join(root,locale,'404/index.html'),'utf8')).includes('noindex'));
-assert((await readFile(path.join(root,'robots.txt'),'utf8')).includes(`${origin}/sitemap.xml`));
+assert((await readFile(path.join(root,'robots.txt'),'utf8')).includes(`${origin}${basePath}/sitemap.xml`));
 assert((await readFile(path.join(root,'404.html'),'utf8')).includes('noindex'));
 assert(!/(?:example\.com|your-domain|TODO|TBD)/.test(sitemap));
+const deployment = JSON.parse(await readFile('wrangler.jsonc', 'utf8'));
+assert.equal(deployment.assets.base_path, basePath, 'Astro and Workers mount at the same prefix');
+assert.equal(deployment.assets.directory, './dist');
+assert.equal(deployment.assets.not_found_handling, '404-page');
+assert.deepEqual(deployment.routes.map(route => route.pattern), [`diaro.app${basePath}`, `diaro.app${basePath}/*`]);
+assert((await readFile(path.join(root, '_redirects'), 'utf8')).includes(`${basePath} ${basePath}/ 301`));
+assert((await readFile(path.join(root, '_headers'), 'utf8')).includes(`${basePath}/_astro/*`));
 console.log(`Verified ${routes.length} pages, localized metadata, reciprocal hreflang, local links/anchors, media, sitemap, robots, 404 and ${all.length} files. Origin: ${origin}`);
