@@ -1,0 +1,33 @@
+{
+  "languageName": "한국어",
+  "brandName": "샤디 Shardee",
+  "nav": { "home": "홈", "homeLabel": "shardee. 샤디 홈", "faq": "자주 묻는 질문", "download": "다운로드", "language": "언어 선택", "skip": "본문 바로가기" },
+  "meta": {
+    "homeTitle": "샤디 Shardee — 짧은 동영상 메이커, 1초 카메라 앱",
+    "homeDescription": "샤디는 짧은 동영상을 촬영하고 이어 붙여 나만의 이야기를 만드는 1초 카메라 앱입니다. iOS와 Android에서 다운로드하세요.",
+    "faqTitle": "샤디 자주 묻는 질문 — 촬영·편집·저장·환불",
+    "faqDescription": "샤디 Shardee의 요금, 프리미엄 기능, 짧은 영상 촬영, 편집과 저장, 구매 및 환불에 관한 18개 질문과 답변을 확인하세요.",
+    "privacyTitle": "개인정보 처리방침",
+    "privacyDescription": "샤디 Shardee 개인정보 처리방침 v1.3.2 전문. 수집 정보, 이용 목적, 보관, 제3자 서비스, 이용자 권리와 문의처를 확인하세요. 시행일 2026-10-14.",
+    "termsTitle": "이용약관",
+    "termsDescription": "샤디 Shardee 이용약관 전문. 서비스 이용 조건, 사용자 콘텐츠, 인앱 구매와 환불, 이용자 권리와 책임을 확인하세요. 최종 업데이트 2026-10-01.",
+    "imageAlt": "샤디 — 짧은 동영상을 찍고 이어 붙이는 1초 카메라 앱"
+  },
+  "home": {
+    "accessibleTitle": "짧은 동영상 메이커, 1초 카메라 샤디 Shardee",
+    "lead": "단 한 번의 셔터로 담은 1초.",
+    "description": ["소중한 순간을 이어", "나만의 이야기를 만들어요."],
+    "pause": "소개 영상 일시정지", "play": "소개 영상 재생", "pauseText": "일시정지", "playText": "재생",
+    "features": [
+      { "category": "촬영", "title": ["셔터 한 번으로 찍는", "짧은 영상"], "description": "찍고 싶은 순간을 빠르게 촬영할 수 있어요. 간단한 셔터 클릭 한 번으로 1초짜리 동영상을 촬영하여 짧은 시간을 찍는 새로운 카메라를 경험해 보세요.", "alt": "샤디 카메라에서 셔터 한 번으로 카페의 순간을 짧게 촬영하는 화면" },
+      { "category": "편집", "title": ["깔끔하고 간결한", "쉬운 편집"], "description": "복잡하고 어려운 편집은 이제 그만! 깔끔하고 간결하게 여러 개의 짧은 영상을 그대로 붙이고 만들 수 있어요. 쉽고 간편하게 영상을 이어 붙여보세요.", "alt": "여러 짧은 영상을 선택하고 순서대로 이어 붙이는 샤디 편집 화면" },
+      { "category": "저장", "title": ["보고 또 봐도 재밌는", "나의 이야기"], "description": "여행지에서 혹은 귀여운 반려동물의 모습, 아이가 자라는 모습, 운동의 기록, 공유하고 싶은 맛집과 카페, 소중한 나의 취향을 가득 담아 보세요. 계속 봐도 재밌는 나의 이야기를 만들어요.", "alt": "식사와 산책, 여행지의 순간을 연결해 저장한 나만의 영상 이야기" }
+    ],
+    "downloadEyebrow": "1초씩 모이는 나의 일상", "downloadTitle": ["여러분들의 순간을", "저장하세요."], "downloadDescription": "지금 바로 샤디와 함께 시작해 보세요.", "faqLink": "샤디에 대해 궁금한 점이 있나요?"
+  },
+  "stores": { "apple": "App Store에서 샤디 다운로드", "google": "Google Play에서 샤디 다운로드" },
+  "faq": { "title": "샤디 자주 묻는 질문", "lead": "촬영부터 편집, 저장과 구매까지 궁금한 점을 확인하세요.", "notices": "사용 전 확인해 주세요", "categories": "자주 묻는 질문 분류", "all": "자주 묻는 질문 전체", "contactTitle": "아직 궁금한 점이 있나요?", "contactDescription": "궁금한 점이 있거나 아이디어를 제안하고 싶다면 언제든지 연락주세요." },
+  "document": { "updated": "최종 업데이트", "toc": "목차", "fullText": "전문", "backToTop": "문서 처음으로", "translationNote": "" },
+  "footer": { "tagline": "당신의 순간이, 하나의 이야기로.", "navigation": "사이트 안내", "privacy": "개인정보 처리방침", "terms": "이용약관", "contact": ["Shardee를 만드는 팀이 궁금하다면", "여기로 연락주세요."], "business": "상호", "registration": "사업자등록번호", "commerce": "통신판매업신고번호", "representative": "대표", "privacyOfficer": "개인정보보호책임자", "contacts": "담당자", "address": "서울특별시 강남구 테헤란로70길 12, 402-401A호(대치동, H타워)" },
+  "error": { "title": "페이지를 찾을 수 없어요", "description": "주소가 바뀌었거나 존재하지 않는 페이지예요.", "home": "샤디 홈으로 돌아가기" }
+}

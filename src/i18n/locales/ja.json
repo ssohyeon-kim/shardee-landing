@@ -1,0 +1,33 @@
+{
+  "languageName": "日本語",
+  "brandName": "Shardee",
+  "nav": { "home": "ホーム", "homeLabel": "shardee. Shardee ホーム", "faq": "よくある質問", "download": "ダウンロード", "language": "言語を選択", "skip": "本文へ移動" },
+  "meta": {
+    "homeTitle": "Shardee — 短い動画をつなぐ、1秒カメラアプリ",
+    "homeDescription": "Shardeeは短い動画を撮影し、つなぎ合わせて自分だけの物語を作る1秒カメラアプリです。iOSとAndroidでダウンロードできます。",
+    "faqTitle": "Shardee よくある質問 — 撮影・編集・保存・返金",
+    "faqDescription": "Shardeeの料金、プレミアム機能、短い動画の撮影、編集と保存、購入と返金について、18の質問と回答をご覧ください。",
+    "privacyTitle": "プライバシーポリシー",
+    "privacyDescription": "Shardee プライバシーポリシー v1.3.2の全文。収集する情報、利用目的、保管、第三者サービス、利用者の権利、お問い合わせ先をご確認ください。施行日：2026-10-14。",
+    "termsTitle": "利用規約",
+    "termsDescription": "Shardee 利用規約の全文。サービスの利用条件、ユーザーコンテンツ、アプリ内購入と返金、利用者の権利と責任をご確認ください。最終更新日：2026-10-01。",
+    "imageAlt": "Shardee — 短い動画を撮ってつなぐ1秒カメラアプリ"
+  },
+  "home": {
+    "accessibleTitle": "短い動画をつなぐ1秒カメラ Shardee",
+    "lead": "シャッターひとつで切り取る1秒。",
+    "description": ["大切な瞬間をつないで、", "自分だけの物語に。"],
+    "pause": "紹介動画を一時停止", "play": "紹介動画を再生", "pauseText": "一時停止", "playText": "再生",
+    "features": [
+      { "category": "撮影", "title": ["シャッターひとつで撮る", "短い動画"], "description": "残したい瞬間をすばやく撮影できます。シャッターを1回押すだけで1秒の動画を撮れる、短い時間を切り取る新しいカメラを体験してください。", "alt": "Shardeeのカメラでシャッターを1回押し、カフェでの瞬間を短い動画に撮影する画面" },
+      { "category": "編集", "title": ["すっきりシンプルな", "かんたん編集"], "description": "複雑で難しい編集はもう不要。いくつもの短い動画をそのままつなげて、すっきりシンプルに仕上げられます。手軽に動画をつないでみましょう。", "alt": "複数の短い動画を選択し、順番につなぎ合わせるShardeeの編集画面" },
+      { "category": "保存", "title": ["何度見ても楽しい", "自分だけの物語"], "description": "旅先の風景、かわいいペット、子どもの成長、運動の記録、誰かに教えたいお店やカフェ。大切な自分の好きを詰め込んで、何度見ても楽しい物語を作りましょう。", "alt": "食事や散歩、旅先の瞬間をつなぎ、保存した自分だけの動画の物語" }
+    ],
+    "downloadEyebrow": "1秒ずつ集まる私の日常", "downloadTitle": ["あなたの瞬間を", "残しましょう。"], "downloadDescription": "今すぐShardeeで始めましょう。", "faqLink": "Shardeeについて知りたいことはありますか？"
+  },
+  "stores": { "apple": "App StoreでShardeeをダウンロード", "google": "Google PlayでShardeeをダウンロード" },
+  "faq": { "title": "Shardee よくある質問", "lead": "撮影から編集、保存、購入まで、気になることをご確認ください。", "notices": "ご利用前にご確認ください", "categories": "よくある質問のカテゴリー", "all": "よくある質問のすべて", "contactTitle": "ほかにご不明な点はありますか？", "contactDescription": "ご質問やアイデアのご提案がありましたら、いつでもご連絡ください。" },
+  "document": { "updated": "最終更新日", "toc": "目次", "fullText": "全文", "backToTop": "文書の先頭へ", "translationNote": "韓国語原文からの翻訳です。" },
+  "footer": { "tagline": "あなたの瞬間が、ひとつの物語に。", "navigation": "サイト案内", "privacy": "プライバシーポリシー", "terms": "利用規約", "contact": ["Shardeeを作るチームについてのお問い合わせは", "こちらまでご連絡ください。"], "business": "商号", "registration": "事業者登録番号", "commerce": "通信販売業届出番号", "representative": "代表者", "privacyOfficer": "個人情報保護責任者", "contacts": "担当者", "address": "韓国 ソウル特別市 江南区 テヘラン路70ギル12、402-401A号（大峙洞、Hタワー）" },
+  "error": { "title": "ページが見つかりません", "description": "アドレスが変更されたか、存在しないページです。", "home": "Shardeeのホームに戻る" }
+}

@@ -1,0 +1,113 @@
+{
+  "languageName": "简体中文",
+  "brandName": "Shardee",
+  "nav": {
+    "home": "首页",
+    "homeLabel": "shardee. Shardee 首页",
+    "faq": "常见问题",
+    "download": "下载",
+    "language": "选择语言",
+    "skip": "跳至主要内容"
+  },
+  "meta": {
+    "homeTitle": "Shardee — 短视频制作工具，1 秒相机 App",
+    "homeDescription": "Shardee 是一款 1 秒相机 App，让你拍摄短视频并拼接成自己的故事。立即在 iOS 和 Android 下载。",
+    "faqTitle": "Shardee 常见问题 — 拍摄、编辑、保存与退款",
+    "faqDescription": "查看有关 Shardee 费用、高级功能、短视频拍摄、编辑与保存、购买及退款的 18 个问题与解答。",
+    "privacyTitle": "隐私政策",
+    "privacyDescription": "Shardee 隐私政策 v1.3.2 全文。了解收集的信息、使用目的、保存方式、第三方服务、用户权利及联系方式。生效日期：2026-10-14。",
+    "termsTitle": "使用条款",
+    "termsDescription": "Shardee 使用条款全文。了解服务使用条件、用户内容、App 内购买与退款，以及用户的权利与责任。最后更新：2026-10-01。",
+    "imageAlt": "Shardee — 拍摄并拼接短视频的 1 秒相机 App"
+  },
+  "home": {
+    "accessibleTitle": "短视频制作工具，1 秒相机 Shardee",
+    "lead": "按一次快门，留住 1 秒。",
+    "description": [
+      "串起珍贵的瞬间，",
+      "创作属于自己的故事。"
+    ],
+    "pause": "暂停介绍视频",
+    "play": "播放介绍视频",
+    "pauseText": "暂停",
+    "playText": "播放",
+    "features": [
+      {
+        "category": "拍摄",
+        "title": [
+          "按一次快门，",
+          "拍下短视频"
+        ],
+        "description": "快速拍下想留住的瞬间。只要轻按一次快门，即可拍摄 1 秒视频，体验记录短暂时光的全新相机。",
+        "alt": "在 Shardee 相机中按一次快门，拍下咖啡厅瞬间的界面"
+      },
+      {
+        "category": "编辑",
+        "title": [
+          "清楚简洁，",
+          "轻松编辑"
+        ],
+        "description": "告别复杂难懂的编辑！以清楚简洁的方式，将多段短视频直接拼接起来。轻松、方便地拼接视频吧。",
+        "alt": "在 Shardee 中选取多段短视频并按顺序拼接的编辑界面"
+      },
+      {
+        "category": "保存",
+        "title": [
+          "百看不厌的",
+          "我的故事"
+        ],
+        "description": "旅途中的风景、可爱宠物的模样、孩子的成长、运动记录，或想分享的餐厅与咖啡厅，将珍贵的喜好全都收藏起来。创作百看不厌的专属故事。",
+        "alt": "将用餐、散步与旅行瞬间拼接并保存成自己的视频故事"
+      }
+    ],
+    "downloadEyebrow": "每 1 秒累积的日常",
+    "downloadTitle": [
+      "保存",
+      "你们的瞬间。"
+    ],
+    "downloadDescription": "现在就和 Shardee 一起开始吧。",
+    "faqLink": "想进一步了解 Shardee 吗？"
+  },
+  "stores": {
+    "apple": "从 App Store 下载 Shardee",
+    "google": "从 Google Play 下载 Shardee"
+  },
+  "faq": {
+    "title": "Shardee 常见问题",
+    "lead": "查看有关拍摄、编辑、保存及购买的问题。",
+    "notices": "使用前请先确认",
+    "categories": "常见问题分类",
+    "all": "所有常见问题",
+    "contactTitle": "还有其他问题吗？",
+    "contactDescription": "如果有问题或想提出建议，欢迎随时联系我们。"
+  },
+  "document": {
+    "updated": "最后更新",
+    "toc": "目录",
+    "fullText": "全文",
+    "backToTop": "返回文档顶部",
+    "translationNote": "译自韩文原文。"
+  },
+  "footer": {
+    "tagline": "让你的瞬间，成为一个故事。",
+    "navigation": "网站导航",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "contact": [
+      "想了解制作 Shardee 的团队，",
+      "欢迎通过这里联系我们。"
+    ],
+    "business": "商号",
+    "registration": "营业登记号码",
+    "commerce": "网络销售业申报号码",
+    "representative": "代表",
+    "privacyOfficer": "个人信息保护负责人",
+    "contacts": "联系人",
+    "address": "首尔特别市江南区德黑兰路70街12号，402-401A室（大峙洞，H大楼）"
+  },
+  "error": {
+    "title": "找不到此页面",
+    "description": "网址已变更，或此页面不存在。",
+    "home": "返回 Shardee 首页"
+  }
+}

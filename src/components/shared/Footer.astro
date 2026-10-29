@@ -1,0 +1,40 @@
+---
+import { site } from '../../config/site';
+import { localizedPath, t, type Locale } from '../../i18n';
+interface Props { locale: Locale }
+const { locale } = Astro.props;
+const ui = t(locale);
+---
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div><a class="brand" href={localizedPath(locale)}>shardee.</a><p>{ui.footer.tagline}</p></div>
+      <nav aria-label={ui.footer.navigation}><a href={localizedPath(locale, 'faq')}>{ui.nav.faq}</a><a href={localizedPath(locale, 'privacy')}>{ui.footer.privacy}</a><a href={localizedPath(locale, 'terms')}>{ui.footer.terms}</a></nav>
+    </div>
+    <div class="contact"><p>{ui.footer.contact[0]}<br />{ui.footer.contact[1]}</p><a href={`mailto:${site.email}`}>{site.email} <span aria-hidden="true">↗</span></a></div>
+    <div class="business">
+      <p>{ui.footer.business} {site.business.name} <span aria-hidden="true">·</span> {ui.footer.registration} {site.business.registration}</p>
+      <p>{ui.footer.address}</p>
+      <p>{ui.footer.commerce} {site.business.commerce}</p>
+      <p>{ui.footer.representative} {site.business.representative} <span aria-hidden="true">·</span> {ui.footer.privacyOfficer} {site.business.privacyOfficer}</p>
+      <p>{ui.footer.contacts} {site.business.contacts.map((contact) => contact.name).join(' · ')}</p>
+    </div>
+    <p class="copyright">© {new Date().getFullYear()} {site.brand}. All rights reserved.</p>
+  </div>
+</footer>
+<style>
+  .site-footer { padding: 64px 0 30px; border-top: 1px solid var(--color-border); background: var(--color-surface); }
+  .footer-top { display: flex; justify-content: space-between; gap: 32px; }
+  .brand { font-size: 32px; font-weight: 850; letter-spacing: -.065em; text-decoration: none; }
+  .footer-top p { color: var(--color-muted); margin-top: 8px; }
+  nav { display: flex; gap: 24px; flex-wrap: wrap; align-content: start; }
+  nav a, .contact a { display: inline-flex; align-items: center; min-height: 44px; }
+  nav a { font-size: 14px; text-decoration: none; }
+  .contact { margin: 30px 0; }
+  .contact p { margin-bottom: 4px; }
+  .contact a { gap: 20px; font-weight: 650; }
+  .business, .copyright { color: var(--color-muted); font-size: 12px; }
+  .business p { margin-bottom: 3px; }
+  .copyright { margin: 28px 0 0; }
+  @media (max-width: 700px) { .footer-top { flex-direction: column; gap: 12px; } nav { gap: 6px 20px; } .site-footer { padding-top: 40px; } }
+</style>

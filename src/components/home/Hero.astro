@@ -1,0 +1,88 @@
+---
+import { getImage } from 'astro:assets';
+import StoreButtons from '../shared/StoreButtons.astro';
+import { assets, heroVideo } from '../../config/assets';
+import { t, type Locale } from '../../i18n';
+interface Props { locale?: Locale }
+const { locale = 'ko' } = Astro.props;
+const ui = t(locale);
+const poster = await getImage({ src: assets.hero.image, width: 620, format: 'webp', quality: 85 });
+---
+
+<section class="hero container" aria-labelledby="home-title">
+  <h1 id="home-title" class="visually-hidden">{ui.home.accessibleTitle}</h1>
+  <div class="hero-copy" id="download">
+    <p class="hero-lead">{ui.home.lead}</p>
+    <p class="hero-description">{ui.home.description[0]}<br />{ui.home.description[1]}</p>
+    <StoreButtons locale={locale} />
+  </div>
+  <div class="hero-media">
+    <video
+      class="hero-video"
+      data-hero-video
+      data-src={heroVideo.src}
+      poster={poster.src}
+      width="620"
+      height="300"
+      muted
+      loop
+      playsinline
+      preload="none"
+      aria-hidden="true"
+    ></video>
+    <button class="playback" type="button" data-hero-toggle data-pause={ui.home.pause} data-play={ui.home.play} data-pause-text={ui.home.pauseText} data-play-text={ui.home.playText} hidden aria-label={ui.home.pause}>{ui.home.pauseText} <span aria-hidden="true">Ⅱ</span></button>
+  </div>
+</section>
+
+<script>
+  const video = document.querySelector<HTMLVideoElement>('[data-hero-video]');
+  const button = document.querySelector<HTMLButtonElement>('[data-hero-toggle]');
+  if (video && button) {
+    const motion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    let userPaused = false;
+    const start = () => {
+      if (!video.src) video.src = video.dataset.src!;
+      video.muted = true;
+      video.play().catch(() => { update(); });
+    };
+    const update = () => {
+      button.hidden = false;
+      button.textContent = video.paused ? `${button.dataset.playText} ▷` : `${button.dataset.pauseText} Ⅱ`;
+      button.setAttribute('aria-label', video.paused ? button.dataset.play! : button.dataset.pause!);
+    };
+    video.addEventListener('play', update);
+    video.addEventListener('pause', update);
+    button.addEventListener('click', () => {
+      userPaused = !video.paused;
+      if (video.paused) start(); else video.pause();
+    });
+    const observer = new IntersectionObserver(([entry]) => {
+      if (entry.isIntersecting && !motion.matches && !userPaused) start();
+      else video.pause();
+    });
+    observer.observe(video);
+    motion.addEventListener('change', () => {
+      if (motion.matches) { video.pause(); button.hidden = true; }
+      else if (!userPaused) start();
+    });
+  }
+</script>
+
+<style>
+  .hero { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); align-items: center; gap: clamp(32px, 5vw, 64px); min-height: clamp(440px, 70svh, 740px); padding-block: 80px; }
+  .visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  .hero-copy { min-width: 0; scroll-margin-top: 100px; }
+  .hero-lead { margin: 0 0 14px; font-size: clamp(22px, 2vw, 28px); font-weight: 650; letter-spacing: -.04em; line-height: 1.5; }
+  .hero-description { margin: 0 0 28px; color: var(--color-muted); font-size: 18px; line-height: 1.8; }
+  .hero-media { position: relative; width: 100%; max-width: 620px; justify-self: end; }
+  .hero-video { width: 100%; height: auto; aspect-ratio: 620 / 300; object-fit: contain; }
+  .playback { position: absolute; right: 12px; bottom: 12px; display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 8px 14px; border: 1px solid #ffffff60; border-radius: 99px; color: white; background: #0008; cursor: pointer; font-size: 12px; white-space: nowrap; }
+  .playback[hidden] { display: none; }
+  @media (max-width: 800px) {
+    .hero { grid-template-columns: minmax(0, 1fr); gap: 36px; min-height: 0; padding-block: 56px 64px; }
+    .hero-copy { text-align: center; }
+    .hero-copy :global(.store-buttons) { justify-content: center; }
+    .hero-media { justify-self: center; }
+    .hero-description { font-size: 16px; }
+  }
+</style>

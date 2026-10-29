@@ -1,0 +1,33 @@
+{
+  "languageName": "English",
+  "brandName": "Shardee",
+  "nav": { "home": "Home", "homeLabel": "shardee. Shardee home", "faq": "FAQ", "download": "Download", "language": "Choose a language", "skip": "Skip to content" },
+  "meta": {
+    "homeTitle": "Shardee — A one-second camera for short videos",
+    "homeDescription": "Shardee is a one-second camera app that captures short videos and joins them into your own story. Download it for iOS and Android.",
+    "faqTitle": "Shardee FAQ — Recording, editing, saving and refunds",
+    "faqDescription": "Find answers to 18 questions about Shardee pricing, premium features, recording short videos, editing, saving, purchases and refunds.",
+    "privacyTitle": "Privacy Policy",
+    "privacyDescription": "The full Shardee Privacy Policy v1.3.2: information collected, purposes, retention, third-party services, your rights and contact details. Effective 2026-10-14.",
+    "termsTitle": "Terms of Use",
+    "termsDescription": "The full Shardee Terms of Use: conditions of use, user content, in-app purchases and refunds, and your rights and responsibilities. Last updated 2026-10-01.",
+    "imageAlt": "Shardee — A one-second camera app for recording and joining short videos"
+  },
+  "home": {
+    "accessibleTitle": "Shardee, a one-second camera and short video maker",
+    "lead": "One tap. One second captured.",
+    "description": ["Bring your precious moments together", "and create your own story."],
+    "pause": "Pause the introduction video", "play": "Play the introduction video", "pauseText": "Pause", "playText": "Play",
+    "features": [
+      { "category": "Record", "title": ["Short videos,", "one tap away"], "description": "Quickly capture the moment you want to keep. A single tap of the shutter records a one-second video. Experience a new kind of camera that captures little moments.", "alt": "The Shardee camera recording a brief moment at a café with one tap of the shutter" },
+      { "category": "Edit", "title": ["Simple, uncluttered", "editing"], "description": "Leave complicated editing behind. Join your short videos together in a clean, simple interface. Creating a video is quick and easy.", "alt": "The Shardee editor selecting short videos and joining them in order" },
+      { "category": "Save", "title": ["Your own story,", "worth watching again"], "description": "A trip, your adorable pet, your child growing up, a workout, or a restaurant or café you want to share. Fill your videos with the things you love, and create your own story to enjoy again and again.", "alt": "A personal video story joining moments from a meal, a walk and a trip" }
+    ],
+    "downloadEyebrow": "Everyday life, one second at a time", "downloadTitle": ["Save your", "precious moments."], "downloadDescription": "Start your story with Shardee today.", "faqLink": "Have a question about Shardee?"
+  },
+  "stores": { "apple": "Download Shardee on the App Store", "google": "Download Shardee on Google Play" },
+  "faq": { "title": "Shardee FAQ", "lead": "Find answers about recording, editing, saving and purchases.", "notices": "Before you get started", "categories": "FAQ categories", "all": "All frequently asked questions", "contactTitle": "Still have a question?", "contactDescription": "Get in touch anytime if you have a question or an idea to share." },
+  "document": { "updated": "Last updated", "toc": "Contents", "fullText": "Full text", "backToTop": "Back to the top of the document", "translationNote": "Translated from the Korean original" },
+  "footer": { "tagline": "Your moments, brought together in one story.", "navigation": "Site information", "privacy": "Privacy Policy", "terms": "Terms of Use", "contact": ["Want to know more about the team behind Shardee?", "Get in touch."], "business": "Business name", "registration": "Business registration number", "commerce": "Online sales registration number", "representative": "Representative", "privacyOfficer": "Privacy officer", "contacts": "Contacts", "address": "402-401A, H Tower, 12 Teheran-ro 70-gil, Gangnam-gu, Seoul, Republic of Korea (Daechi-dong)" },
+  "error": { "title": "Page not found", "description": "This page may have moved, or the address may not exist.", "home": "Return to Shardee home" }
+}

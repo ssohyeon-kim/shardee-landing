@@ -1,0 +1,30 @@
+---
+import { localizedPath, t, type Locale, type Page } from '../../i18n';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+interface Props { locale: Locale; page: Page }
+const { locale, page } = Astro.props;
+const ui = t(locale);
+---
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href={localizedPath(locale)} aria-label={ui.nav.homeLabel}>shardee<span aria-hidden="true">.</span></a>
+    <div class="header-actions"><nav aria-label={ui.nav.home}>
+      <a href={localizedPath(locale, 'faq')} aria-current={page === 'faq' ? 'page' : undefined}>{ui.nav.faq}</a>
+      <a class="download-link" aria-label={ui.nav.download} href={`${localizedPath(locale)}#download`}><span class="download-text">{ui.nav.download}</span> <span aria-hidden="true">↗</span></a>
+    </nav><LanguageSwitcher locale={locale} page={page} /></div>
+  </div>
+</header>
+<style>
+  .site-header { border-bottom: 1px solid var(--color-border); background: var(--color-bg); }
+  .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 88px; }
+  .brand { font-size: 30px; font-weight: 850; letter-spacing: -.065em; text-decoration: none; }
+  .brand span { color: var(--color-accent); }
+  .header-actions { display: flex; align-items: center; gap: 16px; }
+  nav { display: flex; align-items: center; gap: 28px; font-size: 14px; font-weight: 650; }
+  nav a { display: inline-flex; align-items: center; min-height: 44px; text-decoration: none; }
+  .download-link { gap: 14px; border-radius: 99px; background: var(--color-text); color: var(--color-bg); padding: 0 20px; }
+  .download-link:hover { color: var(--color-bg); background: var(--color-accent); }
+  @media (max-width: 700px) { nav { gap: 12px; } .header-inner { gap: 10px; } }
+  @media (max-width: 480px) { .header-inner { min-height: 76px; gap: 8px; } .brand { font-size: 26px; } nav { gap: 8px; font-size: 12px; } .header-actions { gap: 8px; } nav > a:first-child { display: none; } .download-link { gap: 6px; padding-inline: 12px; } }
+  @media (max-width: 380px) { .download-text { display: none; } .download-link { min-width: 44px; justify-content: center; padding-inline: 12px; } }
+</style>

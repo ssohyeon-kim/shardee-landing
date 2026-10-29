@@ -1,0 +1,74 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/shared/Breadcrumbs.astro';
+import { t, type Locale } from '../i18n';
+interface Props {
+  locale: Locale;
+  page: 'privacy' | 'terms';
+  title: string;
+  description: string;
+  canonicalPath: string;
+  updated: string;
+  version?: string;
+  toc: { id: string; text: string }[];
+}
+const { locale, page, title, description, canonicalPath, updated, version, toc } = Astro.props;
+const ui = t(locale);
+---
+<BaseLayout title={title} description={description} canonicalPath={canonicalPath} locale={locale} page={page} updated={updated} version={version} sections={toc}>
+  <div class="document container">
+    <header class="document-header">
+      <Breadcrumbs locale={locale} label={title} />
+      <p class="eyebrow">SHARDEE · LEGAL</p>
+      <h1>{title}</h1>
+      <p class="document-meta">{ui.document.updated} <time datetime={updated}>{updated}</time>{version && <> · {version}</>}</p>
+    </header>
+    {locale !== 'ko' && <p class="translation-note">{ui.document.translationNote}</p>}
+    <div class="document-grid">
+      <aside class="document-aside">
+        <nav aria-label={`${title} ${ui.document.toc}`}>
+          <h2 class="toc-title">{ui.document.toc}</h2>
+          <ol role="list">
+            {toc.map(({ id, text }) => <li><a href={`#${id}`}>{text}</a></li>)}
+          </ol>
+        </nav>
+      </aside>
+      <article class="document-body" aria-label={`${title} ${ui.document.fullText}`}>
+        <slot />
+        <a class="top-link" href="#main">{ui.document.backToTop} ↑</a>
+      </article>
+    </div>
+  </div>
+</BaseLayout>
+<style>
+  .document { padding-block: clamp(3rem, 7vw, 6rem) 7rem; }
+  .document-header { border-bottom: 1px solid var(--color-border); padding-bottom: 2.5rem; margin-bottom: 2.5rem; }
+  .back-link { display: inline-flex; align-items: center; min-height: 44px; margin-bottom: 2rem; color: var(--color-muted); text-decoration: none; }
+  .eyebrow { color: var(--color-muted); font-size: .8rem; letter-spacing: .13em; margin-bottom: 1rem; }
+  h1 { margin: 0; font-size: clamp(2rem, 6vw, 3.5rem); line-height: 1.2; letter-spacing: -.045em; overflow-wrap: anywhere; }
+  .document-meta { color: var(--color-muted); margin-top: 1.25rem; }
+  .translation-note { color: var(--color-muted); font-size: 14px; margin-bottom: 32px; }
+  .document-grid { display: grid; grid-template-columns: minmax(11rem, 16rem) minmax(0, 46rem); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .document-aside { position: sticky; top: 6rem; }
+  .toc-title { margin: 0 0 1rem; font-size: 1rem; }
+  .document-aside ol { list-style: none; padding: 0; margin: 0; }
+  .document-aside a { color: var(--color-muted); display: block; padding-block: .7rem; font-size: .9rem; line-height: 1.5; text-decoration: none; overflow-wrap: anywhere; }
+  .document-aside a:hover { color: var(--color-text); text-decoration: underline; }
+  .document-body { min-width: 0; font-size: 1rem; line-height: 1.9; overflow-wrap: anywhere; }
+  .document-body :global(h2) { font-size: 1.45rem; line-height: 1.5; margin: 3rem 0 1.25rem; letter-spacing: -.025em; scroll-margin-top: 7rem; }
+  .document-body :global(h3) { font-size: 1.12rem; line-height: 1.5; margin: 2rem 0 1rem; scroll-margin-top: 7rem; }
+  .document-body :global(p) { margin: 0 0 1.2rem; }
+  .document-body :global(ul) { margin: .5rem 0; padding-left: 1.4rem; }
+  .document-body :global(li) { padding-left: .2rem; }
+  .document-body :global(a) { color: inherit; text-decoration: underline; text-underline-offset: .22em; }
+  .document-body :global(blockquote) { margin: 1.5rem 0; padding: 1rem 1.25rem; border-left: 3px solid var(--color-accent); background: color-mix(in srgb, var(--color-text) 4%, transparent); }
+  .document-body :global(blockquote p) { margin-bottom: 0; }
+  .top-link { display: inline-flex; align-items: center; min-height: 44px; margin-top: 3rem; }
+  @media (max-width: 800px) {
+    .translation-note { color: var(--color-muted); font-size: 14px; margin-bottom: 32px; }
+  .document-grid { grid-template-columns: minmax(0, 1fr); gap: 2.5rem; }
+    .document-aside { position: static; border-bottom: 1px solid var(--color-border); padding-bottom: 1.5rem; }
+    .document-aside ol { columns: 2 13rem; column-gap: 1.5rem; }
+    .document-aside li { break-inside: avoid; }
+  }
+</style>

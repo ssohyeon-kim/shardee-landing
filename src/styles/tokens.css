@@ -1,0 +1,10 @@
+:root {
+  --color-bg: #151618;
+  --color-text: #f8f8f8;
+  --color-muted: #b5b4b0;
+  --color-accent: #e8cba7;
+  --color-border: #373739;
+  --color-surface: #1d1e20;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+  --container-width: 1120px;
+}

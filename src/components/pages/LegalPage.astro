@@ -1,0 +1,16 @@
+---
+import DocumentLayout from '../../layouts/DocumentLayout.astro';
+import { localizedPath, t, type Locale } from '../../i18n';
+import { getLegal } from '../../lib/content';
+interface Props { locale: Locale; page: 'privacy' | 'terms' }
+const { locale, page } = Astro.props;
+const ui = t(locale);
+const { Content, toc } = getLegal(locale, page);
+---
+<DocumentLayout locale={locale} page={page}
+  title={page === 'privacy' ? ui.meta.privacyTitle : ui.meta.termsTitle}
+  description={page === 'privacy' ? ui.meta.privacyDescription : ui.meta.termsDescription}
+  canonicalPath={localizedPath(locale, page)} updated={page === 'privacy' ? '2026-10-14' : '2026-10-01'}
+  version={page === 'privacy' ? 'v1.3.2' : undefined} toc={toc}>
+  <Content />
+</DocumentLayout>

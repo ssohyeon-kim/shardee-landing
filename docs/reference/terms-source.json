@@ -1,0 +1,2938 @@
+{
+  "id": "01kn18hnw8s9mgd3375xsrhcep",
+  "version": 4,
+  "createdAt": 1790850691097,
+  "blockTree": [
+    [
+      "01kn18hs80egrmrpcysq08n37h"
+    ],
+    [
+      "01knhr25n5dvhd0j2ccasjzq9p"
+    ],
+    [
+      "01knhr4d8acpkb8fn3s2b9dc7j"
+    ],
+    [
+      "01knhr4d8bcxeap7d907ss68ay"
+    ],
+    [
+      "01knhr4d8b218m59raa0s9x9v0"
+    ],
+    [
+      "01knhr4d8chm1jb3dhnngrbcqs"
+    ],
+    [
+      "01knhr4d8c9g4r5td3rqt8tzd8"
+    ],
+    [
+      "01knhr4d8c749vw40xf4gygrnb"
+    ],
+    [
+      "01knhr4d8dprv6dqy3866csw8k"
+    ],
+    [
+      "01knhr4d8dpjmw9rkc55aczy7v"
+    ],
+    [
+      "01knhr4d8d7nnarmd5e6g7c35n"
+    ],
+    [
+      "01knhr4d8e1d3s3zyszdehynaq"
+    ],
+    [
+      "01knhr4d8em5kt916vj5ax7n4y"
+    ],
+    [
+      "01knhr4d8ev2ezmyz3y5g3d39v"
+    ],
+    [
+      "01knhr4d8fwf079zs9bebrfg6f"
+    ],
+    [
+      "01knhr4d8f5p7ycbkvjtqc4ne3"
+    ],
+    [
+      "01knhr4d8fnq1v8595mpekpx11"
+    ],
+    [
+      "01knhr4d8g6m4jn75z9n23n47n"
+    ],
+    [
+      "01knhr4d8gsytqzfwq19pmez0b"
+    ],
+    [
+      "01knhr4d8gf20v5r89v3pna16d"
+    ],
+    [
+      "01knhr4d8gxj1cdwttcyz1sg7k"
+    ],
+    [
+      "01knhr4d8he9b9q5kcmrpbk1gg"
+    ],
+    [
+      "01knhr4d8h243y177k8d06x5fy"
+    ],
+    [
+      "01knhr4d8j1yce9sa3510rxxhj"
+    ],
+    [
+      "01m3vfgxhdsm6ekpj0nqkfk4c7"
+    ],
+    [
+      "01m3vfnvkjrycgfzpw88rza4m5"
+    ],
+    [
+      "01knhr4d8jsftvhfewz6201qgg"
+    ],
+    [
+      "01knhr4d8j06bs09wxn9g7s5jd"
+    ],
+    [
+      "01knhr4d8kd0h1nfcknvvdvcfb"
+    ],
+    [
+      "01knhr4d8kksczn4qzr7vspybq"
+    ],
+    [
+      "01knhr4d8k403vfj064n57cc08"
+    ],
+    [
+      "01knhr4d8mm2a6f3nm45y175xx"
+    ],
+    [
+      "01knhr4d8mydb9t8ztdwghj3d4"
+    ],
+    [
+      "01knhr4d8mx3nxj8g35pwd6mk6"
+    ],
+    [
+      "01knhr4d8ncvyk8cgpp4fygscj"
+    ],
+    [
+      "01knhr4d8nf8k34as41f87e793"
+    ],
+    [
+      "01knhr4d8nc6q15nbbevk9fgrd"
+    ],
+    [
+      "01knhr4d8nemjc9sc5ybkn5vfm"
+    ],
+    [
+      "01knhr4d8pgctfhr6abd8p96fh"
+    ],
+    [
+      "01knhr4d8pkpmb4jq2rtdyc5ek"
+    ],
+    [
+      "01knhr4d8pg1hnzfez18f94hk4"
+    ],
+    [
+      "01knhr4d8qpw7hyqwjg5b9h359"
+    ],
+    [
+      "01knhr4d8qn7q8mxxam8xsrp5t"
+    ],
+    [
+      "01knhr4d8qqcxfkg6ntfnv3ngq"
+    ],
+    [
+      "01knhr4d8r8xmn71g9sy90yt2a"
+    ],
+    [
+      "01knhr4d8rmcxysswsj0689yq9"
+    ],
+    [
+      "01knhr4d8rb74hsxm8tt3ggxss"
+    ],
+    [
+      "01knhr4d8s7fstb4a99anekrvw"
+    ],
+    [
+      "01knhr4d8s11pn6xn7x18bqtfh"
+    ],
+    [
+      "01knhr4d8sy2hgkhvxrtwbmda6"
+    ],
+    [
+      "01knhr4d8t43ws65fwewdsepe9"
+    ],
+    [
+      "01knhr4d8t72r7qz59kje1g9ty"
+    ],
+    [
+      "01knhr4d8t31bh4hvhjfmcjfjc"
+    ],
+    [
+      "01knhr4d8vaq4nvxrhrv2qc1f5"
+    ],
+    [
+      "01knhr4d8vhbrfs52jhrqx82sv"
+    ],
+    [
+      "01knhr4d8vpa0tf4acsej5h775"
+    ],
+    [
+      "01knhr4d8v6ja16q5a405w7st3"
+    ],
+    [
+      "01knhr4d8whna3myra6558y5ek"
+    ],
+    [
+      "01knhr4d8wnswnmddex56wkyjc"
+    ],
+    [
+      "01knhr4d8wchq0yh6zh2nn8n2e"
+    ],
+    [
+      "01knhr4d8xnyb8tf39nys5xckg"
+    ],
+    [
+      "01knhr4d8x0sk7yg7y2cpjk79x"
+    ],
+    [
+      "01knhr4d8xz821pgzjc8j04867"
+    ],
+    [
+      "01knhr4d8yj0tc491nnfgv8ekq"
+    ],
+    [
+      "01knhr4d8yc4vhgxdgxzr83hw4"
+    ],
+    [
+      "01knhr4d8y6g3vmdt5mcdk07r5"
+    ],
+    [
+      "01knhr4d8yc3gvb5asnz6528mh"
+    ],
+    [
+      "01knhr4d8zxcqk9dtwb8ytf1z4"
+    ],
+    [
+      "01knhr4d8zwn794hd9cd9maeyx"
+    ],
+    [
+      "01knhr4d8zys26qrr0j3gnm7xz"
+    ],
+    [
+      "01knhr4d90etehbh313z203msh"
+    ],
+    [
+      "01knhr4d901xaksa13m0fmkxyq"
+    ],
+    [
+      "01knhr4d90d9bfhgq7yj049gfc"
+    ],
+    [
+      "01knhr4d93yzy0vrsvd5m6xecj"
+    ],
+    [
+      "01knhr4d93enq20rrvxa5yxke0"
+    ],
+    [
+      "01knhr4d94j816hh4n04n5t69h"
+    ],
+    [
+      "01knhr4d94eea5a8786a13wny5"
+    ],
+    [
+      "01knhr4d947aef87p2mdxvpav5"
+    ],
+    [
+      "01knhr4d950f1f4dyvedmqz7sd"
+    ],
+    [
+      "01knhr4d95hecnj5ztq1gec75m"
+    ],
+    [
+      "01knhr4d95c1c24zg95mt6bc6a"
+    ],
+    [
+      "01knhr4d96mssvvda0ap7qym8e"
+    ],
+    [
+      "01knhr4d96y8wgwqrg4aww15x8"
+    ],
+    [
+      "01knhr4d966t2y7ratprapf6nz"
+    ],
+    [
+      "01knhr4d96wwb148gvaw85xj90"
+    ],
+    [
+      "01knhr4d97ybvsr0w30066jy8w"
+    ],
+    [
+      "01knhr4d97b6z1n6y30gcpzjz9"
+    ],
+    [
+      "01knhr4d97dyewdpmbfwsb10w2"
+    ],
+    [
+      "01knhr4d98anj7n6j18c0xp934"
+    ],
+    [
+      "01knhr4d985wt99mn5etwd4b8t"
+    ],
+    [
+      "01knhr4d98kzxf3303ejtypx6f"
+    ],
+    [
+      "01knhr4d99hyt5hn7qxkc15ayq"
+    ],
+    [
+      "01knhr4d995yj5k65e84dfvdhh"
+    ],
+    [
+      "01knhr4d99hkkb6hn91pw19gzz"
+    ],
+    [
+      "01knhr4d9anteq3cxfmnghshmg"
+    ],
+    [
+      "01knhr4d9astd5ndq3ep45z16z"
+    ],
+    [
+      "01knhr4d9arnrg1q452vp37zr7"
+    ],
+    [
+      "01knhr4d9aj98m1g2x8gmkndqc"
+    ],
+    [
+      "01knhr4d9b1zx0r3p685p77pag"
+    ],
+    [
+      "01knhr4d9bcye9g7d24bdkw517"
+    ],
+    [
+      "01knhr4d9b47z6rcgsmy6ee3sd"
+    ],
+    [
+      "01knhr4d9c025cvryqjpx4v7mv"
+    ],
+    [
+      "01knhr4d9cb2s7erhxkj8a8ep8"
+    ],
+    [
+      "01knhr4d9cftesm5bs6ar0mn85"
+    ],
+    [
+      "01knhr4d9cwasr807k79xa3tdp"
+    ],
+    [
+      "01knhr4d9dzxrk22gfc4y3g2nf"
+    ],
+    [
+      "01knhr4d9dvdqrqtxg9bgtb84y"
+    ],
+    [
+      "01knhr4d9dcg3129tdw3dzv0w8"
+    ],
+    [
+      "01knhr4d9ekkbqv4h3de6hqaep"
+    ],
+    [
+      "01knhr4d9egbyt6je48x8f95vk"
+    ],
+    [
+      "01knhr4d9egc27e8spcs5kfrs3"
+    ],
+    [
+      "01knhr4d9ff2hke5je4tp4sanf"
+    ],
+    [
+      "01knhr4d9fjqjpd73dr59ntqa0"
+    ],
+    [
+      "01knhr4d9fww4k8bz48ewp5cfw"
+    ],
+    [
+      "01knhr4d9fqp6h3jvysnzshfc4"
+    ],
+    [
+      "01knhr4d9gysbgdjmzhpk21bwv"
+    ],
+    [
+      "01knhr4d9gn7b0n2pdkqqj7cwd"
+    ],
+    [
+      "01knhr4d9gtr54fd5v95z8bwyv"
+    ],
+    [
+      "01knhr4d9h094ndsmnvnw994va"
+    ],
+    [
+      "01knhr4d9hr6s66rp5ppsy6412"
+    ],
+    [
+      "01knhr4d9hh9e3e1ewdvteyzht"
+    ],
+    [
+      "01knhr4d9hp8srs0fj9t7jv0n9"
+    ],
+    [
+      "01knhr4d9j6tkvfe43qqfqwnrn"
+    ],
+    [
+      "01knhr4d9j6nmkmz0nhwww8rry"
+    ],
+    [
+      "01knhr4d9k3n7gsttxnp9crrz2"
+    ],
+    [
+      "01knhr4d9k07g3y9ny1dg8511q"
+    ],
+    [
+      "01knhr4d9ky0khznfvg2rbcydy"
+    ],
+    [
+      "01knhr4d9mz6ddqk8fy5stxcf8"
+    ],
+    [
+      "01knhr4d9mxdpbfrajzbcxwqa6"
+    ],
+    [
+      "01knhr4d9myt6r58xst2k6zmw8"
+    ],
+    [
+      "01knhr4d9n7mrgda2ad88e1kfd"
+    ],
+    [
+      "01knhr4d9ne25yfyy1b6br2z7m"
+    ],
+    [
+      "01knhr4d9nxee8gs9hd2frde2s"
+    ],
+    [
+      "01knhr4d9p7khw7j6pn4n839p7"
+    ],
+    [
+      "01knhr4d9pdyjt5ch45hta4cfc"
+    ],
+    [
+      "01knhr4d9p49pybhcnkz2d89w9"
+    ],
+    [
+      "01knhr4d9p37cgay9jm5ek7tmj"
+    ],
+    [
+      "01knhr4d9q99w8vwe40s3vsnz5"
+    ],
+    [
+      "01knhr4d9qmhhcf43hr7adcxps"
+    ],
+    [
+      "01knhr4d9qdr27kv1tcmzd7d8j"
+    ],
+    [
+      "01knhr4d9r0ve89qvjpjpgmaed"
+    ],
+    [
+      "01knhr4d9rabcqr3746kt93fgy"
+    ],
+    [
+      "01knhr4d9rcn8rjwr90gehbfbd"
+    ],
+    [
+      "01knhr4d9rftn5m7dsve4j008g"
+    ],
+    [
+      "01knhr4d9sndh4cvatq6zwhhdm"
+    ],
+    [
+      "01knhr4d9s5pk067fp4dnk8jpz"
+    ],
+    [
+      "01knhr4d9s5h1p4m9cms4ynakv"
+    ],
+    [
+      "01knhr4d9tpg0c7gvk4gd4f7wr"
+    ],
+    [
+      "01knhr4d9t2n5p8ytt7kbhandm"
+    ],
+    [
+      "01knhr4d9td709r0rz0m3fq1fy"
+    ],
+    [
+      "01knhr4d9tzxjf5hqsx492tv5x"
+    ],
+    [
+      "01knhr4d9vh5h8xpvnkzvb1ph4"
+    ],
+    [
+      "01knhr4d9vdc5z9g064yyxj56v"
+    ],
+    [
+      "01knhr4d9v92k6d4pn4y3xe3j1"
+    ],
+    [
+      "01knhr4d9w4zqd2q5nysqkh6g3"
+    ]
+  ],
+  "blockMap": {
+    "01kn18hs80egrmrpcysq08n37h": {
+      "id": "01kn18hs80egrmrpcysq08n37h",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n0",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01knhr25n5dvhd0j2ccasjzq9p": {
+      "id": "01knhr25n5dvhd0j2ccasjzq9p",
+      "type": "note",
+      "value": {
+        "pageHash": "d367nxm383j682j98pv1",
+        "isOriginalBlock": true
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n19",
+      "rv": 1,
+      "rt": 3,
+      "version": 2
+    },
+    "01knhr4d8acpkb8fn3s2b9dc7j": {
+      "id": "01knhr4d8acpkb8fn3s2b9dc7j",
+      "type": "text",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "샤디(Shardee) 이용약관"
+          }
+        ],
+        "fontWeight": 600
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2i",
+      "rv": 3,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8bcxeap7d907ss68ay": {
+      "id": "01knhr4d8bcxeap7d907ss68ay",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "최종 업데이트: 2026년 10월 1일"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2r",
+      "rv": 3,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8b218m59raa0s9x9v0": {
+      "id": "01knhr4d8b218m59raa0s9x9v0",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디(Shardee)에 오신 것을 환영합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8chm1jb3dhnngrbcqs": {
+      "id": "01knhr4d8chm1jb3dhnngrbcqs",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디는 1초 동영상 클립을 촬영하고 이를 하나의 영상으로 이어붙여 일상, 여행, 순간의 기록을 쉽게 남길 수 있도록 돕는 카메라 앱입니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8c9g4r5td3rqt8tzd8": {
+      "id": "01knhr4d8c9g4r5td3rqt8tzd8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "본 이용약관(이하 \"약관\")은 DIARO(이하 \"회사\", \"당사\")가 제공하는 모바일 애플리케이션 Shardee(이하 \"앱\")의 이용과 관련된 조건을 규정합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2z",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8c749vw40xf4gygrnb": {
+      "id": "01knhr4d8c749vw40xf4gygrnb",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱을 다운로드하거나 이용함으로써 귀하는 본 약관에 동의한 것으로 간주됩니다. 약관에 동의하지 않는 경우 앱을 이용할 수 없습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zi",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8dprv6dqy3866csw8k": {
+      "id": "01knhr4d8dprv6dqy3866csw8k",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의: "
+          },
+          {
+            "text": "untitledshatter@gmail.com",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"mailto:untitledshatter@gmail.com\"}"
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zr",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8dpjmw9rkc55aczy7v": {
+      "id": "01knhr4d8dpjmw9rkc55aczy7v",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zw",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8d7nnarmd5e6g7c35n": {
+      "id": "01knhr4d8d7nnarmd5e6g7c35n",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "1. 이용 자격"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zy",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8e1d3s3zyszdehynaq": {
+      "id": "01knhr4d8e1d3s3zyszdehynaq",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디는 전체 이용가 서비스로 누구나 이용할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zz",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8em5kt916vj5ax7n4y": {
+      "id": "01knhr4d8em5kt916vj5ax7n4y",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자는 관련 법률을 준수하여 앱을 이용해야 합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzi",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8ev2ezmyz3y5g3d39v": {
+      "id": "01knhr4d8ev2ezmyz3y5g3d39v",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzr",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8fwf079zs9bebrfg6f": {
+      "id": "01knhr4d8fwf079zs9bebrfg6f",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "2. 서비스 설명"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzw",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8f5p7ycbkvjtqc4ne3": {
+      "id": "01knhr4d8f5p7ycbkvjtqc4ne3",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디는 다음 기능을 제공합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzy",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8fnq1v8595mpekpx11": {
+      "id": "01knhr4d8fnq1v8595mpekpx11",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "1초 동영상 촬영 기능"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzz",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8g6m4jn75z9n23n47n": {
+      "id": "01knhr4d8g6m4jn75z9n23n47n",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "여러 클립을 하나의 영상으로 자동 이어붙이기"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzzi",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8gsytqzfwq19pmez0b": {
+      "id": "01knhr4d8gsytqzfwq19pmez0b",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "간단한 편집 기능"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzzr",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8gf20v5r89v3pna16d": {
+      "id": "01knhr4d8gf20v5r89v3pna16d",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "인앱 구매를 통한 프리미엄 기능"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzzw",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8gxj1cdwttcyz1sg7k": {
+      "id": "01knhr4d8gxj1cdwttcyz1sg7k",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의하기 기능"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2zzzy",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8he9b9q5kcmrpbk1gg": {
+      "id": "01knhr4d8he9b9q5kcmrpbk1gg",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디는 회원가입 없이 이용할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z4]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8h243y177k8d06x5fy": {
+      "id": "01knhr4d8h243y177k8d06x5fy",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "일부 기능은 Apple App Store, Google Play Store, Firebase 등의 외부 서비스를 통해 제공될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z4]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8j1yce9sa3510rxxhj": {
+      "id": "01knhr4d8j1yce9sa3510rxxhj",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 서비스의 기능을 개선하거나 변경할 수 있으며, 필요한 경우 일부 기능이 수정 또는 중단될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z4]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01m3vfgxhdsm6ekpj0nqkfk4c7": {
+      "id": "01m3vfgxhdsm6ekpj0nqkfk4c7",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "걸음 수 기능"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z4]u",
+      "rv": 10,
+      "rt": 3,
+      "version": 2
+    },
+    "01m3vfnvkjrycgfzpw88rza4m5": {
+      "id": "01m3vfnvkjrycgfzpw88rza4m5",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자는 Apple 건강 앱의 걸음 수를 선택적으로 영상에 표시할 수 있습니다. 이 기능은 의료적 진단이나 치료를 제공하지 않으며, 표시값은 촬영 시각·건강 기록·접근 권한에 따라 달라질 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z4]v",
+      "rv": 5,
+      "rt": 3,
+      "version": 2
+    },
+    "01knhr4d8jsftvhfewz6201qgg": {
+      "id": "01knhr4d8jsftvhfewz6201qgg",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z4]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8j06bs09wxn9g7s5jd": {
+      "id": "01knhr4d8j06bs09wxn9g7s5jd",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "3. 사용자 콘텐츠"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z4]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8kd0h1nfcknvvdvcfb": {
+      "id": "01knhr4d8kd0h1nfcknvvdvcfb",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자는 앱을 통해 동영상 콘텐츠(이하 \"사용자 콘텐츠\")를 생성할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z5]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8kksczn4qzr7vspybq": {
+      "id": "01knhr4d8kksczn4qzr7vspybq",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자가 촬영한 콘텐츠는 사용자 기기에 저장됩니다. 선택한 걸음 수도 내보낸 영상에 포함됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z5]i",
+      "rv": 5,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8k403vfj064n57cc08": {
+      "id": "01knhr4d8k403vfj064n57cc08",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 사용자 콘텐츠의 소유권을 주장하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z5]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8mm2a6f3nm45y175xx": {
+      "id": "01knhr4d8mm2a6f3nm45y175xx",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자는 다음 사항을 준수해야 합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z5]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8mydb9t8ztdwghj3d4": {
+      "id": "01knhr4d8mydb9t8ztdwghj3d4",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "타인의 저작권, 초상권, 개인정보를 침해하지 않을 것"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z5]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8mx3nxj8g35pwd6mk6": {
+      "id": "01knhr4d8mx3nxj8g35pwd6mk6",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "관련 법률을 위반하지 않을 것"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z6]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8ncvyk8cgpp4fygscj": {
+      "id": "01knhr4d8ncvyk8cgpp4fygscj",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "불법 또는 유해한 콘텐츠를 생성하지 않을 것"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z6]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8nf8k34as41f87e793": {
+      "id": "01knhr4d8nf8k34as41f87e793",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자가 생성한 콘텐츠에 대한 책임은 사용자에게 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z6]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8nc6q15nbbevk9fgrd": {
+      "id": "01knhr4d8nc6q15nbbevk9fgrd",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z6]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8nemjc9sc5ybkn5vfm": {
+      "id": "01knhr4d8nemjc9sc5ybkn5vfm",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "4. 이용 제한"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z6]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8pgctfhr6abd8p96fh": {
+      "id": "01knhr4d8pgctfhr6abd8p96fh",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자는 다음 행위를 해서는 안 됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z7]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8pkpmb4jq2rtdyc5ek": {
+      "id": "01knhr4d8pkpmb4jq2rtdyc5ek",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "불법적인 목적으로 앱을 사용하는 행위"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z7]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8pg1hnzfez18f94hk4": {
+      "id": "01knhr4d8pg1hnzfez18f94hk4",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱을 복제, 수정, 역설계하는 행위"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z7]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8qpw7hyqwjg5b9h359": {
+      "id": "01knhr4d8qpw7hyqwjg5b9h359",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱의 정상적인 작동을 방해하는 행위"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z7]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8qn7q8mxxam8xsrp5t": {
+      "id": "01knhr4d8qn7q8mxxam8xsrp5t",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "타인 또는 회사에 피해를 주는 방식으로 앱을 사용하는 행위"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z7]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8qqcxfkg6ntfnv3ngq": {
+      "id": "01knhr4d8qqcxfkg6ntfnv3ngq",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "지식재산권을 침해하는 콘텐츠 제작"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z8]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8r8xmn71g9sy90yt2a": {
+      "id": "01knhr4d8r8xmn71g9sy90yt2a",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z8]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8rmcxysswsj0689yq9": {
+      "id": "01knhr4d8rmcxysswsj0689yq9",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "5. 결제, 디지털 콘텐츠 및 환불 정책"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z8]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8rb74hsxm8tt3ggxss": {
+      "id": "01knhr4d8rb74hsxm8tt3ggxss",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디의 일부 기능은 인앱 구매를 통해 제공되는 디지털 콘텐츠 또는 프리미엄 기능입니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z8]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8s7fstb4a99anekrvw": {
+      "id": "01knhr4d8s7fstb4a99anekrvw",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "결제는 다음 플랫폼을 통해 처리됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z8]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8s11pn6xn7x18bqtfh": {
+      "id": "01knhr4d8s11pn6xn7x18bqtfh",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Apple App Store"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z9]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8sy2hgkhvxrtwbmda6": {
+      "id": "01knhr4d8sy2hgkhvxrtwbmda6",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Google Play Store"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z9]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8t43ws65fwewdsepe9": {
+      "id": "01knhr4d8t43ws65fwewdsepe9",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 사용자의 결제 정보를 직접 수집하거나 저장하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z9]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8t72r7qz59kje1g9ty": {
+      "id": "01knhr4d8t72r7qz59kje1g9ty",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "결제 및 환불은 각 앱 마켓의 정책에 따릅니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z9]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8t31bh4hvhjfmcjfjc": {
+      "id": "01knhr4d8t31bh4hvhjfmcjfjc",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "디지털 콘텐츠의 특성상 구매 후 즉시 기능 사용이 가능할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[z9]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8vaq4nvxrhrv2qc1f5": {
+      "id": "01knhr4d8vaq4nvxrhrv2qc1f5",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "법률이 허용하는 범위 내에서, 디지털 콘텐츠가 즉시 제공되는 경우 청약 철회권이 제한될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[za]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8vhbrfs52jhrqx82sv": {
+      "id": "01knhr4d8vhbrfs52jhrqx82sv",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "유럽경제지역(EEA) 사용자의 경우 다음 사항이 적용될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[za]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8vpa0tf4acsej5h775": {
+      "id": "01knhr4d8vpa0tf4acsej5h775",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "디지털 콘텐츠를 구매함으로써 사용자는 다음 사항에 동의한 것으로 간주됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[za]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8v6ja16q5a405w7st3": {
+      "id": "01knhr4d8v6ja16q5a405w7st3",
+      "type": "quote",
+      "value": {
+        "tokens": [
+          {
+            "text": "디지털 콘텐츠 구매 시 서비스가 즉시 제공되는 것에 동의하며, 관련 법률이 허용하는 범위 내에서 청약 철회권이 제한될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[za]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8whna3myra6558y5ek": {
+      "id": "01knhr4d8whna3myra6558y5ek",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "환불 가능 여부 및 조건은 Apple App Store 또는 Google Play Store의 정책에 따라 결정됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[za]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8wnswnmddex56wkyjc": {
+      "id": "01knhr4d8wnswnmddex56wkyjc",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "가격은 사전 고지 없이 변경될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zb]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8wchq0yh6zh2nn8n2e": {
+      "id": "01knhr4d8wchq0yh6zh2nn8n2e",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "추후 구독 기능이 제공되는 경우 결제 조건이 사전에 안내됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zb]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8xnyb8tf39nys5xckg": {
+      "id": "01knhr4d8xnyb8tf39nys5xckg",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zb]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8x0sk7yg7y2cpjk79x": {
+      "id": "01knhr4d8x0sk7yg7y2cpjk79x",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "6. 개인정보 처리 및 GDPR"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zb]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8xz821pgzjc8j04867": {
+      "id": "01knhr4d8xz821pgzjc8j04867",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 개인정보 보호를 중요하게 생각합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zb]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8yj0tc491nnfgv8ekq": {
+      "id": "01knhr4d8yj0tc491nnfgv8ekq",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디는 회원가입 기능이 없으며 사용자를 직접 식별하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zc]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8yc4vhgxdgxzr83hw4": {
+      "id": "01knhr4d8yc4vhgxdgxzr83hw4",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Firebase Analytics는 관련 법률이 요구되는 경우 사용자 동의를 받은 이후에만 수집됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zc]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8y6g3vmdt5mcdk07r5": {
+      "id": "01knhr4d8y6g3vmdt5mcdk07r5",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 처리는 다음 목적 범위 내에서 이루어질 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zc]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8yc3gvb5asnz6528mh": {
+      "id": "01knhr4d8yc3gvb5asnz6528mh",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "서비스 기능 제공"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zc]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8zxcqk9dtwb8ytf1z4": {
+      "id": "01knhr4d8zxcqk9dtwb8ytf1z4",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 안정성 개선"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zc]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8zwn794hd9cd9maeyx": {
+      "id": "01knhr4d8zwn794hd9cd9maeyx",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자 경험 개선"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zd]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d8zys26qrr0j3gnm7xz": {
+      "id": "01knhr4d8zys26qrr0j3gnm7xz",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 처리에 대한 자세한 내용은 개인정보처리방침에서 확인할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zd]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d90etehbh313z203msh": {
+      "id": "01knhr4d90etehbh313z203msh",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zd]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d901xaksa13m0fmkxyq": {
+      "id": "01knhr4d901xaksa13m0fmkxyq",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "7. EU 사용자 권리 (GDPR)"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zd]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d90d9bfhgq7yj049gfc": {
+      "id": "01knhr4d90d9bfhgq7yj049gfc",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "유럽경제지역(EEA)에 거주하는 사용자는 다음 권리를 가질 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zd]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d93yzy0vrsvd5m6xecj": {
+      "id": "01knhr4d93yzy0vrsvd5m6xecj",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 열람 요청 권리"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[ze]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d93enq20rrvxa5yxke0": {
+      "id": "01knhr4d93enq20rrvxa5yxke0",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 정정 요청 권리"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[ze]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d94j816hh4n04n5t69h": {
+      "id": "01knhr4d94j816hh4n04n5t69h",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 삭제 요청 권리"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[ze]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d94eea5a8786a13wny5": {
+      "id": "01knhr4d94eea5a8786a13wny5",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "처리 제한 요청 권리"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[ze]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d947aef87p2mdxvpav5": {
+      "id": "01knhr4d947aef87p2mdxvpav5",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "동의 철회 권리"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[ze]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d950f1f4dyvedmqz7sd": {
+      "id": "01knhr4d950f1f4dyvedmqz7sd",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "데이터 이동 요청 권리"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zf]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d95hecnj5ztq1gec75m": {
+      "id": "01knhr4d95hecnj5ztq1gec75m",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "감독 기관에 불만 제기 권리"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zf]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d95c1c24zg95mt6bc6a": {
+      "id": "01knhr4d95c1c24zg95mt6bc6a",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "권리 행사 문의:"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zf]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d96mssvvda0ap7qym8e": {
+      "id": "01knhr4d96mssvvda0ap7qym8e",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "untitledshatter@gmail.com",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"mailto:untitledshatter@gmail.com\"}"
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zf]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d96y8wgwqrg4aww15x8": {
+      "id": "01knhr4d96y8wgwqrg4aww15x8",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zf]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d966t2y7ratprapf6nz": {
+      "id": "01knhr4d966t2y7ratprapf6nz",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "8. 문의하기 기능 및 데이터 처리"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zg]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d96wwb148gvaw85xj90": {
+      "id": "01knhr4d96wwb148gvaw85xj90",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자는 앱 내 문의하기 기능을 통해 문의를 보낼 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zg]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d97ybvsr0w30066jy8w": {
+      "id": "01knhr4d97ybvsr0w30066jy8w",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의하기 기능 이용 시 다음 정보가 전송될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zg]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d97b6z1n6y30gcpzjz9": {
+      "id": "01knhr4d97b6z1n6y30gcpzjz9",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "이메일 주소 (선택 입력)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zg]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d97dyewdpmbfwsb10w2": {
+      "id": "01knhr4d97dyewdpmbfwsb10w2",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의 내용"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zg]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d98anj7n6j18c0xp934": {
+      "id": "01knhr4d98anj7n6j18c0xp934",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "첨부 이미지 (선택)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zh]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d985wt99mn5etwd4b8t": {
+      "id": "01knhr4d985wt99mn5etwd4b8t",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기기 정보 (예: 기기 모델)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zh]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d98kzxf3303ejtypx6f": {
+      "id": "01knhr4d98kzxf3303ejtypx6f",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "운영체제 정보 (예: iOS 버전)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zh]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d99hyt5hn7qxkc15ayq": {
+      "id": "01knhr4d99hyt5hn7qxkc15ayq",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 버전 정보"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zh]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d995yj5k65e84dfvdhh": {
+      "id": "01knhr4d995yj5k65e84dfvdhh",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "해당 정보는 문의 대응을 위해 Discord webhook을 통해 전달됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zh]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d99hkkb6hn91pw19gzz": {
+      "id": "01knhr4d99hkkb6hn91pw19gzz",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "이메일 주소 입력은 필수가 아니며, 입력하지 않을 경우 회신이 어려울 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zi]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9anteq3cxfmnghshmg": {
+      "id": "01knhr4d9anteq3cxfmnghshmg",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 문의 대응 목적 외에는 해당 정보를 사용하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zi]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9astd5ndq3ep45z16z": {
+      "id": "01knhr4d9astd5ndq3ep45z16z",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의 내용이나 첨부 이미지에 걸음 수 등 건강 정보나 민감한 개인정보를 포함하지 말아 주세요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zi]r",
+      "rv": 5,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9arnrg1q452vp37zr7": {
+      "id": "01knhr4d9arnrg1q452vp37zr7",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zi]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9aj98m1g2x8gmkndqc": {
+      "id": "01knhr4d9aj98m1g2x8gmkndqc",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "9. 제3자 서비스"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zi]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9b1zx0r3p685p77pag": {
+      "id": "01knhr4d9b1zx0r3p685p77pag",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 운영을 위해 다음과 같은 외부 서비스가 사용될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zj]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9bcye9g7d24bdkw517": {
+      "id": "01knhr4d9bcye9g7d24bdkw517",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Apple App Store"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zj]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9b47z6rcgsmy6ee3sd": {
+      "id": "01knhr4d9b47z6rcgsmy6ee3sd",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Google Play Store"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zj]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9c025cvryqjpx4v7mv": {
+      "id": "01knhr4d9c025cvryqjpx4v7mv",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Firebase Analytics (사용자 동의 후)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zj]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9cb2s7erhxkj8a8ep8": {
+      "id": "01knhr4d9cb2s7erhxkj8a8ep8",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Discord webhook (문의하기 기능)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zj]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9cftesm5bs6ar0mn85": {
+      "id": "01knhr4d9cftesm5bs6ar0mn85",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "각 서비스는 해당 서비스의 정책에 따라 운영됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zk]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9cwasr807k79xa3tdp": {
+      "id": "01knhr4d9cwasr807k79xa3tdp",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 제3자 서비스의 운영 방식에 대해 책임을 지지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zk]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9dzxrk22gfc4y3g2nf": {
+      "id": "01knhr4d9dzxrk22gfc4y3g2nf",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zk]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9dvdqrqtxg9bgtb84y": {
+      "id": "01knhr4d9dvdqrqtxg9bgtb84y",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "10. 서비스 제공"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zk]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9dcg3129tdw3dzv0w8": {
+      "id": "01knhr4d9dcg3129tdw3dzv0w8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 앱이 항상 정상적으로 작동함을 보장하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zk]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9ekkbqv4h3de6hqaep": {
+      "id": "01knhr4d9ekkbqv4h3de6hqaep",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "다음 요인에 의해 서비스 이용이 제한될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zl]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9egbyt6je48x8f95vk": {
+      "id": "01knhr4d9egbyt6je48x8f95vk",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기기 성능"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zl]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9egc27e8spcs5kfrs3": {
+      "id": "01knhr4d9egc27e8spcs5kfrs3",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "운영체제(OS) 업데이트"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zl]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9ff2hke5je4tp4sanf": {
+      "id": "01knhr4d9ff2hke5je4tp4sanf",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "인터넷 연결 상태"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zl]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9fjqjpd73dr59ntqa0": {
+      "id": "01knhr4d9fjqjpd73dr59ntqa0",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기술적 오류"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zl]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9fww4k8bz48ewp5cfw": {
+      "id": "01knhr4d9fww4k8bz48ewp5cfw",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 서비스의 일부 또는 전체를 변경하거나 중단할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zm]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9fqp6h3jvysnzshfc4": {
+      "id": "01knhr4d9fqp6h3jvysnzshfc4",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zm]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9gysbgdjmzhpk21bwv": {
+      "id": "01knhr4d9gysbgdjmzhpk21bwv",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "11. 면책 조항"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zm]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9gn7b0n2pdkqqj7cwd": {
+      "id": "01knhr4d9gn7b0n2pdkqqj7cwd",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱은 \"있는 그대로\" 제공됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zm]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9gtr54fd5v95z8bwyv": {
+      "id": "01knhr4d9gtr54fd5v95z8bwyv",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 다음 사항을 보장하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zm]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9h094ndsmnvnw994va": {
+      "id": "01knhr4d9h094ndsmnvnw994va",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "서비스의 지속적인 제공"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zn]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9hr6s66rp5ppsy6412": {
+      "id": "01knhr4d9hr6s66rp5ppsy6412",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "오류 없는 작동"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zn]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9hh9e3e1ewdvteyzht": {
+      "id": "01knhr4d9hh9e3e1ewdvteyzht",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "모든 기기에서의 완전한 호환성"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zn]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9hp8srs0fj9t7jv0n9": {
+      "id": "01knhr4d9hp8srs0fj9t7jv0n9",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "특정 결과의 보장"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zn]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9j6tkvfe43qqfqwnrn": {
+      "id": "01knhr4d9j6tkvfe43qqfqwnrn",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 사용에 따른 책임은 사용자에게 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zn]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9j6nmkmz0nhwww8rry": {
+      "id": "01knhr4d9j6nmkmz0nhwww8rry",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zo]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9k3n7gsttxnp9crrz2": {
+      "id": "01knhr4d9k3n7gsttxnp9crrz2",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "12. 책임의 제한"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zo]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9k07g3y9ny1dg8511q": {
+      "id": "01knhr4d9k07g3y9ny1dg8511q",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "관련 법률이 허용하는 범위 내에서 회사는 다음에 대해 책임을 지지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zo]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9ky0khznfvg2rbcydy": {
+      "id": "01knhr4d9ky0khznfvg2rbcydy",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "데이터 손실"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zo]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9mz6ddqk8fy5stxcf8": {
+      "id": "01knhr4d9mz6ddqk8fy5stxcf8",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "수익 손실"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zo]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9mxdpbfrajzbcxwqa6": {
+      "id": "01knhr4d9mxdpbfrajzbcxwqa6",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기기 오류"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zp]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9myt6r58xst2k6zmw8": {
+      "id": "01knhr4d9myt6r58xst2k6zmw8",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "간접 손해"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zp]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9n7mrgda2ad88e1kfd": {
+      "id": "01knhr4d9n7mrgda2ad88e1kfd",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "콘텐츠 손실"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zp]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9ne25yfyy1b6br2z7m": {
+      "id": "01knhr4d9ne25yfyy1b6br2z7m",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사의 책임 범위는 관련 법률에서 허용하는 범위를 따릅니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zp]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9nxee8gs9hd2frde2s": {
+      "id": "01knhr4d9nxee8gs9hd2frde2s",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zp]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9p7khw7j6pn4n839p7": {
+      "id": "01knhr4d9p7khw7j6pn4n839p7",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "13. 지식재산권"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zq]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9pdyjt5ch45hta4cfc": {
+      "id": "01knhr4d9pdyjt5ch45hta4cfc",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱에 대한 모든 권리는 회사에 귀속됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zq]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9p49pybhcnkz2d89w9": {
+      "id": "01knhr4d9p49pybhcnkz2d89w9",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "소프트웨어"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zq]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9p37cgay9jm5ek7tmj": {
+      "id": "01knhr4d9p37cgay9jm5ek7tmj",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "디자인"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zq]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9q99w8vwe40s3vsnz5": {
+      "id": "01knhr4d9q99w8vwe40s3vsnz5",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "인터페이스"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zq]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9qmhhcf43hr7adcxps": {
+      "id": "01knhr4d9qmhhcf43hr7adcxps",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "브랜드"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zr]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9qdr27kv1tcmzd7d8j": {
+      "id": "01knhr4d9qdr27kv1tcmzd7d8j",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사의 사전 허가 없이 앱을 복제, 배포, 수정할 수 없습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zr]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9r0ve89qvjpjpgmaed": {
+      "id": "01knhr4d9r0ve89qvjpjpgmaed",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zr]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9rabcqr3746kt93fgy": {
+      "id": "01knhr4d9rabcqr3746kt93fgy",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "14. 약관 변경"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zr]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9rcn8rjwr90gehbfbd": {
+      "id": "01knhr4d9rcn8rjwr90gehbfbd",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 필요에 따라 약관을 변경할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zr]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9rftn5m7dsve4j008g": {
+      "id": "01knhr4d9rftn5m7dsve4j008g",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "변경된 약관은 앱 내 또는 관련 페이지에 게시됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zs]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9sndh4cvatq6zwhhdm": {
+      "id": "01knhr4d9sndh4cvatq6zwhhdm",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "변경 이후에도 앱을 계속 이용하는 경우 변경된 약관에 동의한 것으로 간주됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zs]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9s5pk067fp4dnk8jpz": {
+      "id": "01knhr4d9s5pk067fp4dnk8jpz",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zs]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9s5h1p4m9cms4ynakv": {
+      "id": "01knhr4d9s5h1p4m9cms4ynakv",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "15. 준거법"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zs]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9tpg0c7gvk4gd4f7wr": {
+      "id": "01knhr4d9tpg0c7gvk4gd4f7wr",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "본 약관은 관련 법률에 따라 적용됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zs]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9t2n5p8ytt7kbhandm": {
+      "id": "01knhr4d9t2n5p8ytt7kbhandm",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "EU 거주자의 경우 해당 국가의 소비자 보호법이 적용될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zt]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9td709r0rz0m3fq1fy": {
+      "id": "01knhr4d9td709r0rz0m3fq1fy",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zt]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9tzxjf5hqsx492tv5x": {
+      "id": "01knhr4d9tzxjf5hqsx492tv5x",
+      "type": "heading",
+      "value": {
+        "level": 1,
+        "tokens": [
+          {
+            "text": "16. 문의"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zt]r",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9vh5h8xpvnkzvb1ph4": {
+      "id": "01knhr4d9vh5h8xpvnkzvb1ph4",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "운영자: DIARO"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zt]w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9vdc5z9g064yyxj56v": {
+      "id": "01knhr4d9vdc5z9g064yyxj56v",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "이메일: "
+          },
+          {
+            "text": "untitledshatter@gmail.com",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"mailto:untitledshatter@gmail.com\"}"
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zt]y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9v92k6d4pn4y3xe3j1": {
+      "id": "01knhr4d9v92k6d4pn4y3xe3j1",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "주소: 서울특별시 강남구 테헤란로70길 12, 402-401A호(대치동, H타워)"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zu]",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01knhr4d9w4zqd2q5nysqkh6g3": {
+      "id": "01knhr4d9w4zqd2q5nysqkh6g3",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n2[zu]i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    }
+  }
+}

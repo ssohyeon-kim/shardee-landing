@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Astro build output and cache
+dist/
+.astro/
+*.tsbuildinfo
+
+# Local environment files (keep the shared example)
+.env
+.env.*
+!.env.example
+
+# Logs and test coverage
+*.log
+coverage/
+
+# macOS metadata
+.DS_Store

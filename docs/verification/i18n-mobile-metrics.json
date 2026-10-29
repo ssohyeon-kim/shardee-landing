@@ -1,0 +1,162 @@
+[
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "ko",
+    "path": "/ko/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "ko",
+    "path": "/ko/faq/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "ko",
+    "path": "/ko/privacy/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "ko",
+    "path": "/ko/terms/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "en",
+    "path": "/en/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "en",
+    "path": "/en/faq/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "en",
+    "path": "/en/privacy/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "en",
+    "path": "/en/terms/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "ja",
+    "path": "/ja/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "ja",
+    "path": "/ja/faq/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "ja",
+    "path": "/ja/privacy/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "ja",
+    "path": "/ja/terms/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "zh-Hant",
+    "path": "/zh-Hant/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "zh-Hant",
+    "path": "/zh-Hant/faq/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "zh-Hant",
+    "path": "/zh-Hant/privacy/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "zh-Hant",
+    "path": "/zh-Hant/terms/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "zh-Hans",
+    "path": "/zh-Hans/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "zh-Hans",
+    "path": "/zh-Hans/faq/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "zh-Hans",
+    "path": "/zh-Hans/privacy/",
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "headerWidth": 320,
+    "lang": "zh-Hans",
+    "path": "/zh-Hans/terms/",
+    "scrollWidth": 320,
+    "width": 320
+  }
+]

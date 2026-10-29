@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { localizedPath, t, type Locale } from '../../i18n';
+interface Props { locale: Locale }
+const { locale } = Astro.props;
+const ui = t(locale);
+---
+<BaseLayout title={ui.error.title} description={ui.error.description} canonicalPath={localizedPath(locale, '404')} locale={locale} page="404" noindex>
+  <section class="container not-found"><p class="number">404</p><h1>{ui.error.title}</h1><p>{ui.error.description}</p><a href={localizedPath(locale)}>{ui.error.home} <span aria-hidden="true">↗</span></a></section>
+</BaseLayout>
+<style>
+  .not-found { padding-block: 100px 130px; text-align: center; }
+  .number { color: var(--color-accent); font-size: 20px; font-weight: 700; }
+  h1 { font-size: clamp(28px, 5vw, 48px); }
+  section > p:not(.number) { color: var(--color-muted); }
+  section > a { display: inline-flex; padding: 12px 24px; border-radius: 99px; background: var(--color-text); color: var(--color-bg); margin-top: 20px; gap: 20px; text-decoration: none; }
+</style>

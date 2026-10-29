@@ -1,0 +1,11 @@
+---
+import { localizedPath, t, type Locale } from '../../i18n';
+interface Props { locale: Locale; label: string }
+const { locale, label } = Astro.props;
+---
+<nav class="breadcrumbs" aria-label="Breadcrumb"><ol><li><a href={localizedPath(locale)}>{t(locale).nav.home}</a></li><li aria-current="page">{label}</li></ol></nav>
+<style>
+  ol { display: flex; flex-wrap: wrap; align-items: center; list-style: none; gap: 10px; padding: 0; margin: 0 0 24px; color: var(--color-muted); font-size: 14px; }
+  li + li::before { content: '/'; margin-right: 10px; opacity: .6; }
+  a { display: inline-flex; align-items: center; min-height: 44px; text-underline-offset: .2em; }
+</style>

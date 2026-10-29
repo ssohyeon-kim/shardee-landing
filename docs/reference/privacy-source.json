@@ -1,0 +1,3319 @@
+{
+  "id": "01jfhbmdwjsz8bqva2yvd5zevj",
+  "version": 4,
+  "createdAt": 1791988624494,
+  "blockTree": [
+    [
+      "01jfhet7etxpv7882avys43xyy"
+    ],
+    [
+      "01jh77ajzs01vg6sewfywemxta"
+    ],
+    [
+      "01kn18gqqaew7wdv0nyd2vwrkm"
+    ],
+    [
+      "01kn18gqqamepfjgr6w23fgp1h"
+    ],
+    [
+      "01kn18gqqb21jggvvkzb7q527n"
+    ],
+    [
+      "01kn18gqqbw1tsvkgn51hnqxxc"
+    ],
+    [
+      "01kn18gqqb2jy0fv9k3hnwh6cw"
+    ],
+    [
+      "01kn18gqqbr3m6nskzhkhmvqrd"
+    ],
+    [
+      "01kn18gqqbpmndfknp538zz787"
+    ],
+    [
+      "01kn18gqqbghcw48cxq9s5rakt"
+    ],
+    [
+      "01kn18gqqb5hnsezasqmzrc211"
+    ],
+    [
+      "01kn18gqqcj37zy75crr63fxa2"
+    ],
+    [
+      "01kn18gqqchnzp3jr45cgz6159"
+    ],
+    [
+      "01kn18gqqcrtnq51yjkchhj2dc"
+    ],
+    [
+      "01kpdz6g803073nrme9cfs3d2s"
+    ],
+    [
+      "01kpdz6g80qvgg16pbggndzjaz"
+    ],
+    [
+      "01kpdz6g80zzm4kx03htsgt0gj"
+    ],
+    [
+      "01kpdz6g80dhwjncpra8fpqffg"
+    ],
+    [
+      "01kqmhp6mm92daz1ebnnx2nrjf"
+    ],
+    [
+      "01kqmhp6mn6pfdefkg240188pp"
+    ],
+    [
+      "01m3vfe7g9jtemny8a0vr764yk"
+    ],
+    [
+      "01kpdz6g800xcjg0ybqjpae1pj"
+    ],
+    [
+      "01kqmhqaxv6hd47w907ct0271s"
+    ],
+    [
+      "01kn18gqqd89b7zgjjkz9r83mz"
+    ],
+    [
+      "01kn18gqqd4g8sp4mtn20dayh1"
+    ],
+    [
+      "01kqmhkspt9xdb6zydeff3jwfd"
+    ],
+    [
+      "01kn18gqqe2wg7rm1jtkfd6zsp"
+    ],
+    [
+      "01kn18gqqe5464bszzv252d75t"
+    ],
+    [
+      "01kn18gqqerc0wfxxpwdckkdm9"
+    ],
+    [
+      "01kn18gqqe47tb0y2qpter3asv"
+    ],
+    [
+      "01kn18gqqfsmjm2kw9f8abmq2z"
+    ],
+    [
+      "01kn18gqqfjh1kw0tqy8k2jv81"
+    ],
+    [
+      "01kn18gqqfd0any7d636dw72jb"
+    ],
+    [
+      "01kn18gqqfqze0y8wd80arba38"
+    ],
+    [
+      "01kn18gqqfadq48a5bayesyrvc"
+    ],
+    [
+      "01kn18gqqfv6xe1fmery6egq7m"
+    ],
+    [
+      "01kn18gqqg38b3p5f9vdskpxdd"
+    ],
+    [
+      "01kn18gqqg74r98cm27tkfsgdm"
+    ],
+    [
+      "01kn18gqqgnnkem8tm62kshe1s"
+    ],
+    [
+      "01kn18gqqg1aaw6ffy01ffcdn7"
+    ],
+    [
+      "01kn18gqqgqv1gqmgcz54ged6d"
+    ],
+    [
+      "01kn18gqqgtn4heaaffgt4eqdy"
+    ],
+    [
+      "01kn18gqqhqbseqpdmryj385mz"
+    ],
+    [
+      "01kn18gqqhrrv8begv3mpm31xa"
+    ],
+    [
+      "01kn18gqqhjv9x64cwc5e5tvr7"
+    ],
+    [
+      "01kpe5pzncmtbag05dby4df7k2"
+    ],
+    [
+      "01kn18gqqhhwty8n8p5np17g88"
+    ],
+    [
+      "01kn18gqqhz5vr1yhbeq9gy1v0"
+    ],
+    [
+      "01kn18gqqh988dnv86b3gfkpng"
+    ],
+    [
+      "01kn18gqqj25pzxkxx68bvdvhh"
+    ],
+    [
+      "01kn18gqqjwdj2yc76yc7yr8hr"
+    ],
+    [
+      "01kn18gqqj6p0wfh7bd1swxszh"
+    ],
+    [
+      "01kn18gqqjazrbft8h1y95vaa8"
+    ],
+    [
+      "01kn18gqqj3mpkt29da94te8hm"
+    ],
+    [
+      "01kn18gqqjnswm6r6w4jvne9w3"
+    ],
+    [
+      "01kn18gqqkfp84n3bwgexjdm9n"
+    ],
+    [
+      "01kn18gqqkfjzm55y3qfp4kdfv"
+    ],
+    [
+      "01kn18gqqk2detc7wqzb5ej120"
+    ],
+    [
+      "01kn18gqqkhyepghf8ewtwted2"
+    ],
+    [
+      "01kn18gqqkend1qs9mhcgvne95"
+    ],
+    [
+      "01kn18gqqkqd3w4xazz9v8vwxc"
+    ],
+    [
+      "01kn18gqqkzq4dx125ejcb06hf"
+    ],
+    [
+      "01m3vfxq0rbv945xq1f5penh0x"
+    ],
+    [
+      "01m3vfe899nwm37sdwemejgy8p"
+    ],
+    [
+      "01m3vfn3rdtqd53jcq5f6bkc01"
+    ],
+    [
+      "01m3vfn4jec60rxct0002sn7bd"
+    ],
+    [
+      "01m3vfn5a2x3eqz356dh8za6bq"
+    ],
+    [
+      "01m3vfn618nk31c4ye5xpgjpcf"
+    ],
+    [
+      "01m4xc9vrtvhvd3xf0dxz9n4xy"
+    ],
+    [
+      "01m4xc95t9yt9n6qm3cg45f3x0"
+    ],
+    [
+      "01m4xc41yxrvhyxd9wavcz0p9n"
+    ],
+    [
+      "01m4xc41yxs48e5vnsw6kz05j1"
+    ],
+    [
+      "01m4xc41yxascx0y2qnbkqxsf8"
+    ],
+    [
+      "01m4xc41yxywe6kxbd1zxv01an"
+    ],
+    [
+      "01m4xc41yxt4qyx1ytrmgzkxz0"
+    ],
+    [
+      "01kn18gqqm8ff4ph0tdqpwzxxa"
+    ],
+    [
+      "01kn18gqqmfbwqtg2eehax261s"
+    ],
+    [
+      "01kn18gqqmcsn30npghh7h4gpy"
+    ],
+    [
+      "01kn18gqqmcqy2ye60kymapg2x"
+    ],
+    [
+      "01kpdycmgkcna77cbdkstzh1dh"
+    ],
+    [
+      "01kn18gqqmav8yj1pa4bwv7p0w"
+    ],
+    [
+      "01kn18gqqmeewdbwjr86g05wwg"
+    ],
+    [
+      "01kn18gqqnxqh10gect84gzvnw"
+    ],
+    [
+      "01kn18gqqnxndv6mrqhbrc53ah"
+    ],
+    [
+      "01kn18gqqngwbwt28mq13yekhh"
+    ],
+    [
+      "01kn18gqqne7m24zbde4x6vwpy"
+    ],
+    [
+      "01kn18gqqnxfkph2vxe38x74c5",
+      [
+        "01kn18gqqn4785874x752q5077"
+      ]
+    ],
+    [
+      "01kn18gqqne4azfnd07epqtdv6"
+    ],
+    [
+      "01kn18gqqp8p5qcsk8wq1q2kjh"
+    ],
+    [
+      "01kn18gqqpmhw3qavqnv36rhse"
+    ],
+    [
+      "01kn18gqqpb66vrmde7m1jtaht"
+    ],
+    [
+      "01kn18gqqp1b6dftg69ccktdbz"
+    ],
+    [
+      "01kn18gqqsvrvpcxeb7tvka44j"
+    ],
+    [
+      "01kn18gqqs6a6ah3czrx2g0z13"
+    ],
+    [
+      "01kn18gqqsq07grzb71bbpb9fm"
+    ],
+    [
+      "01kn18gqqteszhze6vrjvm6qqw"
+    ],
+    [
+      "01kn18gqqt7faec8c86b0t0zgv"
+    ],
+    [
+      "01kqmhr6d280r9wnwpdbjccqc6"
+    ],
+    [
+      "01kn18gqqtq9rfngkfxxj1ez3e"
+    ],
+    [
+      "01kn18gqqt1q2s676v6sa4z65y"
+    ],
+    [
+      "01kn18gqqt6drv1y9pkhqm24zc"
+    ],
+    [
+      "01kn18gqqt22h2h7fc9ft7t2c4"
+    ],
+    [
+      "01kn18gqqtxn8c0m28xeq2zmvc"
+    ],
+    [
+      "01kn18gqqvnjynd1vsr3k15dxy"
+    ],
+    [
+      "01kn18gqqvgj14hk90r8t3k12g"
+    ],
+    [
+      "01kqmhrtyk4yv507jfq4ze7d2q"
+    ],
+    [
+      "01kqmhrztyqqne34fk92h0hw1q"
+    ],
+    [
+      "01kn18gqqvgjr2tspvrmbawx3f"
+    ],
+    [
+      "01kn18gqqvw220mpqxbka75gx5"
+    ],
+    [
+      "01kn18gqqvdmpk8hp3z9m24z6s"
+    ],
+    [
+      "01kn18gqqv6de7239dts6q3zt1"
+    ],
+    [
+      "01kn18gqqvhg249rk0d8g168xh"
+    ],
+    [
+      "01kn18gqqvrynztnfgq0k21gvz"
+    ],
+    [
+      "01kn18gqqw6azt7kbxthxc4bb8"
+    ],
+    [
+      "01kn18gqqwshc47kh0vzcjdts1"
+    ],
+    [
+      "01kn18gqqw145pfr2kgbf3j11h"
+    ],
+    [
+      "01kqmhsd1t9h898jzrcnjzn4v3"
+    ],
+    [
+      "01kqmhspn65qf7pgw6p7eqde98"
+    ],
+    [
+      "01kn18gqqwecam9kgdwp5vxq3z"
+    ],
+    [
+      "01kn18gqqwj32n0kq1jsfzb96w"
+    ],
+    [
+      "01kn18gqqwfyxyq3jr1v616dgx"
+    ],
+    [
+      "01kn18gqqw7wm9386r684qx9e7"
+    ],
+    [
+      "01kn18gqqxg2t8033yt9vby5ch"
+    ],
+    [
+      "01kn18gqqx9wqy5h2z2c2ms9s8"
+    ],
+    [
+      "01kn18gqqxfraynap6bwsqtwdp"
+    ],
+    [
+      "01kn18gqqxtfj6xqrtvg97twq1"
+    ],
+    [
+      "01kn18gqqxrysm38hffyqwtjys"
+    ],
+    [
+      "01kn18gqqxk2kqz1a1eaezbkzk"
+    ],
+    [
+      "01kn18gqqxmq4mcm9zdq09bcqz"
+    ],
+    [
+      "01kn18gqqxkpd3kqwmts6gsnfd"
+    ],
+    [
+      "01kn18gqqy5272kcp5szdqesjh"
+    ],
+    [
+      "01kqmhtf2vsjjydwrg207bvdm5"
+    ],
+    [
+      "01kpdyx3p018xre2be135jakn5"
+    ],
+    [
+      "01kn18gqqyvtg59zycrxanc2d7"
+    ],
+    [
+      "01kn18gqqynnfvb0pexz6fx6qj"
+    ],
+    [
+      "01kn18gqqyb6mq3wxxx16y31t0"
+    ],
+    [
+      "01kn18gqqy53ajpd3agpvbtgvw"
+    ],
+    [
+      "01kn18gqqz7k898bj8gz7xfqxc"
+    ],
+    [
+      "01kn18gqqzk3tqwxtq8z8y6ex8"
+    ],
+    [
+      "01kn18gqqzs060sytqbjmpkns8"
+    ],
+    [
+      "01kn18gqqzsz9n1mdcpmxn9s9h"
+    ],
+    [
+      "01kn18gqqz1fa4kwyjccqhphsm"
+    ],
+    [
+      "01kn18gqqzhz2tywvc5c1j81cv"
+    ],
+    [
+      "01kn18gqqzp45tdsnf0ygntc9k"
+    ],
+    [
+      "01kn18gqqzqtq272jtb1a47cc8"
+    ],
+    [
+      "01kn18gqr01gyxhn3j7c9z63py"
+    ],
+    [
+      "01kn18gqr0zyzcs12jw65cx4va"
+    ],
+    [
+      "01kn18gqr0dy14sjfv8vmehssq"
+    ],
+    [
+      "01kn18gqr0pwrxvt2fnxc8ccrz"
+    ],
+    [
+      "01kn18gqr06bfn6sg8jvvqs8x7"
+    ],
+    [
+      "01kn18gqr0k6mmmr73zpb79fxt"
+    ],
+    [
+      "01kn18gqr0xf4jppe0fh510539"
+    ],
+    [
+      "01kn18gqr06thfrj4z1s6m83y5"
+    ],
+    [
+      "01kn18gqr0hvf2f5tg8c7aaqr4"
+    ],
+    [
+      "01kn18gqr1qars18f4qzgv10hq"
+    ],
+    [
+      "01kn18gqr1tj6z429ctk3dpbvp"
+    ],
+    [
+      "01kn18gqr1qr04fmtfcpg566k5"
+    ],
+    [
+      "01kn18gqr1ptm0nrhcwnwcre1n"
+    ],
+    [
+      "01kn18gqr1cpwkkpsw36d52bcm"
+    ],
+    [
+      "01kn18gqr1zt1wdta9eqfkff14"
+    ],
+    [
+      "01kn18gqr14mp05v9e1wqq009r"
+    ],
+    [
+      "01kn18gqr21fxdgcw7qykgea65"
+    ],
+    [
+      "01kn18gqr2mwggc3w4jezz5w8k"
+    ],
+    [
+      "01kn18gqr2s2sfdqepbq39fgmr"
+    ],
+    [
+      "01kn18gqr2nfb6dr6wanh5gc49"
+    ],
+    [
+      "01kn18gqr23rb7s151h3qfye2k"
+    ],
+    [
+      "01kn18gqr2h8ybqmwze95b5yqb"
+    ],
+    [
+      "01kn18gqr2yr24pevhnw9hh6n5"
+    ],
+    [
+      "01kn18gqr39yttsrt329zpgseq"
+    ],
+    [
+      "01kn18h9g36p8eb11bqqvn1aky"
+    ]
+  ],
+  "blockMap": {
+    "01jfhet7etxpv7882avys43xyy": {
+      "id": "01jfhet7etxpv7882avys43xyy",
+      "type": "note",
+      "value": {
+        "pageHash": "xjqy1g2vd966v26vd54z",
+        "isOriginalBlock": true
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n0",
+      "rv": 2,
+      "rt": 3,
+      "version": 2
+    },
+    "01jh77ajzs01vg6sewfywemxta": {
+      "id": "01jh77ajzs01vg6sewfywemxta",
+      "type": "text",
+      "value": {
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n1",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqaew7wdv0nyd2vwrkm": {
+      "id": "01kn18gqqaew7wdv0nyd2vwrkm",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "Shardee 개인정보 처리방침"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n4",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqamepfjgr6w23fgp1h": {
+      "id": "01kn18gqqamepfjgr6w23fgp1h",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "본 개인정보 처리방침은 "
+          },
+          {
+            "text": "DIARO",
+            "styles": {
+              "b": true
+            }
+          },
+          {
+            "text": "(이하 \"운영자\")가 제공하는 모바일 애플리케이션 "
+          },
+          {
+            "text": "Shardee",
+            "styles": {
+              "b": true
+            }
+          },
+          {
+            "text": "(이하 \"앱\", \"회사\")의 서비스 이용과 관련하여 적용됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqb21jggvvkzb7q527n": {
+      "id": "01kn18gqqb21jggvvkzb7q527n",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "최종 업데이트일: 2026년 10월 14일"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6",
+      "rv": 21,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqbw1tsvkgn51hnqxxc": {
+      "id": "01kn18gqqbw1tsvkgn51hnqxxc",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n7",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqb2jy0fv9k3hnwh6cw": {
+      "id": "01kn18gqqb2jy0fv9k3hnwh6cw",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "1. 개인정보 처리방침의 목적"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqbr3m6nskzhkhmvqrd": {
+      "id": "01kn18gqqbr3m6nskzhkhmvqrd",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "본 개인정보 처리방침은 Shardee가 사용자 정보를 어떻게 수집, 이용, 저장 및 보호하는지 설명하며, 유럽경제지역(EEA) 사용자의 경우 일반 개인정보 보호법(GDPR)을 포함한 관련 법률을 준수합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n9",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqbpmndfknp538zz787": {
+      "id": "01kn18gqqbpmndfknp538zz787",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee는 개인정보 최소 수집을 원칙으로 설계되었습니다. 대부분의 사용자 생성 콘텐츠는 사용자 기기에 로컬로 저장되며, 회사 서버로 전송되지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".na",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqbghcw48cxq9s5rakt": {
+      "id": "01kn18gqqbghcw48cxq9s5rakt",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "본 방침은 개인정보 보호 법령 및 관련 지침의 개정이나 제품 내부방침의 변경 등으로 인해 수시로 개정될 수 있으며 본 방침을 통해 개정내역이 고지되며 사용자는 수시로 확인할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nb",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqb5hnsezasqmzrc211": {
+      "id": "01kn18gqqb5hnsezasqmzrc211",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".nc",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqcj37zy75crr63fxa2": {
+      "id": "01kn18gqqcj37zy75crr63fxa2",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "2. 수집하는 정보"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nd",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqchnzp3jr45cgz6159": {
+      "id": "01kn18gqqchnzp3jr45cgz6159",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee는 서비스 제공 및 품질 개선을 위해 필요한 최소한의 정보만을 수집합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".ne",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqcrtnq51yjkchhj2dc": {
+      "id": "01kn18gqqcrtnq51yjkchhj2dc",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "A. 앱 기능 제공을 위해 필요한 정보"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nf",
+      "rv": 2,
+      "rt": 1,
+      "version": 1
+    },
+    "01kpdz6g803073nrme9cfs3d2s": {
+      "id": "01kpdz6g803073nrme9cfs3d2s",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee는 앱의 핵심 기능 제공을 위해 다음과 같은 기기 접근 권한을 사용할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nge",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpdz6g80qvgg16pbggndzjaz": {
+      "id": "01kpdz6g80qvgg16pbggndzjaz",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "카메라 접근: 동영상을 촬영하기 위해 필요합니다."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".ngg",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpdz6g80zzm4kx03htsgt0gj": {
+      "id": "01kpdz6g80zzm4kx03htsgt0gj",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "마이크 접근: 영상과 함께 오디오를 녹음하기 위해 필요합니다."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".ngh",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpdz6g80dhwjncpra8fpqffg": {
+      "id": "01kpdz6g80dhwjncpra8fpqffg",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "사진 보관함 접근: 촬영한 파일을 사용자 기기에 저장하고, 필요한 경우 불러오기 위해 필요합니다."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nghi",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01kqmhp6mm92daz1ebnnx2nrjf": {
+      "id": "01kqmhp6mm92daz1ebnnx2nrjf",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "위치 접근: 사용자가 허용한 경우, 촬영한 영상 파일에 위치 메타데이터를 추가하기 위해 사용됩니다."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".ngho",
+      "rv": 6,
+      "rt": 3,
+      "version": 1
+    },
+    "01kqmhp6mn6pfdefkg240188pp": {
+      "id": "01kqmhp6mn6pfdefkg240188pp",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "알림 접근: 사용자가 허용한 경우, 촬영 리마인더 등 앱 사용과 관련된 알림을 보내기 위해 사용됩니다."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nghoi",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01m3vfe7g9jtemny8a0vr764yk": {
+      "id": "01m3vfe7g9jtemny8a0vr764yk",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "건강 접근(선택): 걸음 수를 영상에 표시하기 위해 사용됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nghq",
+      "rv": 5,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpdz6g800xcjg0ybqjpae1pj": {
+      "id": "01kpdz6g800xcjg0ybqjpae1pj",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자가 촬영한 영상과 오디오는 기본적으로 사용자 기기에 로컬로 저장되며, 회사 서버로 업로드하거나 저장하지 않습니다. "
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nghr",
+      "rv": 2,
+      "rt": 3,
+      "version": 1
+    },
+    "01kqmhqaxv6hd47w907ct0271s": {
+      "id": "01kqmhqaxv6hd47w907ct0271s",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "촬영 위치 좌표·주소·장소명은 Shardee 서버, Firebase Analytics 또는 PostHog로 전송되지 않습니다. 다만 사용자가 위치 메타데이터가 포함된 파일을 다른 앱이나 사람에게 공유하는 경우, 해당 파일에 포함된 위치 정보가 함께 공유될 수 있습니다. IP 주소에서 유추되는 대략적 위치 처리는 아래 사용 분석·오류 진단 설명에 따릅니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".ngr",
+      "rv": 3,
+      "rt": 3,
+      "version": 2
+    },
+    "01kn18gqqd89b7zgjjkz9r83mz": {
+      "id": "01kn18gqqd89b7zgjjkz9r83mz",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".nj",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqd4g8sp4mtn20dayh1": {
+      "id": "01kn18gqqd4g8sp4mtn20dayh1",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "B. 사용 분석 및 오류 진단 데이터"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nk",
+      "rv": 7,
+      "rt": 1,
+      "version": 1
+    },
+    "01kqmhkspt9xdb6zydeff3jwfd": {
+      "id": "01kqmhkspt9xdb6zydeff3jwfd",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee는 서비스 품질 향상과 기능 사용 분석을 위해 Google Firebase Analytics 및 PostHog를 사용합니다. Android에서는 Firebase Analytics로 사용 이벤트·구매 이벤트·앱 인스턴스 및 광고 식별자·IP 주소에서 유추한 대략적 위치를 처리합니다. Sentry는 비정상 종료·응답 없음·오류 진단, 앱·기기·운영체제 정보와 설치 식별자 및 IP 주소를 처리합니다. 자동 오류 진단은 사용 분석 동의 설정과 별도로 동작하며, 영상·사진 원본, 화면 캡처, 편집 텍스트 본문 및 건강 조회값을 진단 정보로 전송하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nm9",
+      "rv": 16,
+      "rt": 3,
+      "version": 2
+    },
+    "01kn18gqqe2wg7rm1jtkfd6zsp": {
+      "id": "01kn18gqqe2wg7rm1jtkfd6zsp",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "유럽경제지역(EEA) 사용자의 경우 온보딩 중 첫 설문 전에 표시되는 동의 화면에서 동의한 이후에 Firebase 등 사용 분석 데이터가 수집됩니다. Android의 EEA 외 지역에서는 사용 분석이 기본 활성화됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nn",
+      "rv": 5,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqe5464bszzv252d75t": {
+      "id": "01kn18gqqe5464bszzv252d75t",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "수집될 수 있는 정보:"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".no",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqerc0wfxxpwdckkdm9": {
+      "id": "01kn18gqqerc0wfxxpwdckkdm9",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 사용 패턴"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".np",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqe47tb0y2qpter3asv": {
+      "id": "01kn18gqqe47tb0y2qpter3asv",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기능 사용 빈도"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nq",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqfsmjm2kw9f8abmq2z": {
+      "id": "01kn18gqqfsmjm2kw9f8abmq2z",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "화면 이동 정보"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nr",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqfjh1kw0tqy8k2jv81": {
+      "id": "01kn18gqqfjh1kw0tqy8k2jv81",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "오류 로그 및 성능 데이터"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".ns",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqfd0any7d636dw72jb": {
+      "id": "01kn18gqqfd0any7d636dw72jb",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기기 모델"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nt",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqfqze0y8wd80arba38": {
+      "id": "01kn18gqqfqze0y8wd80arba38",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "운영체제 버전"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nu",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqfadq48a5bayesyrvc": {
+      "id": "01kn18gqqfadq48a5bayesyrvc",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 버전"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nv",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqfv6xe1fmery6egq7m": {
+      "id": "01kn18gqqfv6xe1fmery6egq7m",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "IP 주소에서 유추한 대략적인 위치 정보(국가·지역·도시)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nw",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqg38b3p5f9vdskpxdd": {
+      "id": "01kn18gqqg38b3p5f9vdskpxdd",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 인스턴스·설치·기기 식별자"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nx",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqg74r98cm27tkfsgdm": {
+      "id": "01kn18gqqg74r98cm27tkfsgdm",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "해당 정보는 다음 목적으로 사용됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".ny",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqgnnkem8tm62kshe1s": {
+      "id": "01kn18gqqgnnkem8tm62kshe1s",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 안정성 개선"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nz",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqg1aaw6ffy01ffcdn7": {
+      "id": "01kn18gqqg1aaw6ffy01ffcdn7",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기능 사용 분석"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o00",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqgqv1gqmgcz54ged6d": {
+      "id": "01kn18gqqgqv1gqmgcz54ged6d",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자 경험 개선"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o01",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqgtn4heaaffgt4eqdy": {
+      "id": "01kn18gqqgtn4heaaffgt4eqdy",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "해당 정보는 개인을 직접 식별하지 않습니다. 분석 이벤트에는 사용자가 촬영하거나 편집한 영상/사진 원본, 썸네일, 편집 텍스트 본문, 정확한 위치 좌표, 주소, 장소명, 걸음 수 조회값 및 증가량이 포함되지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o02",
+      "rv": 5,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqhqbseqpdmryj385mz": {
+      "id": "01kn18gqqhqbseqpdmryj385mz",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "유럽경제지역(EEA) 사용자는 언제든지 앱 내 설정 > 개인정보 및 약관 > 사용 분석에서 동의를 철회하거나 변경할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o03",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqhrrv8begv3mpm31xa": {
+      "id": "01kn18gqqhrrv8begv3mpm31xa",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o04",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqhjv9x64cwc5e5tvr7": {
+      "id": "01kn18gqqhjv9x64cwc5e5tvr7",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "C. 문의하기 기능 이용 시 수집되는 정보"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o05",
+      "rv": 2,
+      "rt": 1,
+      "version": 1
+    },
+    "01kpe5pzncmtbag05dby4df7k2": {
+      "id": "01kpe5pzncmtbag05dby4df7k2",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 내 문의하기 기능을 이용하는 경우, 사용자가 제공한 문의 내용은 아이디어 제안, 불만 사항 확인, 연락, 통지 및 처리 결과 안내를 위한 목적으로 처리될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o069",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01kn18gqqhhwty8n8p5np17g88": {
+      "id": "01kn18gqqhhwty8n8p5np17g88",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "이메일 주소 또는 Instagram·Threads 계정 정보 (선택 입력)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o07",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqhz5vr1yhbeq9gy1v0": {
+      "id": "01kn18gqqhz5vr1yhbeq9gy1v0",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의 내용"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o08",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqh988dnv86b3gfkpng": {
+      "id": "01kn18gqqh988dnv86b3gfkpng",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "첨부 이미지 (선택)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o09",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqj25pzxkxx68bvdvhh": {
+      "id": "01kn18gqqj25pzxkxx68bvdvhh",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기기 모델 정보"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0a",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqjwdj2yc76yc7yr8hr": {
+      "id": "01kn18gqqjwdj2yc76yc7yr8hr",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "운영체제 버전"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0b",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqj6p0wfh7bd1swxszh": {
+      "id": "01kn18gqqj6p0wfh7bd1swxszh",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 버전 정보"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0c",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqjazrbft8h1y95vaa8": {
+      "id": "01kn18gqqjazrbft8h1y95vaa8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의 내용은 팀의 원활한 고객 지원을 위해 Discord 등 외부 협업 도구를 통해 처리될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0d",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqj3mpkt29da94te8hm": {
+      "id": "01kn18gqqj3mpkt29da94te8hm",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "수집된 정보는 고객 문의 대응 목적으로만 사용됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0e",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqjnswm6r6w4jvne9w3": {
+      "id": "01kn18gqqjnswm6r6w4jvne9w3",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의 내용이나 첨부 이미지에 걸음 수 등 건강 정보나 민감한 개인정보를 포함하지 말아 주세요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0f",
+      "rv": 5,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqkfp84n3bwgexjdm9n": {
+      "id": "01kn18gqqkfp84n3bwgexjdm9n",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 문의 대응 목적 외에는 해당 정보를 사용하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0g",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqkfjzm55y3qfp4kdfv": {
+      "id": "01kn18gqqkfjzm55y3qfp4kdfv",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o0h",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqk2detc7wqzb5ej120": {
+      "id": "01kn18gqqk2detc7wqzb5ej120",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "D. 인앱결제 관련 정보"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0i",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqkhyepghf8ewtwted2": {
+      "id": "01kn18gqqkhyepghf8ewtwted2",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "프리미엄 기능은 iOS에서 Apple App Store, Android에서 Google Play의 인앱결제 시스템을 통해 제공됩니다. Android 앱은 구매 상태 확인·복원에 구매 내역과 구매 토큰을 사용하며, 사용 분석이 활성화된 경우 상품·금액·통화·거래 식별자를 Firebase Analytics의 구매 이벤트로 처리합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0j",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqkend1qs9mhcgvne95": {
+      "id": "01kn18gqqkend1qs9mhcgvne95",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "결제 정보는 Apple 또는 Google에서 처리되며, Shardee는 결제 카드 정보나 청구 정보를 수집하거나 저장하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0k",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqkqd3w4xazz9v8vwxc": {
+      "id": "01kn18gqqkqd3w4xazz9v8vwxc",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "구매 내역은 Apple 계정에 연결되며 동일한 Apple 계정으로 로그인한 경우 재설치 시 구매 내역을 복원할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0l",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqkzq4dx125ejcb06hf": {
+      "id": "01kn18gqqkzq4dx125ejcb06hf",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "자세한 내용은 Apple 개인정보 처리방침을 참고하시기 바랍니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0m",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01m3vfxq0rbv945xq1f5penh0x": {
+      "id": "01m3vfxq0rbv945xq1f5penh0x",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o0me",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01m3vfe899nwm37sdwemejgy8p": {
+      "id": "01m3vfe899nwm37sdwemejgy8p",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "E. Apple 건강 데이터"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mi",
+      "rv": 10,
+      "rt": 3,
+      "version": 2
+    },
+    "01m3vfn3rdtqd53jcq5f6bkc01": {
+      "id": "01m3vfn3rdtqd53jcq5f6bkc01",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "걸음 수 기능을 선택하고 권한을 허용하면 Apple 건강 앱의 걸음 수만 읽어 걷기 활동을 영상에 표시합니다. 건강 데이터를 추가하거나 변경하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mr",
+      "rv": 5,
+      "rt": 3,
+      "version": 2
+    },
+    "01m3vfn4jec60rxct0002sn7bd": {
+      "id": "01m3vfn4jec60rxct0002sn7bd",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "조회값은 기기 내 메모리에서만 처리하며, 서버·분석 서비스로 전송하거나 광고·마케팅에 사용하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mw",
+      "rv": 5,
+      "rt": 3,
+      "version": 2
+    },
+    "01m3vfn5a2x3eqz356dh8za6bq": {
+      "id": "01m3vfn5a2x3eqz356dh8za6bq",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "선택한 걸음 수는 내보낸 영상에 포함됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0my",
+      "rv": 5,
+      "rt": 3,
+      "version": 2
+    },
+    "01m3vfn618nk31c4ye5xpgjpcf": {
+      "id": "01m3vfn618nk31c4ye5xpgjpcf",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "권한은 Apple 건강 앱에서 철회할 수 있습니다. 이미 저장한 영상은 변경되지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mz",
+      "rv": 5,
+      "rt": 3,
+      "version": 2
+    },
+    "01m4xc9vrtvhvd3xf0dxz9n4xy": {
+      "id": "01m4xc9vrtvhvd3xf0dxz9n4xy",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mzi",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01m4xc95t9yt9n6qm3cg45f3x0": {
+      "id": "01m4xc95t9yt9n6qm3cg45f3x0",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "F. Android 헬스 커넥트 데이터"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mzo",
+      "rv": 3,
+      "rt": 3,
+      "version": 1
+    },
+    "01m4xc41yxrvhyxd9wavcz0p9n": {
+      "id": "01m4xc41yxrvhyxd9wavcz0p9n",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee의 걸음 수 표시는 선택 기능입니다. 사용자가 기능을 선택하고 안내에 동의한 뒤 Android 권한을 허용하면, 편집에 포함한 사진과 영상의 촬영 날짜 및 기간에 해당하는 걸음 수 합계를 헬스 커넥트에서 읽습니다(READ_STEPS). 하루 또는 영상 기간의 걷기 활동을 미리보기와 사용자가 내보내는 영상에 표시하는 데 사용합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mzp",
+      "rv": 1,
+      "rt": 3,
+      "version": 2
+    },
+    "01m4xc41yxs48e5vnsw6kz05j1": {
+      "id": "01m4xc41yxs48e5vnsw6kz05j1",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "30일 이전에 촬영한 미디어를 편집할 때에는 해당 기간의 걸음 수를 읽기 위해 과거 건강 데이터 접근 권한(READ_HEALTH_DATA_HISTORY)을 사용합니다. 걸음 수 외의 건강 데이터는 읽지 않으며, 헬스 커넥트 기록을 추가하거나 수정하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mzq",
+      "rv": 1,
+      "rt": 3,
+      "version": 2
+    },
+    "01m4xc41yxascx0y2qnbkqxsf8": {
+      "id": "01m4xc41yxascx0y2qnbkqxsf8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "조회한 수치는 기기에서 처리하고 편집 프로젝트나 프리셋에 건강 기록으로 저장하지 않습니다. 내보내기 과정에서는 걸음 수가 포함된 임시 이미지·영상이 앱의 기기 내 작업 공간에 생성될 수 있습니다. 내보낸 영상에는 선택한 걸음 수가 포함되며, 해당 영상은 사용자가 삭제할 때까지 기기에 남습니다. 앱 삭제나 권한 철회만으로 사진 보관함의 영상이나 다른 사람에게 공유한 사본이 삭제되지는 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mzqi",
+      "rv": 1,
+      "rt": 3,
+      "version": 2
+    },
+    "01m4xc41yxywe6kxbd1zxv01an": {
+      "id": "01m4xc41yxywe6kxbd1zxv01an",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "건강 조회값은 회사 서버, 광고 서비스 또는 분석 서비스에 전송하지 않으며 판매·광고·마케팅에 사용하지 않습니다. 사용자가 걸음 수를 포함한 영상을 다른 앱이나 사람에게 공유하면 영상 속 걸음 수도 전달됩니다. 공유 전 미리보기에서 내용을 확인하고, 원하지 않으면 걸음 수 표시를 제거할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mzqr",
+      "rv": 1,
+      "rt": 3,
+      "version": 2
+    },
+    "01m4xc41yxt4qyx1ytrmgzkxz0": {
+      "id": "01m4xc41yxt4qyx1ytrmgzkxz0",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "접근 권한은 Android의 헬스 커넥트에서 언제든 철회할 수 있습니다. 헬스 커넥트를 연결하지 않거나 권한을 거절해도 일반 촬영과 편집 기능을 사용할 수 있습니다. 원본 건강 기록은 헬스 커넥트에서 관리·삭제하고, 내보낸 영상은 사진 보관함이나 해당 사본을 보관한 앱에서 삭제할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0mzqw",
+      "rv": 1,
+      "rt": 3,
+      "version": 2
+    },
+    "01kn18gqqm8ff4ph0tdqpwzxxa": {
+      "id": "01kn18gqqm8ff4ph0tdqpwzxxa",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o0n",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqmfbwqtg2eehax261s": {
+      "id": "01kn18gqqmfbwqtg2eehax261s",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "3. 개인정보 처리의 법적 근거 (EEA 사용자)"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0o",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqmcsn30npghh7h4gpy": {
+      "id": "01kn18gqqmcsn30npghh7h4gpy",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "유럽경제지역(EEA) 사용자에 대해서는 다음 법적 근거에 따라 개인정보를 처리합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0p",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqmcqy2ye60kymapg2x": {
+      "id": "01kn18gqqmcqy2ye60kymapg2x",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자 동의: 선택적 사용 분석, 온보딩 설문 응답 수집, 선택적 걸음 수 읽기 및 기기 내 표시"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0q",
+      "rv": 9,
+      "rt": 1,
+      "version": 1
+    },
+    "01kpdycmgkcna77cbdkstzh1dh": {
+      "id": "01kpdycmgkcna77cbdkstzh1dh",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "정당한 이익: 고객 문의 대응, 지원 운영 및 앱 안정성 유지를 위한 오류 진단"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0r",
+      "rv": 4,
+      "rt": 3,
+      "version": 1
+    },
+    "01kn18gqqmav8yj1pa4bwv7p0w": {
+      "id": "01kn18gqqmav8yj1pa4bwv7p0w",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "계약 이행: 사용자가 요청한 앱 기능 제공"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0s",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqmeewdbwjr86g05wwg": {
+      "id": "01kn18gqqmeewdbwjr86g05wwg",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의 대응"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0t",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqnxqh10gect84gzvnw": {
+      "id": "01kn18gqqnxqh10gect84gzvnw",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "유럽경제지역(EEA) 사용자는 동의를 언제든지 철회할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0u",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqnxndv6mrqhbrc53ah": {
+      "id": "01kn18gqqnxndv6mrqhbrc53ah",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o0v",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqngwbwt28mq13yekhh": {
+      "id": "01kn18gqqngwbwt28mq13yekhh",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "4. 개인 정보 이용 목적"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0w",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqne7m24zbde4x6vwpy": {
+      "id": "01kn18gqqne7m24zbde4x6vwpy",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "수집된 정보는 다음 목적으로 사용됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0x",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqnxfkph2vxe38x74c5": {
+      "id": "01kn18gqqnxfkph2vxe38x74c5",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 기능 제공"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0y",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqn4785874x752q5077": {
+      "id": "01kn18gqqn4785874x752q5077",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "모바일 기기의 카메라를 활용한 동영상 촬영을 하거나 편집 시, 서비스 제공을 위해 이용자의 사진(또는 갤러리)에 접근할 수 있지만, 이용자의 영상을 복사하거나 회사의 서버로 전송, 저장하지 않습니다."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kn18gqqnxfkph2vxe38x74c5",
+      "sortKey": ".n0",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01kn18gqqne4azfnd07epqtdv6": {
+      "id": "01kn18gqqne4azfnd07epqtdv6",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "카메라를 이용한 영상 촬영 및 사용자 기기에 파일 저장"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o0z",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqp8p5qcsk8wq1q2kjh": {
+      "id": "01kn18gqqp8p5qcsk8wq1q2kjh",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "서비스 개선"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o10",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqpmhw3qavqnv36rhse": {
+      "id": "01kn18gqqpmhw3qavqnv36rhse",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 성능 분석 및 오류 개선"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o11",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqpb66vrmde7m1jtaht": {
+      "id": "01kn18gqqpb66vrmde7m1jtaht",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "고객 문의 대응"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o12",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqp1b6dftg69ccktdbz": {
+      "id": "01kn18gqqp1b6dftg69ccktdbz",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의하기 기능을 통해 접수된 문의 처리"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o13",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqsvrvpcxeb7tvka44j": {
+      "id": "01kn18gqqsvrvpcxeb7tvka44j",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 개인정보를 제 3자에게 판매하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o14",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqs6a6ah3czrx2g0z13": {
+      "id": "01kn18gqqs6a6ah3czrx2g0z13",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o15",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqsq07grzb71bbpb9fm": {
+      "id": "01kn18gqqsq07grzb71bbpb9fm",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "5. 개인정보 보관 및 처리 위치"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o16",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqteszhze6vrjvm6qqw": {
+      "id": "01kn18gqqteszhze6vrjvm6qqw",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자가 촬영한 영상은 사용자 기기에 로컬로 저장됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o17",
+      "rv": 5,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqt7faec8c86b0t0zgv": {
+      "id": "01kn18gqqt7faec8c86b0t0zgv",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee는 사용자 영상 데이터를 저장하는 별도의 서버를 운영하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o18",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kqmhr6d280r9wnwpdbjccqc6": {
+      "id": "01kqmhr6d280r9wnwpdbjccqc6",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용 분석 데이터는 Google Firebase Analytics 및 PostHog, Android 오류·진단 데이터는 Sentry를 통해 처리되며 해당 서비스의 데이터 보관 및 처리 정책이 적용됩니다. 앱 삭제만으로 이미 전송된 분석·진단·문의 정보가 삭제되지는 않습니다. 개인정보 관련 열람·삭제 요청은 아래 문의처로 보낼 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o199",
+      "rv": 3,
+      "rt": 3,
+      "version": 2
+    },
+    "01kn18gqqtq9rfngkfxxj1ez3e": {
+      "id": "01kn18gqqtq9rfngkfxxj1ez3e",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "문의 내용은 고객 대응을 위해 외부 협업 도구에 저장될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1a",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqt1q2s676v6sa4z65y": {
+      "id": "01kn18gqqt1q2s676v6sa4z65y",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 필요한 기간 동안만 개인정보를 보관합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1b",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqt6drv1y9pkhqm24zc": {
+      "id": "01kn18gqqt6drv1y9pkhqm24zc",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o1c",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqt22h2h7fc9ft7t2c4": {
+      "id": "01kn18gqqt22h2h7fc9ft7t2c4",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "6. 제3자 서비스 이용"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1d",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqtxn8c0m28xeq2zmvc": {
+      "id": "01kn18gqqtxn8c0m28xeq2zmvc",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee는 서비스 제공 및 개선을 위해 다음과 같은 외부 서비스를 이용합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1e",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqvnjynd1vsr3k15dxy": {
+      "id": "01kn18gqqvnjynd1vsr3k15dxy",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Google Firebase Analytics"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1f",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqvgj14hk90r8t3k12g": {
+      "id": "01kn18gqqvgj14hk90r8t3k12g",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 사용 패턴 및 성능 분석"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1g",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kqmhrtyk4yv507jfq4ze7d2q": {
+      "id": "01kqmhrtyk4yv507jfq4ze7d2q",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "PostHog\n"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1gn",
+      "rv": 4,
+      "rt": 3,
+      "version": 1
+    },
+    "01kqmhrztyqqne34fk92h0hw1q": {
+      "id": "01kqmhrztyqqne34fk92h0hw1q",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "앱 화면 흐름, 기능 사용 현황, 유료 기능 사용 여부 등 제품 분석"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1gr",
+      "rv": 2,
+      "rt": 3,
+      "version": 2
+    },
+    "01kn18gqqvgjr2tspvrmbawx3f": {
+      "id": "01kn18gqqvgjr2tspvrmbawx3f",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Discord"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1h",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqvw220mpqxbka75gx5": {
+      "id": "01kn18gqqvw220mpqxbka75gx5",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "고객 문의 관리"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1i",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqvdmpk8hp3z9m24z6s": {
+      "id": "01kn18gqqvdmpk8hp3z9m24z6s",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Apple App Store"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1j",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqv6de7239dts6q3zt1": {
+      "id": "01kn18gqqv6de7239dts6q3zt1",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "인앱결제 처리"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1k",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqvhg249rk0d8g168xh": {
+      "id": "01kn18gqqvhg249rk0d8g168xh",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Slashpage"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1l",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqvrynztnfgq0k21gvz": {
+      "id": "01kn18gqqvrynztnfgq0k21gvz",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "당사는 도움말 페이지 또는 정책 문서 제공을 위해 Slashpage에 호스팅된 웹페이지 링크를 사용할 수 있습니다. 해당 페이지 방문 시 Slashpage의 개인정보처리방침에 따라 접속 기록 등 제한적인 기술 정보가 처리될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1m",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqw6azt7kbxthxc4bb8": {
+      "id": "01kn18gqqw6azt7kbxthxc4bb8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Android에서는 Sentry를 오류·진단 처리에, Firebase Cloud Messaging을 알림 전달에, Google Play를 결제에 사용합니다. 알림을 허용한 경우 Firebase 설치 식별자와 등록 토큰이 알림 전달에 사용됩니다. Sentry 개인정보처리방침: "
+          },
+          {
+            "text": "https://sentry.io/privacy/",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"https://sentry.io/privacy/\"}"
+            }
+          },
+          {
+            "text": " . 각 서비스는 해당 서비스 제공자의 개인정보 처리방침에 따라 데이터를 처리합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1n",
+      "rv": 5,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqwshc47kh0vzcjdts1": {
+      "id": "01kn18gqqwshc47kh0vzcjdts1",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Google 개인정보 처리방침"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1o",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqw145pfr2kgbf3j11h": {
+      "id": "01kn18gqqw145pfr2kgbf3j11h",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "https://policies.google.com/privacy",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"https://policies.google.com/privacy\"}"
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1p",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kqmhsd1t9h898jzrcnjzn4v3": {
+      "id": "01kqmhsd1t9h898jzrcnjzn4v3",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "PostHog 개인정보 처리방침"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1pi",
+      "rv": 31,
+      "rt": 3,
+      "version": 2
+    },
+    "01kqmhspn65qf7pgw6p7eqde98": {
+      "id": "01kqmhspn65qf7pgw6p7eqde98",
+      "type": "text",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "https://posthog.com/privacy",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"https://posthog.com/privacy\"}"
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1pr",
+      "rv": 5,
+      "rt": 3,
+      "version": 1
+    },
+    "01kn18gqqwecam9kgdwp5vxq3z": {
+      "id": "01kn18gqqwecam9kgdwp5vxq3z",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Apple 개인정보 처리방침"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1q",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqwj32n0kq1jsfzb96w": {
+      "id": "01kn18gqqwj32n0kq1jsfzb96w",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "https://www.apple.com/legal/privacy/",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"https://www.apple.com/legal/privacy/\"}"
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1r",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqwfyxyq3jr1v616dgx": {
+      "id": "01kn18gqqwfyxyq3jr1v616dgx",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Discord 개인정보 처리방침"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1s",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqw7wm9386r684qx9e7": {
+      "id": "01kn18gqqw7wm9386r684qx9e7",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "https://discord.com/privacy",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"https://discord.com/privacy\"}"
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1t",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqxg2t8033yt9vby5ch": {
+      "id": "01kn18gqqxg2t8033yt9vby5ch",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "Slashpage 개인정보처리방침"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1u",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqx9wqy5h2z2c2ms9s8": {
+      "id": "01kn18gqqx9wqy5h2z2c2ms9s8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "https://slashpage.com/s/terms/privacy?lang=en",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"https://slashpage.com/s/terms/privacy?lang=en\"}"
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1v",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqxfraynap6bwsqtwdp": {
+      "id": "01kn18gqqxfraynap6bwsqtwdp",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 개인정보를 제3자에게 판매하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1w",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqxtfj6xqrtvg97twq1": {
+      "id": "01kn18gqqxtfj6xqrtvg97twq1",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o1x",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqxrysm38hffyqwtjys": {
+      "id": "01kn18gqqxrysm38hffyqwtjys",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "7. 국외 데이터 처리"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1y",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqxk2kqz1a1eaezbkzk": {
+      "id": "01kn18gqqxk2kqz1a1eaezbkzk",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "일부 외부 서비스 제공자는 사용자의 거주 국가 외 지역에서 데이터를 처리할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o1z",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqxmq4mcm9zdq09bcqz": {
+      "id": "01kn18gqqxmq4mcm9zdq09bcqz",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "관련 법률이 요구하는 경우 표준계약조항(Standard Contractual Clauses) 등 적절한 보호 장치를 적용합니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o20",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqxkpd3kqwmts6gsnfd": {
+      "id": "01kn18gqqxkpd3kqwmts6gsnfd",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o21",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqy5272kcp5szdqesjh": {
+      "id": "01kn18gqqy5272kcp5szdqesjh",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "8. 이용자의 권리 (GDPR)"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o22",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kqmhtf2vsjjydwrg207bvdm5": {
+      "id": "01kqmhtf2vsjjydwrg207bvdm5",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "사용자는 기기 설정 또는 앱 내 설정에서 카메라, 마이크, 사진 보관함, 알림, 위치 권한 및 사용 분석 설정을 변경하거나 철회할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o239",
+      "rv": 15,
+      "rt": 3,
+      "version": 2
+    },
+    "01kpdyx3p018xre2be135jakn5": {
+      "id": "01kpdyx3p018xre2be135jakn5",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "유럽경제지역(EEA) 사용자는 앱 내 설정 > 개인정보 및 약관 > 사용 분석에서 분석 데이터 수집 동의를 변경하거나 철회할 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o24",
+      "rv": 3,
+      "rt": 3,
+      "version": 1
+    },
+    "01kn18gqqyvtg59zycrxanc2d7": {
+      "id": "01kn18gqqyvtg59zycrxanc2d7",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "유럽경제지역(EEA) 사용자는 다음 권리를 가집니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o26",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqynnfvb0pexz6fx6qj": {
+      "id": "01kn18gqqynnfvb0pexz6fx6qj",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 열람 요청"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o27",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqyb6mq3wxxx16y31t0": {
+      "id": "01kn18gqqyb6mq3wxxx16y31t0",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 수정 요청"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o28",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqy53ajpd3agpvbtgvw": {
+      "id": "01kn18gqqy53ajpd3agpvbtgvw",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 삭제 요청"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o29",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqz7k898bj8gz7xfqxc": {
+      "id": "01kn18gqqz7k898bj8gz7xfqxc",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "동의 철회"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2a",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqzk3tqwxtq8z8y6ex8": {
+      "id": "01kn18gqqzk3tqwxtq8z8y6ex8",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "처리 제한 요청"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2b",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqzs060sytqbjmpkns8": {
+      "id": "01kn18gqqzs060sytqbjmpkns8",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "감독기관에 민원 제기"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2c",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqzsz9n1mdcpmxn9s9h": {
+      "id": "01kn18gqqzsz9n1mdcpmxn9s9h",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee는 사용자 영상을 서버에 저장하지 않기 때문에 대부분의 데이터는 앱 삭제 시 함께 삭제됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2d",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqz1fa4kwyjccqhphsm": {
+      "id": "01kn18gqqz1fa4kwyjccqhphsm",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "권리 행사 관련 문의는 아래 이메일로 연락하시기 바랍니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2e",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqzhz2tywvc5c1j81cv": {
+      "id": "01kn18gqqzhz2tywvc5c1j81cv",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o2f",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqzp45tdsnf0ygntc9k": {
+      "id": "01kn18gqqzp45tdsnf0ygntc9k",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "9. 개인정보 보호 조치"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2g",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqqzqtq272jtb1a47cc8": {
+      "id": "01kn18gqqzqtq272jtb1a47cc8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "회사는 개인정보 보호를 위해 합리적인 기술적 및 관리적 보호 조치를 적용하고 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2h",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr01gyxhn3j7c9z63py": {
+      "id": "01kn18gqr01gyxhn3j7c9z63py",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "외부 서비스로 전송되는 데이터는 암호화된 통신 방식으로 보호됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2i",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr0zyzcs12jw65cx4va": {
+      "id": "01kn18gqr0zyzcs12jw65cx4va",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o2j",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr0dy14sjfv8vmehssq": {
+      "id": "01kn18gqr0dy14sjfv8vmehssq",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "10. 아동의 개인정보"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2k",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr0pwrxvt2fnxc8ccrz": {
+      "id": "01kn18gqr0pwrxvt2fnxc8ccrz",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee는 아동의 개인정보를 의도적으로 수집하지 않습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2l",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr06bfn6sg8jvvqs8x7": {
+      "id": "01kn18gqr06bfn6sg8jvvqs8x7",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o2m",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr0k6mmmr73zpb79fxt": {
+      "id": "01kn18gqr0k6mmmr73zpb79fxt",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "11. 문의처"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2n",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr0xf4jppe0fh510539": {
+      "id": "01kn18gqr0xf4jppe0fh510539",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 관련 문의는 아래 연락처로 문의하시기 바랍니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2o",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr06thfrj4z1s6m83y5": {
+      "id": "01kn18gqr06thfrj4z1s6m83y5",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "기관명: 디아로(DIARO)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2p",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr0hvf2f5tg8c7aaqr4": {
+      "id": "01kn18gqr0hvf2f5tg8c7aaqr4",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보보호 책임자: 김소현"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2q",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr1qars18f4qzgv10hq": {
+      "id": "01kn18gqr1qars18f4qzgv10hq",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "직위: 대표"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2r",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr1tj6z429ctk3dpbvp": {
+      "id": "01kn18gqr1tj6z429ctk3dpbvp",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "주소: 서울특별시 강남구 테헤란로70길 12, 402-401A호(대치동, H타워)"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2s",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr1qr04fmtfcpg566k5": {
+      "id": "01kn18gqr1qr04fmtfcpg566k5",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "이메일: "
+          },
+          {
+            "text": "untitledshatter@gmail.com",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"mailto:untitledshatter@gmail.com\"}"
+            }
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2t",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr1ptm0nrhcwnwcre1n": {
+      "id": "01kn18gqr1ptm0nrhcwnwcre1n",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".o2u",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr1cpwkkpsw36d52bcm": {
+      "id": "01kn18gqr1cpwkkpsw36d52bcm",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "12. 변경사항 안내"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2v",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr1zt1wdta9eqfkff14": {
+      "id": "01kn18gqr1zt1wdta9eqfkff14",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "이용자는 개인정보 열람 청구 및 회사의 서비스(또는 사업)을 이용하면서 발생한 모든 개인정보보호관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의할 수 있습니다. 정보주체는 개인정보침해로 인한 구제를 받기 위하여 개인정보분쟁조정위원회, 한국인터넷진흥원 개인정보침해신고센터 등에 분쟁해결이나 상담 등을 신청할 수 있습니다. 이 밖에 기타 개인정보침해에 대한 신고 또는 상담이 필요하신 경우에는 아래 기관으로 문의하시기 바랍니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2w",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr14mp05v9e1wqq009r": {
+      "id": "01kn18gqr14mp05v9e1wqq009r",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보분쟁조정위원회("
+          },
+          {
+            "text": "www.kopico.go.kr",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"http://www.kopico.go.kr/\"}"
+            }
+          },
+          {
+            "text": ") : 02-1833-6972"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2x",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr21fxdgcw7qykgea65": {
+      "id": "01kn18gqr21fxdgcw7qykgea65",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "한국인터넷진흥원 개인정보침해신고센터("
+          },
+          {
+            "text": "privacy.kisa.or.kr",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"http://privacy.kisa.or.kr/\"}"
+            }
+          },
+          {
+            "text": ") : 국번없이 118"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2y",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr2mwggc3w4jezz5w8k": {
+      "id": "01kn18gqr2mwggc3w4jezz5w8k",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "대검찰청 사이버범죄수사단("
+          },
+          {
+            "text": "www.spo.go.kr",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"http://www.spo.go.kr/\"}"
+            }
+          },
+          {
+            "text": ") : 국번없이 1301"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o2z",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr2s2sfdqepbq39fgmr": {
+      "id": "01kn18gqr2s2sfdqepbq39fgmr",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "경찰청 사이버안전국("
+          },
+          {
+            "text": "cyberbureau.police.go.kr",
+            "extended": {
+              "type": "clickAction",
+              "value": "{\"action\":\"url\",\"url\":\"http://cyberbureau.police.go.kr/\"}"
+            }
+          },
+          {
+            "text": ") : 국번없이 182"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o30",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr2nfb6dr6wanh5gc49": {
+      "id": "01kn18gqr2nfb6dr6wanh5gc49",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "13. 개인정보 고지 의무",
+            "styles": {
+              "b": true
+            }
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o31",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr23rb7s151h3qfye2k": {
+      "id": "01kn18gqr23rb7s151h3qfye2k",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "본 개인정보처리방침은 정부의 정책 또는 회사의 필요에 의하여 변경될 수 있습니다. 내용의 추가 및 삭제, 수정이 있을 시에는 홈페이지 혹은 앱을 통해 지체 없이 공지하며, 이 정책은 공지에 기재한 시행일로부터 시행됩니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o32",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr2h8ybqmwze95b5yqb": {
+      "id": "01kn18gqr2h8ybqmwze95b5yqb",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "개인정보 처리방침 버전번호 : v1.3.2"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o33",
+      "rv": 5,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr2yr24pevhnw9hh6n5": {
+      "id": "01kn18gqr2yr24pevhnw9hh6n5",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "이전 개인정보 처리방침 시행일자 : 2026년 10월 1일"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o34",
+      "rv": 5,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18gqr39yttsrt329zpgseq": {
+      "id": "01kn18gqr39yttsrt329zpgseq",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "현재 개인정보 처리방침 시행일자 : 2026년 10월 14일"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o35",
+      "rv": 5,
+      "rt": 1,
+      "version": 1
+    },
+    "01kn18h9g36p8eb11bqqvn1aky": {
+      "id": "01kn18h9g36p8eb11bqqvn1aky",
+      "type": "text",
+      "value": {
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".o36",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    }
+  }
+}

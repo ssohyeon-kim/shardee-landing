@@ -1,0 +1,35 @@
+---
+import type { FaqItem } from '../../content/faq';
+interface Props { category: string; id: string; items: FaqItem[]; }
+const { category, id, items } = Astro.props;
+---
+<section class="faq-group" aria-labelledby={id}>
+  <h2 id={id}>{category}</h2>
+  <div class="questions">
+    {items.map(({ id, question, answer }) => (
+      <details id={id}>
+        <summary><h3>{question}</h3><span class="plus" aria-hidden="true">+</span></summary>
+        <div class="answer" set:html={answer} />
+      </details>
+    ))}
+  </div>
+</section>
+<style>
+  .faq-group { display: grid; grid-template-columns: minmax(9rem, 1fr) minmax(0, 3fr); gap: 2rem; padding-block: 2.5rem; border-top: 1px solid var(--color-border); }
+  h2 { font-size: 1.1rem; line-height: 1.6; margin: 1rem 0 0; letter-spacing: -.03em; scroll-margin-top: 7rem; }
+  details { border-bottom: 1px solid var(--color-border); scroll-margin-top: 7rem; }
+  details:last-child { border-bottom: 0; }
+  summary { list-style: none; cursor: pointer; display: flex; align-items: baseline; justify-content: space-between; gap: 1.5rem; padding: 1.2rem .25rem; font-size: 1.05rem; line-height: 1.65; font-weight: 600; min-height: 44px; }
+  summary::-webkit-details-marker { display: none; }
+  summary h3 { margin: 0; font: inherit; letter-spacing: inherit; }
+  .plus { flex: 0 0 1.25rem; text-align: center; font-size: 1.4rem; font-weight: 400; line-height: 1; transition: transform .15s ease; }
+  details[open] .plus { transform: rotate(45deg); }
+  .answer { padding: 0 2rem 1.5rem .25rem; line-height: 1.9; overflow-wrap: anywhere; }
+  .answer :global(p) { margin: .5rem 0 1rem; }
+  .answer :global(ul) { padding-left: 1.25rem; margin: .5rem 0; }
+  .answer :global(li) { margin-block: .6rem; }
+  .answer :global(h3) { font-size: 1rem; margin-top: 1.5rem; }
+  .answer :global(a) { color: inherit; text-decoration: underline; text-underline-offset: .2em; }
+  @media (max-width: 650px) { .faq-group { grid-template-columns: minmax(0, 1fr); gap: .5rem; padding-block: 1.5rem; } h2 { margin: 0 0 .5rem; } .answer { padding-right: .25rem; } }
+  @media (prefers-reduced-motion: reduce) { .plus { transition: none; } }
+</style>

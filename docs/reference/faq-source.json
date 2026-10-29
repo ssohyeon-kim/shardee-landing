@@ -1,0 +1,1606 @@
+{
+  "id": "01jen82je9anpjb7xbetsck31r",
+  "version": 4,
+  "createdAt": 1780117776836,
+  "blockTree": [
+    [
+      "01jen82zmar8akc4v3h93kztrj"
+    ],
+    [
+      "01jen8532yfqr9sxvktgevdk9j"
+    ],
+    [
+      "01jen83ksfa89vq43j5bvr5kh4"
+    ],
+    [
+      "01jen84mp4549x1gqqfffpkjf8"
+    ],
+    [
+      "01jen85ent2gv3q4y18rtt421n"
+    ],
+    [
+      "01jen85etf3hjwmysfa4315fmp"
+    ],
+    [
+      "01jencnrrmsb0r6102540q2139"
+    ],
+    [
+      "01jen8ac9dnyjys9dpwk9tt4v1"
+    ],
+    [
+      "01jfaa7sn6v7jhgyp6172kp5ta"
+    ],
+    [
+      "01jfaa8k9gzb618sjmrvam5krd"
+    ],
+    [
+      "01jfaa8z6qc0kx389w2z7mbdkj"
+    ],
+    [
+      "01jfaacjtgcyfx05qr96v6fy01"
+    ],
+    [
+      "01jfbrmaf7fk0zbyhp4wpeq29q"
+    ],
+    [
+      "01jfbrnpdjgkx13gkd57hs09p8"
+    ],
+    [
+      "01jfbrnv9kjw892ab7jwyg1dg6"
+    ],
+    [
+      "01jfaa8kj42jq38fjs31z58z43"
+    ],
+    [
+      "01jfaa84fbqm0sdw7r7s1hah9w"
+    ],
+    [
+      "01jfaa84fcc2sn0bdh04rfk3zd"
+    ],
+    [
+      "01jen8e283qbjq5kykgqpne7v8"
+    ],
+    [
+      "01jencmjvprj4ke05xt65shxxw"
+    ],
+    [
+      "01jen8arksy628vs9q1gh5g7j1",
+      [
+        "01jen8arksq01drk82n59gr2t2"
+      ]
+    ],
+    [
+      "01kpmrnpy41brq641yqmhqah4a",
+      [
+        "01kpnqywnemers9x2g7s3cvxtd",
+        [
+          "01kpqqxhmwf263vc92mjz3feaa"
+        ],
+        [
+          "01kpqqymw4q0h3eb0ctkwsfwd2"
+        ],
+        [
+          "01kpqqzbgh8w90q8hgcp93m4kb"
+        ],
+        [
+          "01kpqqzqs7znd40e62by8976h2"
+        ]
+      ]
+    ],
+    [
+      "01kpqqtkfynr09wx28fn27zah4",
+      [
+        "01kpqqtkfych5h5mtktd4p1etz"
+      ]
+    ],
+    [
+      "01jen8arktr0dpes8j80e61hrw",
+      [
+        "01jen8arkt270d8vra185bahc2"
+      ]
+    ],
+    [
+      "01jen8arkthhtmvvtqwm35pbt8",
+      [
+        "01jen8arkv6meet7c57hksgvxm"
+      ]
+    ],
+    [
+      "01jeyzh2x9p0sc80c2ns1mevd2",
+      [
+        "01jeyzhkf94byz9kz0n39cc9ek"
+      ]
+    ],
+    [
+      "01jen8arkvh1a8hy21amyrjb39",
+      [
+        "01jen8arkwrrfymkndcrdr2s6d"
+      ]
+    ],
+    [
+      "01jen8arkw0pgkx4nbqa3qxg73",
+      [
+        "01jen8arkx4x54bb8wxzbbct9p"
+      ],
+      [
+        "01kpmrh30fk97ak9xybs3bskzs"
+      ]
+    ],
+    [
+      "01jen8arkxxqg2rtyataten51m",
+      [
+        "01kpmrkv38bpthtj9anxn85qfw"
+      ],
+      [
+        "01jen8arky5vhyz41f36bmbxym"
+      ]
+    ],
+    [
+      "01kpmtcmcmry42jtfj9c86c38h",
+      [
+        "01kpnqz4rt8d8r4669q7etxa2h"
+      ],
+      [
+        "01kpnr8hs3s8msb5nkv5g6nz54",
+        [
+          "01kpnr66y5nsbrzz23rt9xwtxe"
+        ],
+        [
+          "01kpnr66y68h759xvgyb4ragtg",
+          [
+            "01kpnr66y6twcr3tr32kb2d1yw"
+          ],
+          [
+            "01kpnr6rapznp63tjyvmx2j8nh"
+          ],
+          [
+            "01kpnr6v39eeyat74p87hpxhgj"
+          ]
+        ],
+        [
+          "01kpnr79wy5mjcc0dcpm9qef3t"
+        ],
+        [
+          "01kpnr79wyfbyfggme75hs5hex",
+          [
+            "01kpnr79wzgh16taqh0gckxxrh"
+          ],
+          [
+            "01kpnr7m2fzxjkc5g6ra05qh2f"
+          ],
+          [
+            "01kpnr7phcq0t0vx9hs4kb3xeq"
+          ],
+          [
+            "01kpnr7t8aahrypzxgqeagjpmt"
+          ]
+        ]
+      ]
+    ],
+    [
+      "01kpmrnht3tn6684b48q60pcda"
+    ],
+    [
+      "01jen8f9pqxrebpyabh55xt0hk"
+    ],
+    [
+      "01jen8f08hpv2870gjcb0kje52",
+      [
+        "01jen8f08hc18d2es0p0q1h9qy"
+      ]
+    ],
+    [
+      "01jen8f08hjszm7c8csmnnmkfm",
+      [
+        "01jen8f08jhy18g1sha0x31c15"
+      ]
+    ],
+    [
+      "01jen8f08jhhsxcx34nfpf9a8e",
+      [
+        "01jen8f08kx64p5v6hyy3f9dfk"
+      ]
+    ],
+    [
+      "01jen8f08k2g0j9zkddhd5nxqc",
+      [
+        "01jen8f08kpc50w5dz6rc01xqa"
+      ]
+    ],
+    [
+      "01jen8f08khj6ztfm7m6ptsryp",
+      [
+        "01jen8f08khg62pyhnxj12bhsa"
+      ]
+    ],
+    [
+      "01kpqr8vp4m68cv0dc8aph31z5",
+      [
+        "01kpqr8vp42hryhpnb8nsfdrmz"
+      ]
+    ],
+    [
+      "01jen8f08mrcf7taq58h54t7ef",
+      [
+        "01jen8f08mqth2sex096gdrggh"
+      ]
+    ],
+    [
+      "01jen8f08psnxjsft4n8md5mc8",
+      [
+        "01jen8f08ptyrpyxhks96wftqz",
+        [
+          "01jen8f08p4b556tepwpeqgxjb"
+        ],
+        [
+          "01jen8f08pgzmxw9j90f2g4m9e"
+        ],
+        [
+          "01jen8f08q730ymap597bjb4m0"
+        ]
+      ]
+    ],
+    [
+      "01jenckx4x51b4ercwy2py9jb5"
+    ],
+    [
+      "01jencm0e0pr7y9cn5x465r3wj"
+    ],
+    [
+      "01jencm0e1sa21vk8h3m6cexj8"
+    ],
+    [
+      "01jencsch21p7hbxdr5c30nfnr"
+    ]
+  ],
+  "blockMap": {
+    "01jen82zmar8akc4v3h93kztrj": {
+      "id": "01jen82zmar8akc4v3h93kztrj",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n0",
+      "rv": 4,
+      "rt": 1,
+      "version": 1
+    },
+    "01jen8532yfqr9sxvktgevdk9j": {
+      "id": "01jen8532yfqr9sxvktgevdk9j",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n0i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen83ksfa89vq43j5bvr5kh4": {
+      "id": "01jen83ksfa89vq43j5bvr5kh4",
+      "type": "heading",
+      "value": {
+        "level": 2,
+        "tokens": [
+          {
+            "text": "📷 샤디 앱을 소개해요. "
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n1",
+      "rv": 27,
+      "rt": 1,
+      "version": 1
+    },
+    "01jen84mp4549x1gqqfffpkjf8": {
+      "id": "01jen84mp4549x1gqqfffpkjf8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "‘샤디'는 일상의 순간을 더욱 쉽게 기록하고 특별하게 남길 수 있는 초간단 동영상 제작 앱입니다. 0.5초, 1초, 2초 단위로 짧은 순간을 동영상으로 촬영하여 자동으로 하나의 영상으로 연결하고 완성해 보세요. 샤디는 단순 촬영부터 편집, 랜더링까지 앱 내에서 한 번에 해결할 수 있어 일상 속 특별한 순간을 놓치지 않고 담을 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n2",
+      "rv": 19,
+      "rt": 1,
+      "version": 1
+    },
+    "01jen85ent2gv3q4y18rtt421n": {
+      "id": "01jen85ent2gv3q4y18rtt421n",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "Introducing Shardee."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n3",
+      "rv": 22,
+      "rt": 1,
+      "version": 1
+    },
+    "01jen85etf3hjwmysfa4315fmp": {
+      "id": "01jen85etf3hjwmysfa4315fmp",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Shardee is a super-simple video camera app that makes it easy to capture and preserve everyday moments in a special way. Record short clips in increments of 0.5 seconds, 1 second, or 2 seconds, and seamlessly combine them into one complete video. Shardee handles everything from shooting to editing and rendering all within the app, so you can effortlessly capture and cherish the special moments of your daily life."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n4",
+      "rv": 9,
+      "rt": 1,
+      "version": 1
+    },
+    "01jencnrrmsb0r6102540q2139": {
+      "id": "01jencnrrmsb0r6102540q2139",
+      "type": "text",
+      "value": {
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8ac9dnyjys9dpwk9tt4v1": {
+      "id": "01jen8ac9dnyjys9dpwk9tt4v1",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n5i",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfaa7sn6v7jhgyp6172kp5ta": {
+      "id": "01jfaa7sn6v7jhgyp6172kp5ta",
+      "type": "heading",
+      "value": {
+        "align": "left",
+        "level": 2,
+        "tokens": [
+          {
+            "text": "공지 사항 "
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5r",
+      "rv": 15,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfaa8k9gzb618sjmrvam5krd": {
+      "id": "01jfaa8k9gzb618sjmrvam5krd",
+      "type": "text",
+      "value": {
+        "align": "left",
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5u",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfaa8z6qc0kx389w2z7mbdkj": {
+      "id": "01jfaa8z6qc0kx389w2z7mbdkj",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "클립 합치기 기능은 샤디 찍은 영상을 이용하기를 권장합니다. 다른 카메라로 촬영된 영상을 합치는 경우 일부 불러오지 못하거나 오류가 발생할 수 있습니다. "
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5u9",
+      "rv": 179,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfaacjtgcyfx05qr96v6fy01": {
+      "id": "01jfaacjtgcyfx05qr96v6fy01",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "클립을 합치는 기능에 시간과 클립 수에 제한은 없으나 너무 긴 영상길이 혹은 많은 클립 갯수를 선택한 경우 앱이 강제 종료될 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5ue",
+      "rv": 128,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfbrmaf7fk0zbyhp4wpeq29q": {
+      "id": "01jfbrmaf7fk0zbyhp4wpeq29q",
+      "type": "text",
+      "value": {
+        "align": "left",
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5up",
+      "rv": 2,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfbrnpdjgkx13gkd57hs09p8": {
+      "id": "01jfbrnpdjgkx13gkd57hs09p8",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "We recommend using videos taken with Shardee for the clip-merging feature. If you merge videos recorded with other cameras, some clips may fail to load, or errors could occur."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5ux",
+      "rv": 9,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfbrnv9kjw892ab7jwyg1dg6": {
+      "id": "01jfbrnv9kjw892ab7jwyg1dg6",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "There are no time or clip number limits for the clip-merging feature. However, selecting excessively long video durations or too many clips may cause the app to crash."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5uz",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfaa8kj42jq38fjs31z58z43": {
+      "id": "01jfaa8kj42jq38fjs31z58z43",
+      "type": "text",
+      "value": {
+        "align": "left",
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5v",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfaa84fbqm0sdw7r7s1hah9w": {
+      "id": "01jfaa84fbqm0sdw7r7s1hah9w",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n5w",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jfaa84fcc2sn0bdh04rfk3zd": {
+      "id": "01jfaa84fcc2sn0bdh04rfk3zd",
+      "type": "text",
+      "value": {
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n5y",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8e283qbjq5kykgqpne7v8": {
+      "id": "01jen8e283qbjq5kykgqpne7v8",
+      "type": "heading",
+      "value": {
+        "align": "left",
+        "level": 2,
+        "tokens": [
+          {
+            "text": "자주 묻는 질문 "
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6",
+      "rv": 30,
+      "rt": 3,
+      "version": 1
+    },
+    "01jencmjvprj4ke05xt65shxxw": {
+      "id": "01jencmjvprj4ke05xt65shxxw",
+      "type": "note",
+      "value": {
+        "pageHash": "4z7pvx2kz1jw1mek8653",
+        "isOriginalBlock": true
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n68",
+      "rv": 2,
+      "rt": 9,
+      "version": 2
+    },
+    "01jen8arksy628vs9q1gh5g7j1": {
+      "id": "01jen8arksy628vs9q1gh5g7j1",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "샤디는 유료인가요? "
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6i",
+      "rv": 10,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8arksq01drk82n59gr2t2": {
+      "id": "01jen8arksq01drk82n59gr2t2",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디 앱은 다운로드와 기본 기능인 짧게 찍고 이어붙이기, 자막쓰기는 무료로 이용하실 수 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8arksy628vs9q1gh5g7j1",
+      "sortKey": ".n0",
+      "rv": 51,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpmrnpy41brq641yqmhqah4a": {
+      "id": "01kpmrnpy41brq641yqmhqah4a",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "프리미엄 기능은 무엇인가요?"
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6n",
+      "rv": 51,
+      "rt": 5,
+      "version": 1
+    },
+    "01kpnqywnemers9x2g7s3cvxtd": {
+      "id": "01kpnqywnemers9x2g7s3cvxtd",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "프리미엄 기능은 유료로 구매하신 분들에게 제공되고 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kpmrnpy41brq641yqmhqah4a",
+      "sortKey": ".n0",
+      "rv": 54,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpqqxhmwf263vc92mjz3feaa": {
+      "id": "01kpqqxhmwf263vc92mjz3feaa",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "자동 줌 인/아웃 촬영 모드: 촬영 시 자동으로 줌 인/아웃으로 촬영되어 더 역동적인 영상을 만들 수 있어요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnqywnemers9x2g7s3cvxtd",
+      "sortKey": ".n0",
+      "rv": 65,
+      "rt": 5,
+      "version": 1
+    },
+    "01kpqqymw4q0h3eb0ctkwsfwd2": {
+      "id": "01kpqqymw4q0h3eb0ctkwsfwd2",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "레이아웃 촬영 모드: 2분할/3분할 레이아웃 모드로 촬영할 수 있어요. "
+          }
+        ]
+      },
+      "parentBlockId": "01kpnqywnemers9x2g7s3cvxtd",
+      "sortKey": ".n1",
+      "rv": 50,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpqqzbgh8w90q8hgcp93m4kb": {
+      "id": "01kpqqzbgh8w90q8hgcp93m4kb",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "듀얼 모드: 전/후면 카메라를 동시에 사용하여 촬영할 수 있어요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnqywnemers9x2g7s3cvxtd",
+      "sortKey": ".n2",
+      "rv": 29,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpqqzqs7znd40e62by8976h2": {
+      "id": "01kpqqzqs7znd40e62by8976h2",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "시간 버튼 추가: 커스텀하여 사용할 수 있는 시간 버튼을 추가로 제공해 드려요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnqywnemers9x2g7s3cvxtd",
+      "sortKey": ".n3",
+      "rv": 56,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpqqtkfynr09wx28fn27zah4": {
+      "id": "01kpqqtkfynr09wx28fn27zah4",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "동영상을 2초보다 길게 촬영하고 싶어요."
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6p",
+      "rv": 20,
+      "rt": 5,
+      "version": 1
+    },
+    "01kpqqtkfych5h5mtktd4p1etz": {
+      "id": "01kpqqtkfych5h5mtktd4p1etz",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "0.5s와 1s 버튼은 고정이며 2s로 이동 후 한번 더 버튼을 터치하면 시간을 조정할 수 있는 슬라이드가 나타나요. 2s - 10s까지 자유롭게 조정하여 촬영할 수 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kpqqtkfynr09wx28fn27zah4",
+      "sortKey": ".n0",
+      "rv": 99,
+      "rt": 5,
+      "version": 1
+    },
+    "01jen8arktr0dpes8j80e61hrw": {
+      "id": "01jen8arktr0dpes8j80e61hrw",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "샤디로 찍은 동영상은 어디에 저장되나요?"
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6r",
+      "rv": 8,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8arkt270d8vra185bahc2": {
+      "id": "01jen8arkt270d8vra185bahc2",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "휴대폰 사진첩에 바로 저장됩니다. 샤디는 여러분들이 찍은 영상을 따로 저장하거나 소유하고 있지 않습니다."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8arktr0dpes8j80e61hrw",
+      "sortKey": ".n0",
+      "rv": 4,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8arkthhtmvvtqwm35pbt8": {
+      "id": "01jen8arkthhtmvvtqwm35pbt8",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "기기에서 영상을 삭제하면 어떻게 되나요?"
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6w",
+      "rv": 11,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8arkv6meet7c57hksgvxm": {
+      "id": "01jen8arkv6meet7c57hksgvxm",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디로 찍은 영상은 기기에서만 저장하고 있어요. 기기에서 영상을 삭제하는 경우 앱에서 불러오거나 복구할 수 없어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8arkthhtmvvtqwm35pbt8",
+      "sortKey": ".n0",
+      "rv": 91,
+      "rt": 3,
+      "version": 1
+    },
+    "01jeyzh2x9p0sc80c2ns1mevd2": {
+      "id": "01jeyzh2x9p0sc80c2ns1mevd2",
+      "type": "headingToggle",
+      "value": {
+        "align": "left",
+        "level": 3,
+        "tokens": [
+          {
+            "text": "편집할 때 클립의 순서를 변경하고 싶어요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6x",
+      "rv": 40,
+      "rt": 3,
+      "version": 1
+    },
+    "01jeyzhkf94byz9kz0n39cc9ek": {
+      "id": "01jeyzhkf94byz9kz0n39cc9ek",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "클립 순서를 변경하고 싶다면 클립을 꾹 누른채 원하는 위치로 옮겨주면 클립이 이동해요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jeyzh2x9p0sc80c2ns1mevd2",
+      "sortKey": ".n0",
+      "rv": 89,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8arkvh1a8hy21amyrjb39": {
+      "id": "01jen8arkvh1a8hy21amyrjb39",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "랜더링이 완성된 영상은 어디에 저장되나요?"
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6y",
+      "rv": 3,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8arkwrrfymkndcrdr2s6d": {
+      "id": "01jen8arkwrrfymkndcrdr2s6d",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "샤디로 만든 영상도 기기에 저장됩니다."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8arkvh1a8hy21amyrjb39",
+      "sortKey": ".n0",
+      "rv": 11,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8arkw0pgkx4nbqa3qxg73": {
+      "id": "01jen8arkw0pgkx4nbqa3qxg73",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "편집 영상 시간 제한이나 갯수 제한이 있나요?"
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6z",
+      "rv": 42,
+      "rt": 1,
+      "version": 1
+    },
+    "01jen8arkx4x54bb8wxzbbct9p": {
+      "id": "01jen8arkx4x54bb8wxzbbct9p",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "영상 길이나 클립의 갯수에 대한 제한은 없으나 과도한 길이나 영상 갯수는 앱이 강제 종료될 수 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8arkw0pgkx4nbqa3qxg73",
+      "sortKey": ".n0",
+      "rv": 128,
+      "rt": 1,
+      "version": 1
+    },
+    "01kpmrh30fk97ak9xybs3bskzs": {
+      "id": "01kpmrh30fk97ak9xybs3bskzs",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "이어붙일 때 최대 영상 길이는 30-60초 사이로 이용하는 걸 추천해요."
+          }
+        ]
+      },
+      "parentBlockId": "01jen8arkw0pgkx4nbqa3qxg73",
+      "sortKey": ".n1",
+      "rv": 106,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8arkxxqg2rtyataten51m": {
+      "id": "01jen8arkxxqg2rtyataten51m",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "영상을 임시 저장하고 싶어요."
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6zi",
+      "rv": 3,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpmrkv38bpthtj9anxn85qfw": {
+      "id": "01kpmrkv38bpthtj9anxn85qfw",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "편집을 종료하기 위해 왼쪽 상단 X 버튼을 클릭하면 만들기 중인 영상을 저장할 수 있어요."
+          }
+        ]
+      },
+      "parentBlockId": "01jen8arkxxqg2rtyataten51m",
+      "sortKey": ".mz",
+      "rv": 83,
+      "rt": 5,
+      "version": 1
+    },
+    "01jen8arky5vhyz41f36bmbxym": {
+      "id": "01jen8arky5vhyz41f36bmbxym",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "영상을 이어붙이기 한 뒤 앱을 임의로 종료하면 만들던 영상은 별도로 임시 저장처리되어요. "
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8arkxxqg2rtyataten51m",
+      "sortKey": ".n0",
+      "rv": 100,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpmtcmcmry42jtfj9c86c38h": {
+      "id": "01kpmtcmcmry42jtfj9c86c38h",
+      "type": "headingToggle",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "결제한 상품을 환불하고 싶어요."
+          }
+        ],
+        "isCollapsed": false
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n6zr",
+      "rv": 46,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpnqz4rt8d8r4669q7etxa2h": {
+      "id": "01kpnqz4rt8d8r4669q7etxa2h",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "구매하신 인앱 상품의 환불 가능 여부와 처리 방식은 결제하신 스토어 정책에 따라 환불을 요청하실 수 있어요. 아래 안내에 따라 해당 스토어에서 환불을 요청해 주세요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kpmtcmcmry42jtfj9c86c38h",
+      "sortKey": ".n0",
+      "rv": 34,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpnr8hs3s8msb5nkv5g6nz54": {
+      "id": "01kpnr8hs3s8msb5nkv5g6nz54",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "접수 후에는 보통 24~48시간 안에 진행 상황을 확인하실 수 있습니다. 승인된 경우 실제 환불 금액이 결제 수단에 반영되기까지는 결제 수단별로 추가 시간이 걸릴 수 있습니다."
+          }
+        ]
+      },
+      "parentBlockId": "01kpmtcmcmry42jtfj9c86c38h",
+      "sortKey": ".n0e",
+      "rv": 8,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpnr66y5nsbrzz23rt9xwtxe": {
+      "id": "01kpnr66y5nsbrzz23rt9xwtxe",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "App Store로 결제한 경우"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kpnr8hs3s8msb5nkv5g6nz54",
+      "sortKey": ".mx",
+      "rv": 5,
+      "rt": 13,
+      "version": 1
+    },
+    "01kpnr66y68h759xvgyb4ragtg": {
+      "id": "01kpnr66y68h759xvgyb4ragtg",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "Apple에서 환불 요청을 접수하고 검토합니다. 아래 순서로 진행해 주세요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnr8hs3s8msb5nkv5g6nz54",
+      "sortKey": ".my",
+      "rv": 1,
+      "rt": 13,
+      "version": 1
+    },
+    "01kpnr66y6twcr3tr32kb2d1yw": {
+      "id": "01kpnr66y6twcr3tr32kb2d1yw",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "reportaproblem.apple.com에 로그인해 주세요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kpnr66y68h759xvgyb4ragtg",
+      "sortKey": ".n0",
+      "rv": 8,
+      "rt": 15,
+      "version": 1
+    },
+    "01kpnr6rapznp63tjyvmx2j8nh": {
+      "id": "01kpnr6rapznp63tjyvmx2j8nh",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "문제 선택에서 환불 요청을 선택해 주세요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnr66y68h759xvgyb4ragtg",
+      "sortKey": ".n1",
+      "rv": 4,
+      "rt": 11,
+      "version": 1
+    },
+    "01kpnr6v39eeyat74p87hpxhgj": {
+      "id": "01kpnr6v39eeyat74p87hpxhgj",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "환불 사유를 선택한 뒤, 환불을 원하는 구매 항목을 선택해 제출해 주세요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnr66y68h759xvgyb4ragtg",
+      "sortKey": ".n2",
+      "rv": 1,
+      "rt": 11,
+      "version": 1
+    },
+    "01kpnr79wy5mjcc0dcpm9qef3t": {
+      "id": "01kpnr79wy5mjcc0dcpm9qef3t",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "Google Play로 결제한 경우"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kpnr8hs3s8msb5nkv5g6nz54",
+      "sortKey": ".mz",
+      "rv": 9,
+      "rt": 11,
+      "version": 1
+    },
+    "01kpnr79wyfbyfggme75hs5hex": {
+      "id": "01kpnr79wyfbyfggme75hs5hex",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "안내에 따라 Google Play를 통해 환불 신청을 부탁드립니다."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnr8hs3s8msb5nkv5g6nz54",
+      "sortKey": ".n0",
+      "rv": 13,
+      "rt": 11,
+      "version": 1
+    },
+    "01kpnr79wzgh16taqh0gckxxrh": {
+      "id": "01kpnr79wzgh16taqh0gckxxrh",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "play.google.com에 접속해 결제한 Google 계정으로 로그인해 주세요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kpnr79wyfbyfggme75hs5hex",
+      "sortKey": ".n0",
+      "rv": 8,
+      "rt": 13,
+      "version": 1
+    },
+    "01kpnr7m2fzxjkc5g6ra05qh2f": {
+      "id": "01kpnr7m2fzxjkc5g6ra05qh2f",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "우측 상단 프로필에서 결제 및 정기 결제 > 예산 및 주문 내역으로 이동해 주세요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnr79wyfbyfggme75hs5hex",
+      "sortKey": ".n1",
+      "rv": 4,
+      "rt": 11,
+      "version": 1
+    },
+    "01kpnr7phcq0t0vx9hs4kb3xeq": {
+      "id": "01kpnr7phcq0t0vx9hs4kb3xeq",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "환불을 원하는 주문에서 문제 신고를 선택해 주세요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnr79wyfbyfggme75hs5hex",
+      "sortKey": ".n2",
+      "rv": 4,
+      "rt": 11,
+      "version": 1
+    },
+    "01kpnr7t8aahrypzxgqeagjpmt": {
+      "id": "01kpnr7t8aahrypzxgqeagjpmt",
+      "type": "list",
+      "value": {
+        "align": "left",
+        "tokens": [
+          {
+            "text": "사유를 선택하고 환불 요청을 제출해 주세요."
+          }
+        ]
+      },
+      "parentBlockId": "01kpnr79wyfbyfggme75hs5hex",
+      "sortKey": ".n3",
+      "rv": 1,
+      "rt": 11,
+      "version": 1
+    },
+    "01kpmrnht3tn6684b48q60pcda": {
+      "id": "01kpmrnht3tn6684b48q60pcda",
+      "type": "text",
+      "value": {
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n7",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f9pqxrebpyabh55xt0hk": {
+      "id": "01jen8f9pqxrebpyabh55xt0hk",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".n8",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08hpv2870gjcb0kje52": {
+      "id": "01jen8f08hpv2870gjcb0kje52",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "촬영이 되지 않아요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8i",
+      "rv": 5,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08hc18d2es0p0q1h9qy": {
+      "id": "01jen8f08hc18d2es0p0q1h9qy",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "카메라 접근 권한을 확인해 주세요. 접근 권한이 없다면 카메라 권한을 허용해 주세요. 아이폰 설정 - 샤디 앱에서 확인하실 수 있어요"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08hpv2870gjcb0kje52",
+      "sortKey": ".n0",
+      "rv": 4,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08hjszm7c8csmnnmkfm": {
+      "id": "01jen8f08hjszm7c8csmnnmkfm",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "소리가 녹음되지 않아요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8r",
+      "rv": 3,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08jhy18g1sha0x31c15": {
+      "id": "01jen8f08jhy18g1sha0x31c15",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "마이크 접근 권한을 확인해 주세요. 접근 권한이 없다면 마이크 권한을 허용해 주세요. 아이폰 설정 - 샤디 앱에서 확인하실 수 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08hjszm7c8csmnnmkfm",
+      "sortKey": ".n0",
+      "rv": 4,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08jhhsxcx34nfpf9a8e": {
+      "id": "01jen8f08jhhsxcx34nfpf9a8e",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "촬영된 영상에서 끊김 현상이 발생해요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8w",
+      "rv": 2,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08kx64p5v6hyy3f9dfk": {
+      "id": "01jen8f08kx64p5v6hyy3f9dfk",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "일부 휴대폰에서 4k로 찍거나 카메라 안정화 기능이 OFF된 경우 촬영된 영상의 프레임 드랍현상이 발생하고 있어요. 해상도를 1080k로 변경하거나 카메라 안정화 기능을 ON해 주세요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08jhhsxcx34nfpf9a8e",
+      "sortKey": ".n0",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08k2g0j9zkddhd5nxqc": {
+      "id": "01jen8f08k2g0j9zkddhd5nxqc",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "갤러리에서 영상이 불러와 지지 않아요.  휴대폰 설정 - 샤디 앱에서 확인하실 수 있어요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8y",
+      "rv": 12,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08kpc50w5dz6rc01xqa": {
+      "id": "01jen8f08kpc50w5dz6rc01xqa",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "갤러리 접근 권한을 확인해 주세요. 접근 권한이 없다면 접근 권한을 허용해 주세요.  아이폰 설정 - 샤디 앱에서 확인하실 수 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08k2g0j9zkddhd5nxqc",
+      "sortKey": ".n0",
+      "rv": 4,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08khj6ztfm7m6ptsryp": {
+      "id": "01jen8f08khj6ztfm7m6ptsryp",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "갤러리에서 사진도 불러올 수 있나요?"
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8z",
+      "rv": 2,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08khg62pyhnxj12bhsa": {
+      "id": "01jen8f08khg62pyhnxj12bhsa",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "이제 영상과 함께 촬영한 사진을 불러올 수 있어요 라이브 포토, 모션 포토로 촬영된 사진은 영상으로 자동 변환되어 불러올 수 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08khj6ztfm7m6ptsryp",
+      "sortKey": ".n0",
+      "rv": 70,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpqr8vp4m68cv0dc8aph31z5": {
+      "id": "01kpqr8vp4m68cv0dc8aph31z5",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "이어붙이기 완료한 영상이 1080p로만 저장되어요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8z9",
+      "rv": 55,
+      "rt": 3,
+      "version": 1
+    },
+    "01kpqr8vp42hryhpnb8nsfdrmz": {
+      "id": "01kpqr8vp42hryhpnb8nsfdrmz",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "이어붙이기에서는 해상도를 1080p만 제공하고 있어요. 4k영상을 불러오더라도 내보내기를 진행하면 1080p로 저장되어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01kpqr8vp4m68cv0dc8aph31z5",
+      "sortKey": ".n0",
+      "rv": 66,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08mrcf7taq58h54t7ef": {
+      "id": "01jen8f08mrcf7taq58h54t7ef",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "동영상이 저장되지 않아요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8zi",
+      "rv": 2,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08mqth2sex096gdrggh": {
+      "id": "01jen8f08mqth2sex096gdrggh",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "휴대폰의 저장 공간을 확인해 주세요. 휴대폰 저장 공간이 충분하지 않다면 동영상이 촬영되지 않거나 저장되지 않을 수 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08mrcf7taq58h54t7ef",
+      "sortKey": ".n0",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08psnxjsft4n8md5mc8": {
+      "id": "01jen8f08psnxjsft4n8md5mc8",
+      "type": "heading",
+      "value": {
+        "level": 3,
+        "tokens": [
+          {
+            "text": "딱 1초가 아니에요."
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n8zy",
+      "rv": 2,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08ptyrpyxhks96wftqz": {
+      "id": "01jen8f08ptyrpyxhks96wftqz",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "동영상은 셔터 속도에 따라 1.2초 ~ 1.4초가 저장되고 있어요. 초 설정에 따라 아래와 같이 촬영될 수 있어요."
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08psnxjsft4n8md5mc8",
+      "sortKey": ".n0",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08p4b556tepwpeqgxjb": {
+      "id": "01jen8f08p4b556tepwpeqgxjb",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "0.5초 : 0.4초 ~ 0.5초"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08ptyrpyxhks96wftqz",
+      "sortKey": ".n0",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08pgzmxw9j90f2g4m9e": {
+      "id": "01jen8f08pgzmxw9j90f2g4m9e",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "1초 : 1초 ~ 1.4초"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08ptyrpyxhks96wftqz",
+      "sortKey": ".n1",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jen8f08q730ymap597bjb4m0": {
+      "id": "01jen8f08q730ymap597bjb4m0",
+      "type": "list",
+      "value": {
+        "tokens": [
+          {
+            "text": "2초 : 2초 ~ 2.4초"
+          }
+        ],
+        "listStyle": "bullet"
+      },
+      "parentBlockId": "01jen8f08ptyrpyxhks96wftqz",
+      "sortKey": ".n2",
+      "rv": 1,
+      "rt": 3,
+      "version": 1
+    },
+    "01jenckx4x51b4ercwy2py9jb5": {
+      "id": "01jenckx4x51b4ercwy2py9jb5",
+      "type": "text",
+      "value": {
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".n9",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01jencm0e0pr7y9cn5x465r3wj": {
+      "id": "01jencm0e0pr7y9cn5x465r3wj",
+      "type": "divider",
+      "value": {},
+      "parentBlockId": "_root_",
+      "sortKey": ".na",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    },
+    "01jencm0e1sa21vk8h3m6cexj8": {
+      "id": "01jencm0e1sa21vk8h3m6cexj8",
+      "type": "text",
+      "value": {
+        "tokens": [
+          {
+            "text": "📧 궁금한 점이 있거나 아이디어를 제안하고 싶다면 언제든지 untitledshatter@gmail.com 로 연락주세요. "
+          }
+        ]
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nb",
+      "rv": 3,
+      "rt": 1,
+      "version": 1
+    },
+    "01jencsch21p7hbxdr5c30nfnr": {
+      "id": "01jencsch21p7hbxdr5c30nfnr",
+      "type": "text",
+      "value": {
+        "tokens": []
+      },
+      "parentBlockId": "_root_",
+      "sortKey": ".nc",
+      "rv": 1,
+      "rt": 1,
+      "version": 1
+    }
+  }
+}

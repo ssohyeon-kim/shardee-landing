@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Hero from '../home/Hero.astro';
+import FeatureSection from '../home/FeatureSection.astro';
+import StoreButtons from '../shared/StoreButtons.astro';
+import { assets } from '../../config/assets';
+import { localizedPath, t, type Locale } from '../../i18n';
+
+interface Props { locale: Locale }
+const { locale } = Astro.props;
+const ui = t(locale);
+const media = [assets.capture, assets.edit, assets.save];
+const features = ui.home.features.map((feature, index) => ({ ...feature, number: `0${index + 1}`, asset: media[index] }));
+
+---
+
+<BaseLayout
+  title={ui.meta.homeTitle}
+  description={ui.meta.homeDescription}
+  canonicalPath={localizedPath(locale)} locale={locale} page="home"
+>
+  <Hero locale={locale} />
+
+  <div class="container" id="features">
+    {features.map((feature, index) => (
+      <FeatureSection
+        number={feature.number}
+        category={feature.category}
+        title={feature.title}
+        description={feature.description}
+        image={feature.asset.image}
+        alt={feature.alt}
+        reverse={index === 1}
+        landscape={index === 2}
+      />
+    ))}
+  </div>
+
+  <section class="download-section" id="download-again" aria-labelledby="download-again-title">
+    <div class="container download-inner">
+      <p class="download-eyebrow">{ui.home.downloadEyebrow}</p>
+      <h2 id="download-again-title">{ui.home.downloadTitle[0]}<br />{ui.home.downloadTitle[1]}</h2>
+      <p class="download-description">{ui.home.downloadDescription}</p>
+      <StoreButtons locale={locale} />
+      <a class="faq-link" href={localizedPath(locale, 'faq')}>{ui.home.faqLink} <span aria-hidden="true">↗</span></a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  #features, #download { scroll-margin-top: 6rem; }
+  .download-section { margin-top: clamp(1rem, 3vw, 3rem); border-top: 1px solid var(--color-border); background: #1b1c1d; }
+  .download-inner { padding-block: clamp(4rem, 9vw, 7rem); text-align: center; }
+  .download-eyebrow { margin: 0 0 1.4rem; color: var(--color-accent); font-size: .9rem; font-weight: 600; }
+  h2 { margin: 0; font-size: clamp(2.2rem, 5vw, 3.8rem); font-weight: 750; line-height: 1.25; letter-spacing: -.055em; }
+  .download-description { margin: 1.4rem 0 2rem; color: var(--color-muted); font-size: 1.0625rem; word-break: keep-all; }
+  .download-inner :global(.store-buttons) { justify-content: center; }
+  .faq-link { display: inline-flex; align-items: center; gap: .65rem; min-height: 44px; margin-top: 1.5rem; font-size: .9rem; color: var(--color-muted); text-underline-offset: .3em; }
+  .faq-link:hover { color: var(--color-text); }
+</style>

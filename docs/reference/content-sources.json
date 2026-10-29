@@ -1,0 +1,46 @@
+{
+  "collectedAt": "2026-10-29T15:16:50.347780+00:00",
+  "sources": [
+    {
+      "id": "faq",
+      "source": "https://slashpage.com/shardee/n5w9812g9wnj424kpgze",
+      "collectedAt": "2026-10-29T15:16:50.347780+00:00",
+      "sourceSnapshot": "docs/reference/faq-source.json",
+      "sha256": "95c9dbc6fbb5c1e9e0601f5abfe1c7fe13334b61491e6730796c53805333818a",
+      "sourceSnapshotId": "01jen82je9anpjb7xbetsck31r"
+    },
+    {
+      "id": "privacy",
+      "source": "https://slashpage.com/shardee/7916x82rpn4zj24kpyg3",
+      "collectedAt": "2026-10-29T15:16:50.347780+00:00",
+      "sourceSnapshot": "docs/reference/privacy-source.json",
+      "sha256": "46bd16a0972ebfe13618a977d8e5e7ac65410fa5282625b59be2bfbc7abd9d78",
+      "sourceSnapshotId": "01jfhbmdwjsz8bqva2yvd5zevj"
+    },
+    {
+      "id": "terms",
+      "source": "https://slashpage.com/shardee/4z7pvx2kev6v62ek8653",
+      "collectedAt": "2026-10-29T15:16:50.347780+00:00",
+      "sourceSnapshot": "docs/reference/terms-source.json",
+      "sha256": "c7719f85008dd5d6e700b597c9d8b0dd17eb855bf97b8f1477beeb2c34512fe2",
+      "sourceSnapshotId": "01kn18hnw8s9mgd3375xsrhcep"
+    }
+  ],
+  "englishLinks": [
+    {
+      "url": "https://slashpage.com/shardee/4z7pvx2kz1jw1mek8653",
+      "status": 200,
+      "title": "FAQ(en)"
+    },
+    {
+      "url": "https://slashpage.com/shardee/xjqy1g2vd966v26vd54z",
+      "status": 200,
+      "title": "Privacy Policy(En)"
+    },
+    {
+      "url": "https://slashpage.com/shardee/d367nxm383j682j98pv1",
+      "status": 200,
+      "title": "Terms of Use (En)"
+    }
+  ]
+}

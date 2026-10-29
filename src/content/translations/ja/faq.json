@@ -1,0 +1,154 @@
+{
+  "introduction": [
+    {
+      "heading": true,
+      "text": "📷 Shardeeアプリをご紹介します。",
+      "lang": "ja"
+    },
+    {
+      "heading": false,
+      "text": "Shardeeは、日々の瞬間をより手軽に記録し、特別な形で残せる、とてもシンプルな動画作成アプリです。0.5秒、1秒、2秒単位で短い瞬間を動画に撮影すると、自動でひとつの動画につながり、完成します。撮影から編集、レンダリングまでアプリ内で一度に行えるため、日常の特別な瞬間を逃さず記録できます。",
+      "lang": "ja"
+    }
+  ],
+  "notices": [
+    "クリップの結合機能には、Shardeeで撮影した動画の使用をおすすめします。ほかのカメラで撮影した動画を結合する場合、一部を読み込めなかったり、エラーが発生したりすることがあります。",
+    "クリップの結合機能に時間やクリップ数の制限はありませんが、非常に長い動画や多数のクリップを選択すると、アプリが強制終了することがあります。"
+  ],
+  "items": [
+    {
+      "id": "question-1",
+      "category": "料金・プレミアム",
+      "question": "Shardeeは有料ですか？",
+      "answer": "<ul><li>Shardeeアプリのダウンロードと、短く撮影してつなぎ合わせる機能、字幕を入力する基本機能は無料でご利用いただけます。</li></ul>",
+      "sourceBlockId": "01jen8arksy628vs9q1gh5g7j1"
+    },
+    {
+      "id": "question-2",
+      "category": "料金・プレミアム",
+      "question": "プレミアム機能とは何ですか？",
+      "answer": "<ul><li>プレミアム機能は、有料でご購入いただいた方に提供しています。<ul><li>自動ズームイン／アウト撮影モード：撮影中に自動でズームイン／アウトし、より動きのある動画を作れます。</li><li>レイアウト撮影モード：2分割／3分割のレイアウトモードで撮影できます。</li><li>デュアルモード：前面／背面カメラを同時に使用して撮影できます。</li><li>時間ボタンの追加：自由に設定して使える時間ボタンを追加で提供します。</li></ul></li></ul>",
+      "sourceBlockId": "01kpmrnpy41brq641yqmhqah4a"
+    },
+    {
+      "id": "question-3",
+      "category": "撮影",
+      "question": "2秒より長い動画を撮影したいです。",
+      "answer": "<ul><li>0.5sと1sのボタンは固定です。2sに切り替えてからもう一度ボタンをタップすると、時間を調整できるスライダーが表示されます。2s - 10sの範囲で自由に調整して撮影できます。</li></ul>",
+      "sourceBlockId": "01kpqqtkfynr09wx28fn27zah4"
+    },
+    {
+      "id": "question-4",
+      "category": "保存",
+      "question": "Shardeeで撮影した動画はどこに保存されますか？",
+      "answer": "<ul><li>端末の写真ライブラリに直接保存されます。Shardeeが、皆さんの撮影した動画を別途保存したり、所有したりすることはありません。</li></ul>",
+      "sourceBlockId": "01jen8arktr0dpes8j80e61hrw"
+    },
+    {
+      "id": "question-5",
+      "category": "保存",
+      "question": "端末から動画を削除するとどうなりますか？",
+      "answer": "<ul><li>Shardeeで撮影した動画は、端末内にのみ保存されています。端末から動画を削除すると、アプリで読み込んだり、復元したりすることはできません。</li></ul>",
+      "sourceBlockId": "01jen8arkthhtmvvtqwm35pbt8"
+    },
+    {
+      "id": "question-6",
+      "category": "編集",
+      "question": "編集中にクリップの順番を変更したいです。",
+      "answer": "<ul><li>クリップの順番を変更するには、クリップを長押ししたまま希望の位置へ動かすと、クリップを移動できます。</li></ul>",
+      "sourceBlockId": "01jeyzh2x9p0sc80c2ns1mevd2"
+    },
+    {
+      "id": "question-7",
+      "category": "保存",
+      "question": "レンダリングが完了した動画はどこに保存されますか？",
+      "answer": "<ul><li>Shardeeで作成した動画も端末に保存されます。</li></ul>",
+      "sourceBlockId": "01jen8arkvh1a8hy21amyrjb39"
+    },
+    {
+      "id": "question-8",
+      "category": "編集",
+      "question": "編集する動画の長さやクリップ数に制限はありますか？",
+      "answer": "<ul><li>動画の長さやクリップ数に制限はありませんが、動画が非常に長い場合やクリップ数が多すぎる場合は、アプリが強制終了することがあります。</li><li>動画をつなぐ際は、全体の長さを30〜60秒程度で利用することをおすすめします。</li></ul>",
+      "sourceBlockId": "01jen8arkw0pgkx4nbqa3qxg73"
+    },
+    {
+      "id": "question-9",
+      "category": "編集",
+      "question": "動画を一時保存したいです。",
+      "answer": "<ul><li>編集を終了するために左上のXボタンを押すと、作成中の動画を保存できます。</li><li>動画をつなぎ合わせた後にアプリを終了した場合も、作成中の動画は別途一時保存されます。</li></ul>",
+      "sourceBlockId": "01jen8arkxxqg2rtyataten51m"
+    },
+    {
+      "id": "question-10",
+      "category": "購入・返金",
+      "question": "購入した商品の返金を希望します。",
+      "answer": "<ul><li>購入したアプリ内商品の返金可否や手続きは、お支払いに使用したストアのポリシーに従います。以下の案内に沿って、該当するストアで返金を申請してください。</li><li>申請後、通常は24〜48時間以内に進捗を確認できます。承認された場合、実際の返金額がお支払い方法に反映されるまでには、お支払い方法に応じて追加の時間がかかることがあります。<ul><li>App Storeでお支払いの場合</li></ul><p>Appleが返金申請を受け付け、審査します。以下の手順で進めてください。</p><ul><li><a href=\"https://reportaproblem.apple.com/\">reportaproblem.apple.com</a>にサインインしてください。</li><li>問題の選択から「返金をリクエストする」を選択してください。</li><li>返金の理由を選択した後、返金を希望する購入項目を選んで送信してください。</li></ul><ul><li>Google Playでお支払いの場合</li></ul><p>案内に従って、Google Playから返金を申請してください。</p><ul><li><a href=\"https://play.google.com/\">play.google.com</a>にアクセスし、お支払いに使用したGoogleアカウントでログインしてください。</li><li>右上のプロフィールから「お支払いと定期購入」&gt;「予算と注文履歴」に進んでください。</li><li>返金を希望する注文で「問題を報告する」を選択してください。</li><li>理由を選択し、返金リクエストを送信してください。</li></ul></li></ul>",
+      "sourceBlockId": "01kpmtcmcmry42jtfj9c86c38h"
+    },
+    {
+      "id": "question-11",
+      "category": "権限・トラブル対処",
+      "question": "撮影できません。",
+      "answer": "<ul><li>カメラへのアクセス権限を確認してください。アクセス権限がない場合は、カメラへのアクセスを許可してください。iPhoneの設定 - Shardeeアプリで確認できます。</li></ul>",
+      "sourceBlockId": "01jen8f08hpv2870gjcb0kje52"
+    },
+    {
+      "id": "question-12",
+      "category": "権限・トラブル対処",
+      "question": "音声が録音されません。",
+      "answer": "<ul><li>マイクへのアクセス権限を確認してください。アクセス権限がない場合は、マイクへのアクセスを許可してください。iPhoneの設定 - Shardeeアプリで確認できます。</li></ul>",
+      "sourceBlockId": "01jen8f08hjszm7c8csmnnmkfm"
+    },
+    {
+      "id": "question-13",
+      "category": "権限・トラブル対処",
+      "question": "撮影した動画がカクつきます。",
+      "answer": "<ul><li>一部の端末で4k撮影を行った場合や、カメラの手ぶれ補正がOFFの場合に、撮影した動画のフレーム落ちが発生しています。解像度を1080kに変更するか、カメラの手ぶれ補正をONにしてください。</li></ul>",
+      "sourceBlockId": "01jen8f08jhhsxcx34nfpf9a8e"
+    },
+    {
+      "id": "question-14",
+      "category": "権限・トラブル対処",
+      "question": "ギャラリーから動画を読み込めません。端末の設定 - Shardeeアプリで確認できます。",
+      "answer": "<ul><li>ギャラリーへのアクセス権限を確認してください。アクセス権限がない場合は、アクセスを許可してください。iPhoneの設定 - Shardeeアプリで確認できます。</li></ul>",
+      "sourceBlockId": "01jen8f08k2g0j9zkddhd5nxqc"
+    },
+    {
+      "id": "question-15",
+      "category": "編集",
+      "question": "ギャラリーから写真も読み込めますか？",
+      "answer": "<ul><li>動画と一緒に撮影した写真も読み込めるようになりました。Live Photosやモーションフォトとして撮影した写真は、自動で動画に変換して読み込めます。</li></ul>",
+      "sourceBlockId": "01jen8f08khj6ztfm7m6ptsryp"
+    },
+    {
+      "id": "question-16",
+      "category": "保存",
+      "question": "結合した動画が1080pでしか保存されません。",
+      "answer": "<ul><li>動画の結合機能では、解像度は1080pのみ提供しています。4k動画を読み込んだ場合も、書き出すと1080pで保存されます。</li></ul>",
+      "sourceBlockId": "01kpqr8vp4m68cv0dc8aph31z5"
+    },
+    {
+      "id": "question-17",
+      "category": "権限・トラブル対処",
+      "question": "動画が保存されません。",
+      "answer": "<ul><li>端末の空き容量を確認してください。端末の空き容量が十分でない場合、動画を撮影できなかったり、保存できなかったりすることがあります。</li></ul>",
+      "sourceBlockId": "01jen8f08mrcf7taq58h54t7ef"
+    },
+    {
+      "id": "question-18",
+      "category": "撮影",
+      "question": "ちょうど1秒になりません。",
+      "answer": "<ul><li>動画はシャッター速度によって、1.2秒〜1.4秒で保存されます。秒数の設定によって、以下のように撮影されることがあります。<ul><li>0.5秒：0.4秒〜0.5秒</li><li>1秒：1秒〜1.4秒</li><li>2秒：2秒〜2.4秒</li></ul></li></ul>",
+      "sourceBlockId": "01jen8f08psnxjsft4n8md5mc8"
+    }
+  ],
+  "categories": [
+    "料金・プレミアム",
+    "撮影",
+    "保存",
+    "編集",
+    "購入・返金",
+    "権限・トラブル対処"
+  ]
+}

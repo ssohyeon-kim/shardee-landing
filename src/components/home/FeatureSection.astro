@@ -1,0 +1,115 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  number: string;
+  category: string;
+  title: string[];
+  description: string;
+  image: ImageMetadata;
+  alt: string;
+  reverse?: boolean;
+  landscape?: boolean;
+}
+
+const { number, category, title, description, image, alt, reverse = false, landscape = false } = Astro.props;
+---
+
+<section class:list={['feature', { reverse }]} aria-labelledby={`feature-${number}`}>
+  <div class="feature-copy">
+    <p class="eyebrow"><span class="step">{number}</span> {category}</p>
+    <h2 id={`feature-${number}`}>{title.map((line) => <span>{line}</span>)}</h2>
+    <p class="description">{description}</p>
+  </div>
+  <div class:list={['media-stage', { landscape }]}>
+    <Image
+      src={image}
+      alt={alt}
+      widths={landscape ? [400, 640, 960, 1280] : [320, 480, 640]}
+      sizes={landscape ? '(min-width: 900px) 540px, 90vw' : '(min-width: 900px) 300px, 72vw'}
+      format="webp"
+      quality={85}
+      loading="lazy"
+      decoding="async"
+      class="feature-image"
+    />
+  </div>
+</section>
+
+<style>
+  .feature {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    align-items: center;
+    gap: clamp(2rem, 7vw, 7rem);
+    padding-block: clamp(3.5rem, 8vw, 7rem);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .feature-copy { max-width: 29rem; }
+  .eyebrow {
+    display: flex;
+    align-items: center;
+    gap: .8rem;
+    margin: 0 0 1.8rem;
+    font-size: .95rem;
+    font-weight: 600;
+    color: var(--color-muted);
+  }
+  .step {
+    display: grid;
+    place-items: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    font-size: .75rem;
+    font-variant-numeric: tabular-nums;
+  }
+  h2 {
+    margin: 0;
+    font-size: clamp(2rem, 3.8vw, 3.25rem);
+    line-height: 1.3;
+    letter-spacing: -.055em;
+    font-weight: 750;
+    word-break: keep-all;
+  }
+  h2 span { display: block; }
+  .description {
+    margin: 1.6rem 0 0;
+    color: var(--color-muted);
+    font-size: 1.0625rem;
+    line-height: 1.9;
+    word-break: keep-all;
+    overflow-wrap: anywhere;
+  }
+  .media-stage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+
+  }
+  .feature-image {
+    display: block;
+    width: min(100%, 18.75rem);
+    height: auto;
+
+  }
+  .landscape .feature-image {
+    width: 100%;
+
+  }
+  .reverse .feature-copy { grid-column: 2; grid-row: 1; }
+  .reverse .media-stage { grid-column: 1; grid-row: 1; }
+
+  @media (max-width: 760px) {
+    .feature { grid-template-columns: minmax(0, 1fr); gap: 2rem; }
+    .feature-copy { max-width: 35rem; }
+    .reverse .feature-copy, .reverse .media-stage { grid-column: auto; grid-row: auto; }
+    .eyebrow { margin-bottom: 1.25rem; }
+    .description { margin-top: 1.25rem; }
+    .feature-image { width: min(100%, 17rem); }
+  }
+</style>

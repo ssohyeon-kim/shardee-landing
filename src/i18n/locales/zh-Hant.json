@@ -1,0 +1,33 @@
+{
+  "languageName": "繁體中文",
+  "brandName": "Shardee",
+  "nav": { "home": "首頁", "homeLabel": "shardee. Shardee 首頁", "faq": "常見問題", "download": "下載", "language": "選擇語言", "skip": "跳至主要內容" },
+  "meta": {
+    "homeTitle": "Shardee — 短片製作工具，1 秒相機 App",
+    "homeDescription": "Shardee 是一款 1 秒相機 App，讓你拍攝短片並串接成自己的故事。立即在 iOS 和 Android 下載。",
+    "faqTitle": "Shardee 常見問題 — 拍攝、編輯、儲存與退款",
+    "faqDescription": "查看有關 Shardee 費用、進階功能、短片拍攝、編輯與儲存、購買及退款的 18 個問題與解答。",
+    "privacyTitle": "隱私權政策",
+    "privacyDescription": "Shardee 隱私權政策 v1.3.2 全文。了解收集的資訊、使用目的、保存方式、第三方服務、使用者權利及聯絡方式。生效日期：2026-10-14。",
+    "termsTitle": "使用條款",
+    "termsDescription": "Shardee 使用條款全文。了解服務使用條件、使用者內容、App 內購買與退款，以及使用者的權利與責任。最後更新：2026-10-01。",
+    "imageAlt": "Shardee — 拍攝並串接短片的 1 秒相機 App"
+  },
+  "home": {
+    "accessibleTitle": "短片製作工具，1 秒相機 Shardee",
+    "lead": "按一下快門，留住 1 秒。",
+    "description": ["串起珍貴的瞬間，", "創作屬於自己的故事。"],
+    "pause": "暫停介紹影片", "play": "播放介紹影片", "pauseText": "暫停", "playText": "播放",
+    "features": [
+      { "category": "拍攝", "title": ["按一下快門，", "拍下短片"], "description": "快速拍下想留住的瞬間。只要輕按一次快門，即可拍攝 1 秒影片，體驗記錄短暫時光的全新相機。", "alt": "在 Shardee 相機中按一下快門，拍下咖啡廳瞬間的畫面" },
+      { "category": "編輯", "title": ["清楚簡潔，", "輕鬆編輯"], "description": "告別複雜難懂的編輯！以清楚簡潔的方式，將多段短片直接串接起來。輕鬆、方便地拼接影片吧。", "alt": "在 Shardee 中選取多段短片並依序串接的編輯畫面" },
+      { "category": "儲存", "title": ["百看不厭的", "我的故事"], "description": "旅途中的風景、可愛寵物的模樣、孩子的成長、運動紀錄，或想分享的餐廳與咖啡廳，將珍貴的喜好全都收藏起來。創作百看不厭的專屬故事。", "alt": "將用餐、散步與旅行瞬間串接並儲存成自己的影片故事" }
+    ],
+    "downloadEyebrow": "每 1 秒累積的日常", "downloadTitle": ["儲存", "你們的瞬間。"], "downloadDescription": "現在就和 Shardee 一起開始吧。", "faqLink": "想進一步了解 Shardee 嗎？"
+  },
+  "stores": { "apple": "從 App Store 下載 Shardee", "google": "從 Google Play 下載 Shardee" },
+  "faq": { "title": "Shardee 常見問題", "lead": "查看有關拍攝、編輯、儲存及購買的問題。", "notices": "使用前請先確認", "categories": "常見問題分類", "all": "所有常見問題", "contactTitle": "還有其他問題嗎？", "contactDescription": "如果有問題或想提出建議，歡迎隨時聯絡我們。" },
+  "document": { "updated": "最後更新", "toc": "目錄", "fullText": "全文", "backToTop": "返回文件頂端", "translationNote": "譯自韓文原文。" },
+  "footer": { "tagline": "讓你的瞬間，成為一個故事。", "navigation": "網站導覽", "privacy": "隱私權政策", "terms": "使用條款", "contact": ["想了解製作 Shardee 的團隊，", "歡迎透過這裡聯絡我們。"], "business": "商號", "registration": "營業登記號碼", "commerce": "網路銷售業申報號碼", "representative": "代表", "privacyOfficer": "個人資料保護負責人", "contacts": "聯絡人", "address": "首爾特別市江南區德黑蘭路70街12號，402-401A室（大峙洞，H大樓）" },
+  "error": { "title": "找不到此頁面", "description": "網址已變更，或此頁面不存在。", "home": "返回 Shardee 首頁" }
+}

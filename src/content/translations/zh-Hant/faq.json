@@ -1,0 +1,154 @@
+{
+  "introduction": [
+    {
+      "heading": true,
+      "text": "📷 介紹 Shardee App。",
+      "lang": "zh-Hant"
+    },
+    {
+      "heading": false,
+      "text": "Shardee 是一款操作非常簡單的影片製作 App，讓你更輕鬆地記錄日常瞬間，留下特別的回憶。以 0.5 秒、1 秒或 2 秒為單位拍下短暫瞬間，自動串接並完成一部影片。從簡單拍攝到編輯、算繪，Shardee 都能在 App 內一次完成，讓你不錯過日常中的特別時刻。",
+      "lang": "zh-Hant"
+    }
+  ],
+  "notices": [
+    "建議使用 Shardee 拍攝的影片來合併片段。合併其他相機拍攝的影片時，可能無法匯入部分影片，或可能發生錯誤。",
+    "合併片段功能沒有時間或片段數量限制，但若選擇過長的影片或過多片段，可能導致 App 強制關閉。"
+  ],
+  "items": [
+    {
+      "id": "question-1",
+      "category": "價格與進階功能",
+      "question": "Shardee 需要付費嗎？",
+      "answer": "<ul><li>Shardee App 可免費下載，拍攝短片、串接影片及新增字幕等基本功能也可免費使用。</li></ul>",
+      "sourceBlockId": "01jen8arksy628vs9q1gh5g7j1"
+    },
+    {
+      "id": "question-2",
+      "category": "價格與進階功能",
+      "question": "有哪些進階功能？",
+      "answer": "<ul><li>進階功能提供給付費購買的使用者。<ul><li>自動拉近／拉遠拍攝模式：拍攝時自動拉近或拉遠，讓影片更有動感。</li><li>版面配置拍攝模式：可使用二分割／三分割版面模式拍攝。</li><li>雙鏡頭模式：可同時使用前後相機拍攝。</li><li>新增時間按鈕：額外提供可自訂使用的時間按鈕。</li></ul></li></ul>",
+      "sourceBlockId": "01kpmrnpy41brq641yqmhqah4a"
+    },
+    {
+      "id": "question-3",
+      "category": "拍攝",
+      "question": "我想拍攝超過 2 秒的影片。",
+      "answer": "<ul><li>0.5s 和 1s 按鈕為固定設定。切換至 2s 後，再點一下按鈕，即會顯示可調整時間的滑桿。你可以在 2s - 10s 之間自由調整並拍攝。</li></ul>",
+      "sourceBlockId": "01kpqqtkfynr09wx28fn27zah4"
+    },
+    {
+      "id": "question-4",
+      "category": "儲存",
+      "question": "使用 Shardee 拍攝的影片儲存在哪裡？",
+      "answer": "<ul><li>影片會直接儲存至手機相簿。Shardee 不會另外儲存或擁有你拍攝的影片。</li></ul>",
+      "sourceBlockId": "01jen8arktr0dpes8j80e61hrw"
+    },
+    {
+      "id": "question-5",
+      "category": "儲存",
+      "question": "如果從裝置刪除影片，會發生什麼事？",
+      "answer": "<ul><li>使用 Shardee 拍攝的影片僅儲存在裝置上。如果從裝置刪除影片，就無法在 App 中匯入或復原。</li></ul>",
+      "sourceBlockId": "01jen8arkthhtmvvtqwm35pbt8"
+    },
+    {
+      "id": "question-6",
+      "category": "編輯",
+      "question": "我想在編輯時變更片段順序。",
+      "answer": "<ul><li>若想變更片段順序，請按住片段並將其拖曳至想要的位置，片段就會移動。</li></ul>",
+      "sourceBlockId": "01jeyzh2x9p0sc80c2ns1mevd2"
+    },
+    {
+      "id": "question-7",
+      "category": "儲存",
+      "question": "完成算繪的影片儲存在哪裡？",
+      "answer": "<ul><li>使用 Shardee 製作的影片也會儲存至裝置。</li></ul>",
+      "sourceBlockId": "01jen8arkvh1a8hy21amyrjb39"
+    },
+    {
+      "id": "question-8",
+      "category": "編輯",
+      "question": "編輯影片有長度或片段數量限制嗎？",
+      "answer": "<ul><li>影片長度或片段數量沒有限制，但影片過長或數量過多，可能導致 App 強制關閉。</li><li>建議串接時將影片總長度控制在 30-60 秒之間。</li></ul>",
+      "sourceBlockId": "01jen8arkw0pgkx4nbqa3qxg73"
+    },
+    {
+      "id": "question-9",
+      "category": "編輯",
+      "question": "我想暫存影片。",
+      "answer": "<ul><li>點選左上角的 X 按鈕結束編輯時，可以儲存正在製作的影片。</li><li>串接影片後，如果自行關閉 App，製作中的影片會另外暫存。</li></ul>",
+      "sourceBlockId": "01jen8arkxxqg2rtyataten51m"
+    },
+    {
+      "id": "question-10",
+      "category": "購買與退款",
+      "question": "我想為已購買的商品申請退款。",
+      "answer": "<ul><li>已購買的 App 內商品是否可退款及處理方式，依付款商店的政策辦理。請依下列說明向相應商店申請退款。</li><li>提交後通常可在 24~48 小時內查看處理進度。如獲核准，實際退款金額反映至付款方式可能仍需額外時間，時間依付款方式而異。<ul><li>透過 App Store 付款的情況</li></ul><p>Apple 會受理並審核退款申請。請依下列順序操作。</p><ul><li>請登入 <a href=\"https://reportaproblem.apple.com/\">reportaproblem.apple.com</a>。</li><li>在選擇問題處選取「申請退款」。</li><li>選擇退款原因，再選取想退款的購買項目並提交。</li></ul><ul><li>透過 Google Play 付款的情況</li></ul><p>請依說明透過 Google Play 申請退款。</p><ul><li>前往 <a href=\"https://play.google.com/\">play.google.com</a>，並登入付款時使用的 Google 帳號。</li><li>在右上角個人資料中，前往「付款與訂閱 &gt; 預算與訂單記錄」。</li><li>在想退款的訂單中選取「回報問題」。</li><li>選擇原因並提交退款申請。</li></ul></li></ul>",
+      "sourceBlockId": "01kpmtcmcmry42jtfj9c86c38h"
+    },
+    {
+      "id": "question-11",
+      "category": "權限與疑難排解",
+      "question": "無法拍攝。",
+      "answer": "<ul><li>請確認相機存取權限。如果沒有存取權限，請允許相機權限。你可以在 iPhone「設定 - Shardee App」中確認。</li></ul>",
+      "sourceBlockId": "01jen8f08hpv2870gjcb0kje52"
+    },
+    {
+      "id": "question-12",
+      "category": "權限與疑難排解",
+      "question": "無法錄製聲音。",
+      "answer": "<ul><li>請確認麥克風存取權限。如果沒有存取權限，請允許麥克風權限。你可以在 iPhone「設定 - Shardee App」中確認。</li></ul>",
+      "sourceBlockId": "01jen8f08hjszm7c8csmnnmkfm"
+    },
+    {
+      "id": "question-13",
+      "category": "權限與疑難排解",
+      "question": "拍攝的影片會出現卡頓。",
+      "answer": "<ul><li>部分手機使用 4k 拍攝，或關閉相機穩定功能時，拍攝的影片可能出現掉格。請將解析度改為 1080k，或開啟相機穩定功能。</li></ul>",
+      "sourceBlockId": "01jen8f08jhhsxcx34nfpf9a8e"
+    },
+    {
+      "id": "question-14",
+      "category": "權限與疑難排解",
+      "question": "無法從相簿匯入影片。你可以在手機「設定 - Shardee App」中確認。",
+      "answer": "<ul><li>請確認相簿存取權限。如果沒有存取權限，請允許存取。你可以在 iPhone「設定 - Shardee App」中確認。</li></ul>",
+      "sourceBlockId": "01jen8f08k2g0j9zkddhd5nxqc"
+    },
+    {
+      "id": "question-15",
+      "category": "編輯",
+      "question": "也可以從相簿匯入照片嗎？",
+      "answer": "<ul><li>現在可以在匯入影片的同時匯入拍攝的照片。以 Live Photo 或 Motion Photo 拍攝的照片會自動轉換成影片後匯入。</li></ul>",
+      "sourceBlockId": "01jen8f08khj6ztfm7m6ptsryp"
+    },
+    {
+      "id": "question-16",
+      "category": "儲存",
+      "question": "串接完成的影片只能儲存為 1080p。",
+      "answer": "<ul><li>串接功能僅提供 1080p 解析度。即使匯入 4k 影片，匯出時仍會儲存為 1080p。</li></ul>",
+      "sourceBlockId": "01kpqr8vp4m68cv0dc8aph31z5"
+    },
+    {
+      "id": "question-17",
+      "category": "權限與疑難排解",
+      "question": "無法儲存影片。",
+      "answer": "<ul><li>請確認手機儲存空間。如果手機儲存空間不足，可能無法拍攝或儲存影片。</li></ul>",
+      "sourceBlockId": "01jen8f08mrcf7taq58h54t7ef"
+    },
+    {
+      "id": "question-18",
+      "category": "拍攝",
+      "question": "影片不是剛好 1 秒。",
+      "answer": "<ul><li>依快門速度不同，影片會儲存為 1.2 秒 ~ 1.4 秒。依秒數設定，可能會拍攝為下列長度。<ul><li>0.5 秒：0.4 秒 ~ 0.5 秒</li><li>1 秒：1 秒 ~ 1.4 秒</li><li>2 秒：2 秒 ~ 2.4 秒</li></ul></li></ul>",
+      "sourceBlockId": "01jen8f08psnxjsft4n8md5mc8"
+    }
+  ],
+  "categories": [
+    "價格與進階功能",
+    "拍攝",
+    "儲存",
+    "編輯",
+    "購買與退款",
+    "權限與疑難排解"
+  ]
+}

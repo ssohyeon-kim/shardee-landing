@@ -1,0 +1,67 @@
+[
+  {
+    "url": "https://apps.apple.com/kr/app/id6739505769",
+    "status": 200,
+    "final": "https://apps.apple.com/kr/app/shardee-%EC%83%A4%EB%94%94-mini-vlog-camera/id6739505769"
+  },
+  {
+    "url": "https://discord.com/privacy",
+    "status": 200,
+    "final": "https://discord.com/privacy"
+  },
+  {
+    "url": "https://play.google.com/",
+    "status": 200,
+    "final": "https://play.google.com/store/games"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.shardee.aos",
+    "status": 200,
+    "final": "https://play.google.com/store/apps/details?id=com.shardee.aos"
+  },
+  {
+    "url": "https://policies.google.com/privacy",
+    "status": 200,
+    "final": "https://policies.google.com/privacy"
+  },
+  {
+    "url": "https://posthog.com/privacy",
+    "status": 200,
+    "final": "https://posthog.com/privacy"
+  },
+  {
+    "url": "https://reportaproblem.apple.com/",
+    "status": 200,
+    "final": "https://idmsa.apple.com:443/IDMSWebAuth/signin?appIdKey=20379f32034f8867d352666ff2904d2152d5ff6843ee2db5ab5df863c14b1aef&path=%2F__logged_in%2Freportaproblem.apple.com&authResult=FAILED"
+  },
+  {
+    "url": "https://sentry.io/privacy/",
+    "status": 200,
+    "final": "https://sentry.io/privacy/"
+  },
+  {
+    "url": "https://slashpage.com/s/terms/privacy?lang=en",
+    "status": 200,
+    "final": "https://slashpage.com/s/terms/privacy?lang=en"
+  },
+  {
+    "url": "https://slashpage.com/shardee/4z7pvx2kz1jw1mek8653",
+    "status": 200,
+    "final": "https://slashpage.com/shardee/4z7pvx2kz1jw1mek8653"
+  },
+  {
+    "url": "https://slashpage.com/shardee/d367nxm383j682j98pv1",
+    "status": 200,
+    "final": "https://slashpage.com/shardee/d367nxm383j682j98pv1"
+  },
+  {
+    "url": "https://slashpage.com/shardee/xjqy1g2vd966v26vd54z",
+    "status": 200,
+    "final": "https://slashpage.com/shardee/xjqy1g2vd966v26vd54z"
+  },
+  {
+    "url": "https://www.apple.com/legal/privacy/",
+    "status": 200,
+    "final": "https://www.apple.com/legal/privacy/"
+  }
+]

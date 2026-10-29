@@ -1,0 +1,22 @@
+---
+import { getStoreLinks } from '../../config/stores';
+import { t, type Locale } from '../../i18n';
+interface Props { compact?: boolean; locale?: Locale }
+const { compact = false, locale = 'ko' } = Astro.props;
+const ui = t(locale);
+const stores = getStoreLinks(locale);
+---
+<div class:list={['store-buttons', { compact }]}>
+  <a href={stores.apple} aria-label={ui.stores.apple}><img src="/brand/app-store.svg" alt={ui.stores.apple} width="156" height="52" loading="lazy" /></a>
+  <a class="google" href={stores.google} aria-label={ui.stores.google}><img src="/brand/google-play.png" alt={ui.stores.google} width="177" height="68" loading="lazy" /></a>
+</div>
+<style>
+  .store-buttons { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+  a { display: inline-flex; align-items: center; justify-content: center; min-height: 52px; border-radius: 9px; transition: transform .15s ease; }
+  a:hover { transform: translateY(-2px); }
+  img { width: auto; height: 52px; }
+  .google img { height: 68px; }
+  .compact img { height: 46px; }
+  .compact .google img { height: 60px; }
+  @media (max-width: 380px) { .store-buttons { gap: 8px; } img { height: 44px; } .google img { height: 58px; } }
+</style>

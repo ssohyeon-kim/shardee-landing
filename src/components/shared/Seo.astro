@@ -1,0 +1,37 @@
+---
+import { locales, localizedPath, aliasPath, ogLocales, t } from '../../i18n';
+import { structuredData, serializeJsonLd, type PageDetails } from '../../lib/seo';
+export interface Props extends PageDetails { ogImage?: string; noindex?: boolean }
+const { title, description, canonicalPath, locale, page, ogImage = '/brand/og.png', noindex = false } = Astro.props;
+const origin = Astro.site!;
+const fullTitle = title.includes('Shardee') ? title : `${title} | Shardee`;
+const url = new URL(canonicalPath, origin).href;
+const image = new URL(ogImage, origin).href;
+const ui = t(locale);
+---
+<title>{fullTitle}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={url} />
+{!noindex && <>
+  {locales.map(language => <link rel="alternate" hreflang={language} href={new URL(localizedPath(language, page), origin).href} />)}
+  <link rel="alternate" hreflang="x-default" href={new URL(aliasPath(page), origin).href} />
+</>}
+<meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large'} />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content={ogLocales[locale]} />
+{locales.filter(language => language !== locale).map(language => <meta property="og:locale:alternate" content={ogLocales[language]} />)}
+<meta property="og:site_name" content={ui.brandName} />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={url} />
+<meta property="og:image" content={image} />
+<meta property="og:image:width" content="620" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:alt" content={ui.meta.imageAlt} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={image} />
+<meta name="twitter:image:alt" content={ui.meta.imageAlt} />
+{!noindex && <script type="application/ld+json" set:html={serializeJsonLd(structuredData(origin, Astro.props))} />}

@@ -1,0 +1,36 @@
+---
+import { localeFromPath, pageFromPath } from '../../i18n';
+interface Props { page?: string }
+---
+<meta name="site-locale-route" content={JSON.stringify({ locale: localeFromPath(Astro.url.pathname), page: Astro.props.page || pageFromPath(Astro.url.pathname) })} />
+<script is:inline id="locale-routing">
+  (() => {
+    const route = JSON.parse(document.querySelector('meta[name="site-locale-route"]').content);
+    const supported = ['ko', 'en', 'ja', 'zh-Hant', 'zh-Hans'];
+    const normalize = value => {
+      const tag = (value || '').toLowerCase().replaceAll('_', '-');
+      if (/^ko(?:-|$)/.test(tag)) return 'ko';
+      if (/^en(?:-|$)/.test(tag)) return 'en';
+      if (/^ja(?:-|$)/.test(tag)) return 'ja';
+      if (tag === 'zh-hant' || /^zh-(?:hant-|tw|hk|mo)/.test(tag)) return 'zh-Hant';
+      if (/^zh(?:-|$)/.test(tag)) return 'zh-Hans';
+    };
+    const url = new URL(location.href);
+    const forced = normalize(url.searchParams.get('lang'));
+    let saved;
+    try { saved = localStorage.getItem('shardee-locale'); } catch {}
+    if (forced) { try { localStorage.setItem('shardee-locale', forced); } catch {} }
+    const preferred = forced || route.locale || (supported.includes(saved) ? saved : undefined)
+      || (navigator.languages || [navigator.language]).map(normalize).find(Boolean) || 'ko';
+    // Explicit language paths are stable. Only aliases and ?lang= requests redirect.
+    if (!route.locale || forced) {
+      if (route.page === '404') return;
+      const target = `/${preferred}/${route.page === 'home' ? '' : route.page + '/'}`;
+      if (forced) url.searchParams.delete('lang');
+      if (url.pathname !== target || forced) {
+        url.pathname = target;
+        location.replace(url.pathname + url.search + url.hash);
+      }
+    }
+  })();
+</script>
