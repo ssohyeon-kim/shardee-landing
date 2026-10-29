@@ -1,8 +1,8 @@
 import { readdir, readFile, stat } from 'node:fs/promises';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import { basePath } from '../deployment.config.mjs';
-const root = path.resolve('dist');
+import { basePath, siteDirectory } from '../deployment.config.mjs';
+const root = path.resolve(siteDirectory);
 const locales = ['ko','en','ja','zh-Hant','zh-Hans'];
 const pagePaths = ['', 'faq/', 'privacy/', 'terms/'];
 export const routes = locales.flatMap(locale => pagePaths.map(page => `/${locale}/${page}`));
@@ -79,10 +79,10 @@ assert((await readFile(path.join(root,'robots.txt'),'utf8')).includes(`${origin}
 assert((await readFile(path.join(root,'404.html'),'utf8')).includes('noindex'));
 assert(!/(?:example\.com|your-domain|TODO|TBD)/.test(sitemap));
 const deployment = JSON.parse(await readFile('wrangler.jsonc', 'utf8'));
-assert.equal(deployment.assets.base_path, basePath, 'Astro and Workers mount at the same prefix');
+assert.equal(deployment.assets.base_path, undefined, 'mount via file paths without account-gated features');
 assert.equal(deployment.assets.directory, './dist');
 assert.equal(deployment.assets.not_found_handling, '404-page');
 assert.deepEqual(deployment.routes, [{ pattern: 'diaro.app', custom_domain: true }]);
-assert((await readFile(path.join(root, '_redirects'), 'utf8')).includes(`${basePath} ${basePath}/ 301`));
-assert((await readFile(path.join(root, '_headers'), 'utf8')).includes(`${basePath}/_astro/*`));
+assert((await readFile('dist/_redirects', 'utf8')).includes(`${basePath} ${basePath}/ 301`));
+assert((await readFile('dist/_headers', 'utf8')).includes(`${basePath}/_astro/*`));
 console.log(`Verified ${routes.length} pages, localized metadata, reciprocal hreflang, local links/anchors, media, sitemap, robots, 404 and ${all.length} files. Origin: ${origin}`);

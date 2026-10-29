@@ -15,7 +15,7 @@ test('all 20 localized pages have coherent entities, links, locale metadata and 
   for (const locale of locales) {
     for (const page of pages) {
       const route = `/${locale}/${page}`;
-      const html = await read(`dist${route}index.html`);
+      const html = await read(`dist/shardee${route}index.html`);
       assert(!/Terms of Use \(En\)|Privacy Policy \(En\)|FAQ in English/.test(html), `${route}: no legacy English shortcuts`);
       const data = graph(html);
       const schema = data.find(node => node['@type'] === (page === 'faq/' ? 'FAQPage' : 'WebPage'));
@@ -61,7 +61,7 @@ test('all 20 localized pages have coherent entities, links, locale metadata and 
 test('each FAQ schema describes exactly its 18 translated, rendered questions and complete answers', async () => {
   for (const locale of locales) {
     const faq = await json(`src/content/translations/${locale}/faq.json`);
-    const html = await read(`dist/${locale}/faq/index.html`);
+    const html = await read(`dist/shardee/${locale}/faq/index.html`);
     const schema = graph(html).find(node => node['@type'] === 'FAQPage');
     assert.equal(schema.mainEntity.length,18);
     for (const [i,item] of faq.items.entries()) {
@@ -97,8 +97,8 @@ test('translations preserve UI shape, source FAQ identity and the full legal HTM
       assert.deepEqual(tags(translated),tags(original),`${locale}: ${page} all explicit HTML IDs/links`);
       const blockKinds = value => value.replace(/^---\n[\s\S]*?\n---\n/,'').split('\n').filter(line => line.trim()).map(line => /^<h2\b/.test(line) ? 'h2' : /^### /.test(line) ? 'h3' : /^(\s*)[-*+] /.test(line) ? `list:${line.match(/^\s*/)[0].length}` : /^>/.test(line) ? 'quote' : 'paragraph');
       assert.deepEqual(blockKinds(translated),blockKinds(original),`${locale}: ${page} complete Markdown blocks and nested lists`);
-      const article = (await read(`dist/${locale}/${page}/index.html`)).match(/<article\b[^>]*>([\s\S]*?)<\/article>/)[1];
-      const koArticle = (await read(`dist/ko/${page}/index.html`)).match(/<article\b[^>]*>([\s\S]*?)<\/article>/)[1];
+      const article = (await read(`dist/shardee/${locale}/${page}/index.html`)).match(/<article\b[^>]*>([\s\S]*?)<\/article>/)[1];
+      const koArticle = (await read(`dist/shardee/ko/${page}/index.html`)).match(/<article\b[^>]*>([\s\S]*?)<\/article>/)[1];
       const renderedTags = value => [...value.matchAll(/<\/?([a-z][a-z0-9]*)\b[^>]*>/gi)].map(match => match[0].startsWith('</') ? '/' + match[1] : match[1]);
       assert.deepEqual(renderedTags(article),renderedTags(koArticle),`${locale}: ${page} complete rendered document structure`);
       assert(!/[가-힣]/u.test(translated.replaceAll('김소현','').replaceAll('채혜진','').replaceAll('디아로','').replaceAll('샤디','')), `${locale}: no untranslated legal paragraphs`);
@@ -113,7 +113,7 @@ test('translations preserve UI shape, source FAQ identity and the full legal HTM
 });
 
 test('forced query overrides route, while explicit locale URLs stay stable and aliases use saved/browser language', async () => {
-  const html = await read('dist/index.html');
+  const html = await read('dist/shardee/index.html');
   const script = html.match(/<script\b[^>]*id="locale-routing"[^>]*>([\s\S]*?)<\/script>/)[1];
   const run = ({url=`https://site.test${basePath}/`,locale,page='home',languages=['ko'],saved,denied=false}) => {
     const stored = new Map(saved ? [['shardee-locale',saved]] : []);

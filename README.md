@@ -34,7 +34,7 @@ npm run preview
 
 ## Cloudflare Workers — diaro.app/shardee
 
-공개 주소는 `https://diaro.app/shardee/`입니다. 사이트의 URL 접두어는 `deployment.config.mjs`의 `basePath`와 `wrangler.jsonc`의 `assets.base_path`에 `/shardee`로 설정되어 있습니다. Astro는 파일을 `dist/` 루트에 생성하고 Workers가 이를 `/shardee`에 연결합니다. `dist/shardee/` 폴더를 따로 만들지 않습니다.
+공개 주소는 `https://diaro.app/shardee/`입니다. 사이트의 URL 접두어는 `deployment.config.mjs`의 `basePath`에 `/shardee`로 설정되어 있습니다. Astro가 생성한 파일을 `scripts/prepare-worker.mjs`가 `dist/shardee/`에 배치하고, Workers는 `dist/`를 정적 파일 루트로 제공합니다. `_headers`와 `_redirects`는 Workers가 읽을 수 있도록 `dist/` 루트에 유지합니다. 계정에 따라 활성화되지 않은 `assets.base_path` 기능은 사용하지 않습니다.
 
 Cloudflare Git 연동 빌드 설정:
 
@@ -56,7 +56,7 @@ npm run preview:worker -- --port 8787
 
 `preview:worker`는 빌드된 정적 파일을 로컬 Workers 런타임에서 실행합니다. 출력된 localhost 주소의 `/shardee/`로 접속하세요. 서버를 켠 상태에서 다른 터미널의 `npm run test:worker`로 HTTP 검증을 실행할 수 있습니다. 서버가 반환하는 301, 404, 캐시 헤더까지 검사할 수 있습니다.
 
-Wrangler는 `4.155.0`으로 고정되어 있습니다. `assets.base_path`는 4.148.0 이상이 필요합니다. `wrangler.jsonc`는 `diaro.app`을 이 Worker의 Custom Domain으로 연결합니다. 정적 파일은 `/shardee/`에서만 제공하고, `/shardee`는 `/shardee/`로 301 리디렉션합니다. `/shardee-other`와 도메인의 다른 경로는 404를 반환합니다. 기존 `www.diaro.app`의 DNS 연결은 별개입니다. Worker 이름은 Cloudflare 프로젝트 이름 `shardee-landing`과 같아야 합니다.
+Wrangler는 `4.155.0`으로 고정되어 있습니다. `wrangler.jsonc`는 `diaro.app`을 이 Worker의 Custom Domain으로 연결합니다. 정적 파일은 `/shardee/`에서만 제공하고, `/shardee`는 `/shardee/`로 301 리디렉션합니다. `/shardee-other`와 도메인의 다른 경로는 404를 반환합니다. 기존 `www.diaro.app`의 DNS 연결은 별개입니다. Worker 이름은 Cloudflare 프로젝트 이름 `shardee-landing`과 같아야 합니다.
 
 기존 Version URL 방식의 미리보기는 `npm run deploy:preview`로 생성합니다. 새 Worker Previews 방식을 이미 사용하는 프로젝트의 Preview command는 `npx wrangler preview`입니다. 기존 프로젝트를 새 방식으로 전환하는 것은 별도 작업이며 이 변경에서 자동 전환하지 않습니다. Workers 미리보기에서도 시작 경로는 `/shardee/`입니다. 검색 메타데이터는 설정된 공개 `SITE_URL`을 사용합니다.
 

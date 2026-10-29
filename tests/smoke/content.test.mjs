@@ -12,7 +12,7 @@ test('FAQ and legal pages retain all source blocks, nested answers, clauses and 
 });
 
 test('home has both stores and no excluded social interface', async () => {
-  const html = await readFile('dist/index.html','utf8');
+  const html = await readFile('dist/shardee/index.html','utf8');
   assert(html.includes('https://apps.apple.com/kr/app/id6739505769'));
   assert(decode(html).includes('https://play.google.com/store/apps/details?id=com.shardee.aos'));
   assert(!/응원 한마디|댓글|후원하기|buymeacoffee|<form\b/i.test(html));

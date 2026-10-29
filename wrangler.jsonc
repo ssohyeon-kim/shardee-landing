@@ -9,7 +9,6 @@
   ],
   "assets": {
     "directory": "./dist",
-    "base_path": "/shardee",
     "html_handling": "force-trailing-slash",
     "not_found_handling": "404-page"
   }

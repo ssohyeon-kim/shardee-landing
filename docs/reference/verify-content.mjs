@@ -29,7 +29,7 @@ export async function verifyContent() {
   const results = {};
   for (const [name, count] of [['privacy', 13], ['terms', 16]]) {
     const source = JSON.parse(await readFile(`docs/reference/${name}-source.json`, 'utf8'));
-    const page = await readFile(`dist/${name}/index.html`, 'utf8');
+    const page = await readFile(`dist/shardee/${name}/index.html`, 'utf8');
     const article = page.match(/<article\b[^>]*>([\s\S]*?)<\/article>/)?.[1];
     assert(article, `${name}: rendered document article`);
     let checked = 0;
@@ -40,7 +40,7 @@ export async function verifyContent() {
     results[name] = { clauses: count, textBlocks: checked };
   }
   const source = JSON.parse(await readFile('docs/reference/faq-source.json', 'utf8'));
-  const page = await readFile('dist/faq/index.html', 'utf8');
+  const page = await readFile('dist/shardee/faq/index.html', 'utf8');
   const questionNodes = source.blockTree.filter(([id, ...children]) => children.length && ['heading', 'headingToggle'].includes(source.blockMap[id].type));
   assert.equal(questionNodes.length, 18);
   let checked = 0;
