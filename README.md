@@ -56,7 +56,7 @@ npm run preview:worker -- --port 8787
 
 `preview:worker`는 빌드된 정적 파일을 로컬 Workers 런타임에서 실행합니다. 출력된 localhost 주소의 `/shardee/`로 접속하세요. 서버를 켠 상태에서 다른 터미널의 `npm run test:worker`로 HTTP 검증을 실행할 수 있습니다. 서버가 반환하는 301, 404, 캐시 헤더까지 검사할 수 있습니다.
 
-Wrangler는 `4.155.0`으로 고정되어 있습니다. `wrangler.jsonc`는 `diaro.app`을 이 Worker의 Custom Domain으로 연결합니다. 정적 파일은 `/shardee/`에서만 제공하고, `/shardee`는 `/shardee/`로 301 리디렉션합니다. `/shardee-other`와 도메인의 다른 경로는 404를 반환합니다. 기존 `www.diaro.app`의 DNS 연결은 별개입니다. Worker 이름은 Cloudflare 프로젝트 이름 `shardee-landing`과 같아야 합니다.
+Wrangler는 `4.155.0`으로 고정되어 있습니다. `wrangler.jsonc`는 `diaro.app`을 이 Worker의 Custom Domain으로 연결합니다. 루트 `/`는 `/shardee/ko/`로 302 리디렉션하며 쿼리 파라미터를 유지합니다. 정적 파일은 `/shardee/`에서 제공하고, `/shardee`는 `/shardee/`로 301 리디렉션합니다. `/shardee-other`와 도메인의 나머지 경로는 404를 반환합니다. 기존 `www.diaro.app`의 DNS 연결은 별개입니다. Worker 이름은 Cloudflare 프로젝트 이름 `shardee-landing`과 같아야 합니다.
 
 기존 Version URL 방식의 미리보기는 `npm run deploy:preview`로 생성합니다. 새 Worker Previews 방식을 이미 사용하는 프로젝트의 Preview command는 `npx wrangler preview`입니다. 기존 프로젝트를 새 방식으로 전환하는 것은 별도 작업이며 이 변경에서 자동 전환하지 않습니다. Workers 미리보기에서도 시작 경로는 `/shardee/`입니다. 검색 메타데이터는 설정된 공개 `SITE_URL`을 사용합니다.
 
@@ -71,7 +71,7 @@ Wrangler는 `4.155.0`으로 고정되어 있습니다. `wrangler.jsonc`는 `diar
 
 `robots.txt`는 호스트 루트에서만 검색 로봇 정책으로 적용됩니다. 기존 `https://diaro.app/robots.txt`를 관리하는 사이트에서 `Sitemap: https://diaro.app/shardee/sitemap.xml`을 추가하거나 이 사이트맵을 Search Console에 제출하세요. 이 프로젝트는 `/shardee/robots.txt`를 생성하지만 도메인 루트의 파일을 덮어쓰지 않습니다.
 
-배포 후 `/shardee`의 301, 5개 언어의 20개 공개 경로 직접 진입·새로고침, 이미지·영상, 없는 경로의 HTTP 404를 확인하세요. `404.html`을 생성하므로 SPA fallback을 사용하지 않습니다. Cloudflare Pages는 경로별 Workers Route를 직접 제공하지 않으므로 이 구성은 Workers 배포용입니다.
+배포 후 `/`의 302와 `/shardee/ko/` 도착, `/shardee`의 301, 5개 언어의 20개 공개 경로 직접 진입·새로고침, 이미지·영상, 없는 경로의 HTTP 404를 확인하세요. `404.html`을 생성하므로 SPA fallback을 사용하지 않습니다. Cloudflare Pages는 경로별 Workers Route를 직접 제공하지 않으므로 이 구성은 Workers 배포용입니다.
 
 공식 설정: [Astro base](https://docs.astro.build/en/reference/configuration-reference/#base), [Workers 하위 경로](https://developers.cloudflare.com/workers/static-assets/routing/advanced/serving-a-subdirectory/), [Workers Routes](https://developers.cloudflare.com/workers/configuration/routing/routes/).
 
